@@ -1,6 +1,4 @@
-=============================================================
-=== Jarnip: A New Bonus Merchant in the Adventurer's Mart ===
-=============================================================
+**Jarnip: A New Bonus Merchant in the Adventurer's Mart **
 
 README
 
