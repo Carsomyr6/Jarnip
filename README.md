@@ -1,4 +1,4 @@
-**Jarnip: A New Bonus Merchant in the Adventurer's Mart **
+***Jarnip: A New Bonus Merchant in the Adventurer's Mart ***
 
 MOD VERSION: 1.0   AUTHOR: RZABON   GAME: BG2, BG2EE, EET
 
@@ -11,8 +11,8 @@ When playing BG2 on Insane difficulty with SCS/Ascension installed, the game ess
 FEATURES:
 - Adds a new bonus merchant, Jarnip, to the Adventurer's Mart
 - 24 new items in total
-- Most items provide kit- and race-specific bonuses and abilities
-- Balanced to be strong in SoA and viable in ToB
+- Emphasis on kit- and race-specific bonuses and abilities
+- Balanced to be strong (fun!) in SoA and viable in ToB
 - Includes one easter-egg item with intentionally game-breaking potential
 
 INSTALLATION:
