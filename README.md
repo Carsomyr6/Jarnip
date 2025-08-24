@@ -13,7 +13,7 @@ FEATURES:
 - 24 new items in total
 - Emphasis on kit- and race-specific bonuses and abilities
 - Balanced to be strong in SoA and viable in ToB
-- Includes one easter-egg item with intentionally game-breaking potential
+- Includes one easter-egg item whose power comes at a price
 
 INSTALLATION:
 
