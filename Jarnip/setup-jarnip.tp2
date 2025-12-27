@@ -2,8 +2,7 @@ BACKUP ~Jarnip/backup~
 AUTHOR ~RZABON~
 
 BEGIN ~Jarnip: New Bonus Merchant in the Adventurers Mart~
-
-ACTION_IF GAME_IS ~bgt soa tob bg2ee eet~ THEN BEGIN
+REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) ~Must be installed on BG2, BGT, BG2EE or EET~
 
 // JARNIP'S DIALOGUE
 
@@ -14,13 +13,14 @@ COMPILE	~%MOD_FOLDER%/dialogue/JP#1.d~
 COPY ~%MOD_FOLDER%/creatures/JP#1.cre~ ~override~
 SAY NAME1 ~Jarnip~
 SAY NAME2 ~Jarnip~
-WRITE_ASCII 0x2cc ~JP#1~ #8  // dialogue
-WRITE_ASCII 0x248 ~JP#1~  #8  // override
+WRITE_ASCII 0x2cc ~JP#1~ #8  // dialogue // WRITE_ASCII DIALOG ~JP#1~ (8)
+WRITE_ASCII 0x248 ~JP#1~  #8  // override // WRITE_ASCII SCRIPT_OVERRIDE ~JP#1~ (8)
+// WRITE_ASCII DEATHVAR ~~ (32)
 
 // STORE: JARNIP'S WARES
 
 COPY ~%MOD_FOLDER%/store/JP#1.sto~ ~override~
-SAY 0xc ~Jarnip's Wares~
+SAY 0xc ~Jarnip's Wares~ // SAY STORE_NAME
 
 // SCRIPT: SPAWN JARNIP
 
@@ -241,11 +241,11 @@ SAY DESC ~The blade of this wakizashi is forged from a rippling, wave-patterned 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1 (+2 for Kensai)
-– 1/2 extra attack per round (1 for Kensai)
+â€“ Armor Class: +1 (+2 for Kensai)
+â€“ 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
-– After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
+â€“ After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
 
 THAC0: +3
 Damage: 1d8+3 (piercing)
@@ -531,6 +531,4 @@ Equipped abilities:
 â€“ Divine Casting Level: +1 (Clerics and Paladins only)
 
 Weight: 1~
-
-END
 

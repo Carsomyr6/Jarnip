@@ -7,6 +7,6 @@ END
 
 IF ~~ THEN BEGIN Offer
 SAY ~So far, the local customers have been most welcoming, and I will be staying here for some time. Would you like to take a look at my wares?~
-++ ~Let's see what you have.~ DO ~StartStore("JP#1",Protagonist)~ EXIT
+++ ~Let's see what you have.~ DO ~StartStore("JP#1",LastTalkedToBy())~ EXIT
 ++ ~No, thank you.~ EXIT
 END
