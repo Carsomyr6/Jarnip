@@ -1,4 +1,4 @@
-BACKUP ~Jarnip/backup~
+BACKUP ~weidu_external/Jarnip/backup~
 AUTHOR ~RZABON~
 VERSION ~v1.0~
 
@@ -57,7 +57,7 @@ SAY NAME1 @102 /* Jarnip */
 SAY NAME2 @102 /* Jarnip */
 WRITE_ASCII 0x2cc ~JP#1~ #8  // dialogue // WRITE_ASCII DIALOG ~JP#1~ (8)
 WRITE_ASCII 0x248 ~JP#1~  #8  // override // WRITE_ASCII SCRIPT_OVERRIDE ~JP#1~ (8)
-// WRITE_ASCII DEATHVAR ~~ (32)
+WRITE_ASCII DEATHVAR ~JP#1~ (32)
 
 // STORE: JARNIP'S WARES
 

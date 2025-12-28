@@ -7,6 +7,6 @@ END
 
 IF ~~ THEN BEGIN Offer
 SAY @1 /* So far, the local customers have been most welcoming, and I will be staying here for some time. Would you like to take a look at my wares? */
-++ @2 /* Let's see what you have. */ DO ~StartStore("JP#1",LastTalkedToBy())~ EXIT
+++ @2 /* Let's see what you have. */ DO ~StartStore("JP#1",LastTalkedToBy(Myself))~ EXIT
 ++ @3 /* No, thank you. */ EXIT
 END
