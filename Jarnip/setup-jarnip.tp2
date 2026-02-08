@@ -80,7 +80,7 @@ Equipped abilities:
 – Increases Weapon Proficiency in Longbows by 3 slots (Fighter/Mage only)
 
 Combat abilities:
-– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
+– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
 
 THAC0: +3
 Damage: 1d6+3 (piercing), +1d6 (magic)
@@ -245,7 +245,7 @@ Equipped abilities:
 � 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
-� After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
+� After activating Kai, the chance to score a critical hit increases by 5% for 10 seconds (Kensai only)
 
 THAC0: +3
 Damage: 1d8+3 (piercing)
@@ -405,8 +405,8 @@ Equipped Abilities:
 – Movement Speed improved by 2
 
 Combat Abilities:
-– Double melee range (4 ft. total)
-– On hit: 25% chance to stagger the target in place for 1 round (no save)
+– Melee range increased by 50% (3 ft. total)
+– On hit: 33% chance to stagger the target in place for 1 round (no save)
 
 THAC0: +2
 Damage: 1d10+2 (slashing or piercing, whichever is better)
@@ -483,7 +483,7 @@ STATISTICS:
 
 Equipped Abilities:
 – Move Silently and Hide In Shadows: +10%
-– Fire and Cold Resistance: +15%
+– Fire and Cold Resistance: +10%
 – Movement Speed improved by 2
 – +1 to Backstab Multiplier (Stalker only)
 
