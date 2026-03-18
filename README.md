@@ -27,5 +27,6 @@ VERSION HISTORY:
 
 March 2026  - v1.1:
 - Code improvements and error corrections. Minor item balance changes.
+
 August 2025 - v1.0:
 - Initial release
