@@ -21,7 +21,7 @@ Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and ru
 
 DISCLAIMERS
 
-This is my first mod. Although I tested it thoroughly, it is likely that certain things will not work as intended. All feedback and suggestions are greatly appreciated. Special thanks to the Gibberlings3 community, CamDawg, Lava, and Acifer for inspiring me to create this mod.
+This is my first mod. Although I tested it thoroughly, it is likely that certain things will not work as intended. All feedback and suggestions are greatly appreciated. I want to thank the Gibberlings3 community, CamDawg, Lava, and Acifer for inspiring me to create this mod. Special thanks to 11jo for correcting errors of the mod's first version.
 
 VERSION HISTORY:
 
