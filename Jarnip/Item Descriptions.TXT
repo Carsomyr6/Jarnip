@@ -233,7 +233,7 @@ Equipped abilities:
 – 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
-– After activating Kai, the chance to score a critical hit increases by 5% for 10 seconds (Kensai only)
+– After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
 
 THAC0: +3
 Damage: 1d8+3 (piercing)
@@ -381,7 +381,7 @@ STATISTICS:
 
 Equipped Abilities:
 – +5% Resistance to Slashing, Piercing, and Crushing Damage
-– +10% Resistance to Fire and Cold Damage
+– +1 to Constitution
 – 1/2 extra attack per round (Dwarven Defender only)
 
 THAC0: +2
