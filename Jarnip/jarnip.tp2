@@ -80,8 +80,8 @@ SAY DESC @105 /* This impressive two-handed sword originally belonged to the Tri
 STATISTICS:
 
 Equipped Abilities:
-â€“ +20% Resistance to Physical Damage
-â€“ +10% to Maximum Hit Points (+20% for Barbarians)
+- +20% Resistance to Physical Damage
+- +10% to Maximum Hit Points (+20% for Barbarians)
 
 THAC0: +3
 Damage: 1d12+3, +1 cold
@@ -102,8 +102,8 @@ SAY DESC @107 /* This may well be the most extravagant suit of armor ever forged
 STATISTICS:
 
 Equipped abilities:
-â€“ +10% Resistance to Physical Damage
-â€“ +2 to Charisma
+- +10% Resistance to Physical Damage
+- +2 to Charisma
 
 Armor Class: -4 (-8 vs. slashing, -7 vs. piercing and missile)
 Requires:
@@ -119,10 +119,10 @@ SAY DESC @109 /* This longbow is the pinnacle of Elven craftsmanship. It once be
 STATISTICS:
 
 Equipped abilities:
-â€“ Increases Weapon Proficiency in Longbows by 3 slots (Fighter/Mage only)
+- Increases Weapon Proficiency in Longbows by 3 slots (Fighter/Mage only)
 
 Combat abilities:
-â€“ When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
+- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
 
 THAC0: +3
 Damage: 1d6+3 (piercing), +1d6 (magic)
@@ -143,8 +143,8 @@ SAY DESC @111 /* Moonblades are magical longswords that were forged in ancient M
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: +1
-â€“ Spell Casting Speed Improved by 2
+- Armor Class: +1
+- Spell Casting Speed Improved by 2
 
 THAC0: +3
 Damage: 1d8+3 (slashing), +1 (magic)
@@ -166,11 +166,11 @@ STATISTICS:
 
 Equipped Abilities:
 
-â€“ THAC0 and Damage: +1
-â€“ Weapon Speed Factor: +2
-â€“ Visual Range: +3
-â€“ 1/2 extra attack per round (Rangers only)
-â€“ Protects against critical hits
+- THAC0 and Damage: +1
+- Weapon Speed Factor: +2
+- Visual Range: +3
+- 1/2 extra attack per round (Rangers only)
+- Protects against critical hits
 
 Weight: 2 */
 
@@ -182,11 +182,11 @@ SAY DESC @115 /* The rapier is a light, thrusting sword often associated with no
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: +2
-â€“ Critical Hit Chance: +5% (+10% for Swashbucklers)
+- Armor Class: +2
+- Critical Hit Chance: +5% (+10% for Swashbucklers)
 
 Combat Abilities:
-â€“ Each hit improves the wielder's Armor Class by 1 for 4 rounds
+- Each hit improves the wielder's Armor Class by 1 for 4 rounds
 
 THAC0: +2
 Damage: 1d6+2 (piercing)
@@ -207,9 +207,9 @@ SAY DESC @117 /* This plush bear once belonged to Herbert Schwarz, a renowned Wa
 STATISTICS:
 
 Equipped abilities:
-â€“ 1 extra attack per round
-â€“ THAC0: +1 (+2 for Swashbucklers)
-â€“ Luck: +1  (Swashbuckler only)
+- 1 extra attack per round
+- THAC0: +1 (+2 for Swashbucklers)
+- Luck: +1  (Swashbuckler only)
 
 Weight: 1 */
 
@@ -221,11 +221,11 @@ SAY DESC @119 /* This obsidian spear is adorned with the symbol of Talos, the St
 STATISTICS:
 
 Equipped Abilities:
-â€“ Electricity Damage: +20% bonus
+- Electricity Damage: +20% bonus
 
 Combat Abilities:
-â€“ 25% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
-â€“ Changes local weather to thunderstorm while in combat
+- 25% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
+- Changes local weather to thunderstorm while in combat
 
 THAC0: +3
 Damage: 1d8+3 (piercing), +1 (electrical)
@@ -246,10 +246,10 @@ SAY DESC @121 /* The Way of the Drunken Master is a monastic tradition that teac
 STATISTICS:
 
 Equipped Abilities:
-â€“ Armor Class: +3
-â€“ THAC0 and Damage: +2 when attacking with fists
-â€“ Protects against critical hits
-â€“ The wearer is under a permanent state of alcohol intoxication. It has no negative impact on Luck or Saving Throws.
+- Armor Class: +3
+- THAC0 and Damage: +2 when attacking with fists
+- Protects against critical hits
+- The wearer is under a permanent state of alcohol intoxication. It has no negative impact on Luck or Saving Throws.
 
 Weight: 3 */
 
@@ -261,8 +261,8 @@ SAY DESC @123 /* According to legends, Judicator was forged by archons of Mount 
 STATISTICS:
 
 Combat Abilities:
-â€“ On each hit, the target must Save vs. Spell or become blinded for 1 round
-â€“ 20% chance per hit of casting Holy Smite centered on the target (affects evil only, 6d4 damage, save vs. spell for half)
+- On each hit, the target must Save vs. Spell or become blinded for 1 round
+- 20% chance per hit of casting Holy Smite centered on the target (affects evil only, 6d4 damage, save vs. spell for half)
 
 THAC0: +3
 Damage: 2d4+4 (crushing), +3 vs. evil (magic)
@@ -283,11 +283,11 @@ SAY DESC @125 /* The blade of this wakizashi is forged from a rippling, wave-pat
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: +1 (+2 for Kensai)
-â€“ 1/2 extra attack per round (1 for Kensai)
+- Armor Class: +1 (+2 for Kensai)
+- 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
-â€“ After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
+- After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
 
 THAC0: +3
 Damage: 1d8+3 (piercing)
@@ -307,8 +307,8 @@ SAY DESC @127 /* This suit of splint mail is unlike any forged from ordinary iro
 STATISTICS:
 
 Equipped abilities:
-â€“ Magic Resistance: +15% (+30% for Wizard Slayers)
-â€“ Saving Throws: +1 (+2 for Wizard Slayers)
+- Magic Resistance: +15% (+30% for Wizard Slayers)
+- Saving Throws: +1 (+2 for Wizard Slayers)
 
 Armor Class: 1 (0 vs. piercing and missile, -1 vs. crushing)
 Requires:
@@ -324,10 +324,10 @@ SAY DESC @129 /* This bare iron band was the war-helm of one of the barbarian ch
 STATISTICS:
 
 Equipped abilities:
-â€“ THAC0 and Damage: +1
-â€“ Slashing, Crushing, and Piercing Damage: +15% bonus
-â€“ Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
-â€“ Protects against critical hits
+- THAC0 and Damage: +1
+- Slashing, Crushing, and Piercing Damage: +15% bonus
+- Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
+- Protects against critical hits
 
 Weight: 1 */
 
@@ -339,11 +339,11 @@ SAY DESC @131 /* Bestial Bough is both a weapon and a memorial. It was carved fr
 STATISTICS:
 
 Equipped abilities:
-â€“ Strength: +1 (+2 for Rangers)
-â€“ Wielder regenerates 1 hit point every second (Rangers only)
+- Strength: +1 (+2 for Rangers)
+- Wielder regenerates 1 hit point every second (Rangers only)
 
 Combat abilities:
-â€“ Hit target must save vs. Wand at -2 or be stunned for 1 round (Beast Master only)
+- Hit target must save vs. Wand at -2 or be stunned for 1 round (Beast Master only)
 
 THAC0: +3
 Damage: 1d8+3 (crushing)
@@ -372,16 +372,16 @@ Once equipped, this cursed sword cannot be removed or unequipped by any known sp
 STATISTICS:
 
 Equipped abilities:
-â€“ Cursed
-â€“ Immune to Remove Curse
-â€“ Alignment changes permanently to Chaotic Evil
-â€“ Charisma set to 5
-â€“ Appearance changes: skin turns pale gray, hair becomes bone-white
+- Cursed
+- Immune to Remove Curse
+- Alignment changes permanently to Chaotic Evil
+- Charisma set to 5
+- Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-â€“ Body Wither: each turn the wielder must Save vs. Death (â€“5 penalty) or lose 1 Constitution and suffer 1d10 magic damage
-â€“ Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
-â€“ Blood Lust: Each successful hit heals the wielder for 2d4 damage and grants 1/2 extra attack per round for one turn. Killing an enemy restores 4d6 Hit Points, all lost Constitution, and increases Strength by 1 (maximum 25) for 10 minutes
+- Body Wither: each turn the wielder must Save vs. Death (-5 penalty) or lose 1 Constitution and suffer 1d10 magic damage
+- Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
+- Blood Lust: Each successful hit heals the wielder for 2d4 damage and grants 1/2 extra attack per round for one turn. Killing an enemy restores 4d6 Hit Points, all lost Constitution, and increases Strength by 1 (maximum 25) for 10 minutes
 
 Damage: 2d4+5 (slashing), +2d4 (magic)
 THAC0: +5
@@ -401,8 +401,8 @@ SAY DESC @135 /* This heavy stone hammer once belonged to Korgunth Ironwarden, a
 STATISTICS:
 
 Equipped Abilities:
-â€“ +5% Resistance to Slashing, Piercing, and Crushing Damage
-â€“ +1 to Strength (Dwarves only)
+- +5% Resistance to Slashing, Piercing, and Crushing Damage
+- +1 to Strength (Dwarves only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra +2d4 vs. goblins, orcs, and giants
@@ -423,8 +423,8 @@ SAY DESC @137 /* This heavy stone hammer once belonged to Korgunth Ironwarden, a
 STATISTICS:
 
 Equipped Abilities:
-â€“ +5% Resistance to Slashing, Piercing, and Crushing Damage
-â€“ 1/2 extra attack per round (Dwarven Defender only)
+- +5% Resistance to Slashing, Piercing, and Crushing Damage
+- 1/2 extra attack per round (Dwarven Defender only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing)
@@ -444,11 +444,11 @@ SAY DESC @139 /* The blade of this finely decorated halberd has gold-plated edge
 STATISTICS:
 
 Equipped Abilities:
-â€“ Movement Speed improved by 2
+- Movement Speed improved by 2
 
 Combat Abilities:
-â€“ Double melee range (4 ft. total)
-â€“ On hit: 25% chance to stagger the target in place for 1 round (no save)
+- Double melee range (4 ft. total)
+- On hit: 25% chance to stagger the target in place for 1 round (no save)
 
 THAC0: +2
 Damage: 1d10+2 (slashing or piercing, whichever is better)
@@ -469,13 +469,13 @@ SAY DESC @141 /* At first glance, this blackened iron shield seems old and unrem
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: +3 (+5 against Good)
-â€“ Saving Throws: +1 (+3 against Good)
-â€“ Fire Resistance: +20%
-â€“ Cold Resistance: +20%
+- Armor Class: +3 (+5 against Good)
+- Saving Throws: +1 (+3 against Good)
+- Fire Resistance: +20%
+- Cold Resistance: +20%
 
 Combat abilities:
-â€“ Casts Doom on whoever hits the wielder: -2 penalty to Armor Class, hit and damage rolls, and all Saving Throws for 1 turn (Blackguard only)
+- Casts Doom on whoever hits the wielder: -2 penalty to Armor Class, hit and damage rolls, and all Saving Throws for 1 turn (Blackguard only)
 
 Requires:
  9 Strength */
@@ -488,8 +488,8 @@ SAY DESC @143 /* This throwing dagger was once used by a Rashemi assassin to sil
 STATISTICS:
 
 Combat abilities:
-â€“ Hit target must save vs. Death or become paralyzed for one round
-â€“ Returns to the wielder's hand when thrown
+- Hit target must save vs. Death or become paralyzed for one round
+- Returns to the wielder's hand when thrown
 
 THAC0: +1
 Damage: 1d4+1, +1d4 (acid) 
@@ -509,10 +509,10 @@ SAY DESC @145 /* A relic of the Lathanderite church, Helm of the Faithful is sai
 STATISTICS:
 
 Equipped abilities:
-â€“ Damage Resistance: +5%
-â€“ Armor Class: +1
-â€“ Saving Throws: +1
-â€“ Protects against critical hits
+- Damage Resistance: +5%
+- Armor Class: +1
+- Saving Throws: +1
+- Protects against critical hits
 
 Weight: 2 */
 
@@ -524,10 +524,10 @@ SAY DESC @147 /* This leather armor was crafted by the Wardens of the Bloodstone
 STATISTICS:
 
 Equipped Abilities:
-â€“ Move Silently and Hide In Shadows: +10%
-â€“ Fire and Cold Resistance: +15%
-â€“ Movement Speed improved by 2
-â€“ +1 to Backstab Multiplier (Stalker only)
+- Move Silently and Hide In Shadows: +10%
+- Fire and Cold Resistance: +15%
+- Movement Speed improved by 2
+- +1 to Backstab Multiplier (Stalker only)
 
 Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
 Requires:
@@ -543,11 +543,11 @@ SAY DESC @149 /* When the first settlements of the Ten Towns were established so
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: -2 Penalty
-â€“ 1/2 extra attack per round (Berserkers and Barbarians only)
+- Armor Class: -2 Penalty
+- 1/2 extra attack per round (Berserkers and Barbarians only)
 
 Combat abilities:
-â€“ Each successful hit deals extra 1d8 slashing damage to all enemies within 3 ft. in front of the wielder. Affected targets must save vs. Death or fall on the ground for 2 seconds.
+- Each successful hit deals extra 1d8 slashing damage to all enemies within 3 ft. in front of the wielder. Affected targets must save vs. Death or fall on the ground for 2 seconds.
 
 THAC0: +2
 Damage: 1d10+2 (slashing)
@@ -567,9 +567,9 @@ SAY DESC @151 /* These gauntlets are said to have been worn by Torm himself duri
 STATISTICS:
 
 Equipped abilities:
-â€“ Armor Class: +1
-â€“ Saving Throws: +1
-â€“ Spell Casting Speed Improved by 1 (Clerics and Paladins only)
-â€“ Divine Casting Level: +1 (Clerics and Paladins only)
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
 
 Weight: 1 */
