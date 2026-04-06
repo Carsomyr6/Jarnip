@@ -518,9 +518,9 @@ Equipped abilities:
 Weight: 2 */
 
 COPY ~%MOD_FOLDER%/items/JP#22.itm~ ~override~
-SAY NAME1 @146 /* Wayfarer +3 */
-SAY NAME2 @146 /* Wayfarer +3 */
-SAY DESC @147 /* This leather armor was crafted by the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support mountaineous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
+SAY NAME1 @146 /* Wayfarer +4 */
+SAY NAME2 @146 /* Wayfarer +4 */
+SAY DESC @147 /* This leather armor was crafted for the leader of the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support mountaineous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
 
 STATISTICS:
 
@@ -530,7 +530,7 @@ Equipped Abilities:
 - Movement Speed improved by 2
 - +1 to Backstab Multiplier (Stalker only)
 
-Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
+Armor Class: 3 (1 vs. slashing, 2 vs. piercing and missile)
 Requires:
  3 Strength
 
