@@ -346,7 +346,7 @@ Requires:
 
 Weight: 10
 
-Price: 1,000 gp
+Price: 50,000 gp
 
 =========
 
