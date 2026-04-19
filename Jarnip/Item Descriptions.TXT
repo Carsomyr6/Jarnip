@@ -292,7 +292,7 @@ STATISTICS:
 
 Equipped abilities:
 – Strength: +1 (+2 for Rangers)
-– Wielder regenerates 1 hit point every second (Rangers only)
+– Protection from Animals (Rangers only)
 
 Combat abilities:
 – Hit target must save vs. Wand at -2 or be stunned for 1 round (Beast Master only)
