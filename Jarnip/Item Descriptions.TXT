@@ -119,7 +119,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +2
-– Critical Hit Chance: +5% (Swashbucklers only)
+– Critical Hit Chance: +5% (+10% for Swashbucklers)
 
 Combat Abilities:
 – Each hit improves the wielder's Armor Class by 1 for 4 rounds
