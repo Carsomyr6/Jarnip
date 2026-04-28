@@ -293,7 +293,7 @@ Equipped abilities:
 - When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to damage. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 damage bonus and +2 bonus to THAC0. (Fighter only)
 
 Combat abilities:
-- 20% chance on hit to grant the wielder +1 bonus to damage for 1 turn
+- 20% chance on hit to grant the wielder +2 bonus to damage for 1 turn
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
