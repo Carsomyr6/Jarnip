@@ -285,7 +285,7 @@ Price: 12,000 gp
 =========
 
 Veteran's Broadsword +2
-The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and enchanted to answer the resolve of its wielder.
+The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and said to answer the resolve of its wielder.
 
 STATISTICS: 
 
