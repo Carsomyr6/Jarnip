@@ -25,22 +25,22 @@ Price: 30,000 gp
 
 ========
 
-Gilded Bulwark +5
+Gilded Bulwark +4
 This may well be the most extravagant suit of armor ever forged in the Realms. It was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was shortly after slain by a gibberling. Though it reeks of vanity, this armor offers unmatched protection, provided its new owner has the strength to wear it.
 
 STATISTICS:
 
 Equipped abilities:
-– +10% Resistance to Physical Damage
-– +2 to Charisma
+- +10% Resistance to Physical Damage
+- +2 to Charisma
 
-Armor Class: -4 (-8 vs. slashing, -7 vs. piercing and missile)
+Armor Class: -3 (-7 vs. slashing, -6 vs. piercing and missile)
 Requires:
  20 Strength
 
 Weight: 120
 
-Price: 80,000 gp
+Price: 60,000 gp
 
 ========
 
@@ -122,7 +122,7 @@ Equipped abilities:
 – Critical Hit Chance: +10% (Swashbuckler only)
 
 Combat Abilities:
-– Each hit improves the wielder's Armor Class by 1 for 4 rounds
+– Each hit improves the wielder's Armor Class by 1 for 3 rounds
 
 THAC0: +2
 Damage: 1d6+2 (piercing)
@@ -229,7 +229,6 @@ The blade of this wakizashi is forged from a rippling, wave-patterned steel. It 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1 (+2 for Kensai)
 – 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
@@ -285,30 +284,28 @@ Price: 12,000 gp
 
 =========
 
-Bestial Bough +3
-Bestial Bough is both a weapon and a memorial. It was carved from the wooden remains of a treant elder who fell while defending Ashenwood from invading Thayan mercenaries. Since then, it has been passed down to the Rashemi rangers who protect the sacred grove and its forest spirits. When wielded by someone who has taken the Ranger's oath, its blessing grants truly bestial strength and ferocity.
+Veteran's Broadsword +2
+The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and enchanted to answer the resolve of its wielder.
 
-STATISTICS:
+STATISTICS: 
 
 Equipped abilities:
-– Strength: +1 (+2 for Rangers)
-– Protection from Animals (Rangers only)
+- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to damage. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 damage bonus and +2 bonus to THAC0. (Fighter only)
 
 Combat abilities:
-– Hit target must save vs. Wand at -2 or be stunned for 1 round (Beast Master only)
+- 20% chance on hit to grant the wielder +1 bonus to damage for 1 turn
 
-THAC0: +3
-Damage: 1d8+3 (crushing)
-Speed Factor: 1
-Proficiency Type: Quarterstaff
-Type: Two-handed
+THAC0: +2
+Damage: 2d4+2 (slashing)
+Speed Factor: 5
+Proficiency Type: Bastard Sword
+Type: One-handed
 Requires:
- 10 Strength
- 11 Wisdom
+ 11 Strength
 
-Weight: 4
+Weight: 7
 
-Price: 16,000 gp
+Price: 8,000 gp
 
 ==========
 
@@ -332,7 +329,7 @@ Equipped abilities:
 – Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-– Body Wither: each turn the wielder must Save vs. Death (–5 penalty) or lose 1 Constitution
+– Body Wither: each turn the wielder must Save vs. Death (–5 penalty)
 – Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
 – Blood Lust: Each successful hit heals the wielder for 2d4 damage and grants 1/2 extra attack per round for one turn. Killing an enemy restores 4d6 Hit Points, all lost Constitution, and increases Strength by 1 (maximum 25) for 10 minutes
 
@@ -496,9 +493,7 @@ Equipped Abilities:
 – Move Silently and Hide In Shadows: +10%
 – Fire and Cold Resistance: +10%
 – Movement Speed improved by 2
-- +4 Armor Class against Missiles (Archer only)
-- +1 to Backstab Multiplier (Stalker only)
-- +1 to Strength (Beast Master only)
+– Upon a successful Backstab, the target must Save vs. Death at -4 or suffer a -4 penalty to Armor Class, THAC0, and Movement Rate for 2 rounds (Stalker only)
 
 Armor Class: 3 (1 vs. slashing, 2 vs. piercing and missile)
 Requires:
