@@ -333,7 +333,7 @@ Weight: 1 */
 COPY ~%MOD_FOLDER%/items/JP#14.itm~ ~override~
 SAY NAME1 @130 /* Veteran's Broadsword +2 */
 SAY NAME2 @130 /* Veteran's Broadsword +2 */
-SAY DESC @131 /* The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and enchanted to answer the resolve of its wielder.
+SAY DESC @131 /* The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and said to answer the resolve of its wielder.
 
 STATISTICS: 
 
