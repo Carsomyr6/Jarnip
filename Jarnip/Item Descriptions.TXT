@@ -290,10 +290,10 @@ The blade of this sword is plain and unremarkable, forged from dark, unpolished 
 STATISTICS: 
 
 Equipped abilities:
-- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to damage. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 damage bonus and +2 bonus to THAC0. (Fighter only)
+- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and +2 bonus to damage (Fighter only)
 
 Combat abilities:
-- 20% chance on hit to grant the wielder +2 bonus to damage for 1 turn
+- 20% chance on hit to grant the wielder +2 bonus to damage for 5 rounds
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
@@ -428,13 +428,13 @@ At first glance, this blackened iron shield seems old and unremarkable. However,
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +3 (+5 against Good)
-– Saving Throws: +1 (+3 against Good)
-– Fire Resistance: +20%
-– Cold Resistance: +20%
+– Armor Class: +3 (+5 for Blackguards)
+– Saving Throws: +1 (+3 for Blackguards)
+– Fire Resistance: +10%
+– Cold Resistance: +10%
 
 Combat abilities:
-– Casts Doom on whoever hits the wielder: -2 penalty to Armor Class, hit and damage rolls, and all Saving Throws for 1 turn (Blackguard only)
+– Casts Doom on whoever hits the wielder: -2 penalty to THAC0 and Saving Throws for 1 turn
 
 Requires:
  9 Strength
