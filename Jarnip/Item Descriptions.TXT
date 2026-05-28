@@ -284,13 +284,13 @@ Price: 12,000 gp
 
 =========
 
-Veteran's Broadsword +2
-The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is well balanced and said to answer the resolve of its wielder.
+Iron Resolve +2
+The blade of this sword is plain and unremarkable, forged from dark, unpolished iron. Its worn grip and nicked blade suggest that it has seen countless battles. Though lacking ornament, the sword is exceptionally well balanced and is said to answer to the resolve of its wielder.
 
 STATISTICS: 
 
 Equipped abilities:
-- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and +2 bonus to damage (Fighter only)
+- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance (Fighter only)
 
 Combat abilities:
 - 20% chance on hit to grant the wielder +2 bonus to damage for 5 rounds
