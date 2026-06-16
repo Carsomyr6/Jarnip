@@ -167,8 +167,8 @@ STATISTICS:
 Equipped Abilities:
 
 - THAC0 and Damage: +1
-- Weapon Speed Factor: +2
-- Visual Range: +3
+- Weapon Speed Factor: +1
+- Visual Range: +2
 - 1/2 extra attack per round (Rangers only)
 - Protects against critical hits
 
@@ -183,7 +183,8 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +2
-- Critical Hit Chance: +10% (Swashbuckler only)
+- Critical Hit Chance: +5% (Swashbuckler and Blade only)
+- Luck: +1 (Swashbuckler only)
 
 Combat Abilities:
 - Each hit improves the wielder's Armor Class by 1 for 3 rounds
@@ -341,7 +342,7 @@ Equipped abilities:
 - When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance (Fighter only)
 
 Combat abilities:
-- 20% chance on hit to grant the wielder +2 bonus to damage for 5 rounds
+- 25% chance on hit to grant the wielder +1 bonus to damage for 1 turn
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
@@ -446,7 +447,7 @@ Equipped Abilities:
 
 Combat Abilities:
 - Melee range increased by 50% (3 ft. total)
-- On hit: 33% chance to stagger the target in place for 1 round (no save)
+- On hit: 33% chance to stagger the target in place for 1 round and deal 1d6 piercing damage (no save)
 
 THAC0: +2
 Damage: 1d10+2 (slashing or piercing, whichever is better)
@@ -525,7 +526,7 @@ Equipped Abilities:
 – Move Silently and Hide In Shadows: +10%
 – Fire and Cold Resistance: +10%
 – Movement Speed improved by 2
-– Upon a successful Backstab, the target must Save vs. Death at -4 or suffer a -4 penalty to Armor Class, THAC0, and Movement Rate for 2 rounds (Stalker only)
+– Backstab Multiplier: +1 (Stalkers only)
 
 Armor Class: 3 (1 vs. slashing, 2 vs. piercing and missile)
 Requires:
@@ -545,7 +546,7 @@ Equipped abilities:
 - 1/2 extra attack per round (Berserkers and Barbarians only)
 
 Combat abilities:
-- Each successful hit deals extra 1d8 slashing damage to all enemies within 3 ft. in front of the wielder. Affected targets must save vs. Death or fall on the ground for 2 seconds.
+- Each successful hit deals extra 1d8 slashing damage to all enemies within 3 ft. in front of the wielder. Affected targets must save vs. Death or fall on the ground for 1 round.
 
 THAC0: +2
 Damage: 1d12+2 (slashing)
