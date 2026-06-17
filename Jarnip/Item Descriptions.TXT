@@ -140,19 +140,22 @@ Price: 12,000 gp
 
 ========
 
-Herbert's Plush Bear
-This plush bear once belonged to Herbert Schwarz, a renowned Waterdhavian duelist who famously won twenty-one duels against heavily armored knights without ever wearing armor himself. Reportedly, Herbert always held this plush toy under his left arm instead of a buckler, claiming that it brings him luck during battles.
+Spell Bane +2
+This beautifully decorated shield is forged from blue steel and adorned with runes. According to legend, it was forged for a Rashemi warrior from Mulsantir who pledged to purge The Unapproachable East of the Red Wizards some hundred years ago. The shield is said to possess a blessing that thwarts attempts to dispel or break magic, reflecting such spells back onto those who cast them. More than one arrogant Red Wizard has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spell Bane.
 
 STATISTICS:
 
 Equipped abilities:
-– 1 extra attack per round
-– THAC0: +1 (+2 for Swashbucklers)
-– Luck: +1 (Swashbuckler only)
+– Armor Class: +3
+– Magic Resistance: +10% (+20% for Wizard Slayer and Inquisitor)
+– Reflects all Dispel Magic and Remove Magic effects back at their caster (Wizard Slayer and Inquisitor only)
 
-Weight: 1
+Requires:
+ 4 Strength
 
-Price: 16,000 gp
+Weight: 3
+
+Price: 18,000 gp
 
 ========
 
