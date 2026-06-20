@@ -25,20 +25,21 @@ Price: 30,000 gp
 
 ========
 
-Gilded Bulwark +4
+Gilded Bulwark +2
 This may well be the most extravagant suit of armor ever forged in the Realms. It was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was shortly after slain by a gibberling. Though it reeks of vanity, this armor offers unmatched protection, provided its new owner has the strength to wear it.
 
 STATISTICS:
 
 Equipped abilities:
 - +10% Resistance to Physical Damage
-- +2 to Charisma
+- +20% Resistance to Fire and Acid (Cavalier only)
+- +1 to Charisma (+2 for Cavalier)
 
-Armor Class: -3 (-7 vs. slashing, -6 vs. piercing and missile)
+Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavaliers)
 Requires:
- 20 Strength
+ 18 Strength
 
-Weight: 120
+Weight: 100
 
 Price: 60,000 gp
 
