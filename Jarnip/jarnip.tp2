@@ -102,11 +102,10 @@ SAY DESC @107 /* This may well be the most extravagant suit of armor ever forged
 STATISTICS:
 
 Equipped abilities:
-- +10% Resistance to Physical Damage
-- +20% Resistance to Fire and Acid (Cavalier only)
+- +10% Resistance to Physical Damage (+20% for Cavalier)
 - +1 to Charisma (+2 for Cavalier)
 
-Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavaliers)
+Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavalier)
 Requires:
  18 Strength
 
