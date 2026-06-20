@@ -171,7 +171,7 @@ Equipped Abilities:
 – Electricity Damage: +20% bonus
 
 Combat Abilities:
-– 25% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
+– 20% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
 – Changes local weather to thunderstorm while in combat
 
 THAC0: +3
@@ -213,7 +213,7 @@ STATISTICS:
 
 Combat Abilities:
 – On each hit, the target must Save vs. Spell or become blinded for 1 round
-– 20% chance per hit of casting Holy Smite centered on the target (affects evil only, 6d4 damage, save vs. spell for half)
+– 15% chance per hit of casting Holy Smite centered on the target (affects evil only, 6d4 damage, save vs. spell for half)
 
 THAC0: +3
 Damage: 2d4+4 (crushing), +3 vs. evil (magic)
