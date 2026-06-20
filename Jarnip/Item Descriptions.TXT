@@ -144,7 +144,7 @@ Price: 12,000 gp
 ========
 
 Spell Bane +2
-This beautifully decorated shield is forged from blue steel and adorned with runes. According to legend, it was forged for a Rashemi warrior from Mulsantir who pledged to purge The Unapproachable East of the Red Wizards some hundred years ago. The shield is said to possess a blessing that thwarts attempts to dispel or break magic, reflecting such spells back onto those who cast them. More than one arrogant Red Wizard has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spell Bane.
+This beautifully decorated shield is forged from blue steel and adorned with runes. According to legend, it was forged for a Rashemi warrior from Mulsantir who pledged to purge The Unapproachable East of the Red Wizards some hundred years ago. The shield is said to possess a blessing that thwarts attempts to dispel or remove magic, reflecting such spells back onto those who cast them. More than one arrogant Red Wizard has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spell Bane.
 
 STATISTICS:
 
