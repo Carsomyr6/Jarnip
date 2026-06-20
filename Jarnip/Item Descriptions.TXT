@@ -45,15 +45,18 @@ Price: 60,000 gp
 ========
 
 Elaine +3
-This longbow is the pinnacle of Elven craftsmanship. It once belonged to a legendary Arcane Archer named Elaine, who fell defending the Elven city of Askavar over a thousand years ago. According to legend, Elaineâ€™s soul still resides within the bow, empowering its arrows with magical energy. However, only individuals of Elven heritage can utilize its magical capabilities.
+This longbow is the pinnacle of Elven craftsmanship. It once belonged to a legendary Arcane Archer named Elaine, who fell defending the Elven city of Askavar over a thousand years ago. According to legend, Elaine's soul still resides within the bow, empowering its arrows with magical energy.
 
 STATISTICS:
 
 Equipped abilities:
-– Increases Weapon Proficiency in Longbows by 3 slots (Fighter/Mage only)
+- Increases Weapon Proficiency in Longbows by 1 slot for each of the following:
+Fighter/Mage
+Elf or Half-Elf
+Good Alignment
 
 Combat abilities:
-– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
+- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
 
 THAC0: +3
 Damage: 1d6+3 (piercing), +1d6 (magic)
