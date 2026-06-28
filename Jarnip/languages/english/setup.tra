@@ -221,7 +221,7 @@ Weight: 50~
 STATISTICS:
 
 Equipped abilities:
-- Melee THAC0 and Damage: +1
+- THAC0 and Damage: +1
 - Slashing, Crushing, and Piercing Damage: +15% bonus
 - Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
 - Protects against critical hits
