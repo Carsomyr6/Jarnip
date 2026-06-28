@@ -190,7 +190,7 @@ Price: 25,000 gp
 ========
 
 Circlet of the Drunken Master
-The Way of the Drunken Master is a monastic tradition that teaches its practitioners to relinquish control over their bodies and become one with alcoholic beverages. While their clumsy and silly fighting style may appear unskilled, it actually conceals exceptionally precise movements that almost always catch opponents off guard. The followers of the Way of the Drunken Master spend most of their time in taverns, yet this magical circlet puts its wearer in a blissful state of alcoholic intoxication without any of the usual downsides.
+The Way of the Drunken Master is a monastic tradition that teaches its practitioners to relinquish control over their bodies and become one with alcoholic beverages. While their clumsy fighting style may appear unskilled, it actually conceals exceptionally precise movements that almost always catch opponents off guard. The followers of the Way of the Drunken Master spend most of their time in taverns, yet this magical circlet puts its wearer in a blissful state of alcoholic intoxication without any of the usual downsides.
 
 STATISTICS:
 
