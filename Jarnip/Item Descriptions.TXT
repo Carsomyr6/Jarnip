@@ -230,28 +230,28 @@ Price: 30,000 gp
 
 ========
 
-Kensai's Arm +3
-The blade of this wakizashi is forged from a rippling, wave-patterned steel. It is so sharp that it can slice through a single strand of hair. Crafting a weapon of this quality clearly required meticulous effort and time, but its true power lies in the soul of the Kensai bound within. If the spirit senses that the wielder also follows the path of the Sword Saint, it awakens and helps to guide their arm.
+Kensai's Arm +2
+The blade of this katana is forged from a rippling, wave-patterned steel. It is so sharp that it can slice through a single strand of hair. Crafting a weapon of this quality clearly required meticulous effort and time, but its true power lies in the soul of the Kensai bound within. If the spirit senses that the wielder also follows the path of the Sword Saint, it awakens and helps to guide their arm.
 
 STATISTICS:
 
 Equipped abilities:
-– 1/2 extra attack per round (1 for Kensai)
+- 1/2 extra attack per round (1 for Kensai)
 
 Combat Abilities:
-– After activating Kai, the chance to score a critical hit increases by 10% for 10 seconds (Kensai only)
+- For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai only)
 
-THAC0: +3
-Damage: 1d8+3 (piercing)
-Speed Factor: 0
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+THAC0: +2
+Damage: 1d10+2 (slashing)
+Speed Factor: 2
+Proficiency Type: Katana
 Type: One-handed
 Requires:
- 5 Strength
+ 6 Strength
 
-Weight: 2
+Weight: 5
 
-Price: 22,000 gp
+Price: 12,500 gp
 
 ========
 
@@ -280,7 +280,7 @@ This bare iron band was the war-helm of one of the barbarian chieftains from the
 STATISTICS:
 
 Equipped abilities:
-– THAC0 and Damage: +1
+– Melee THAC0 and Damage: +1
 – Slashing, Crushing, and Piercing Damage: +15% bonus
 – Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
 – Protects against critical hits
