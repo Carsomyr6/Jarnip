@@ -486,32 +486,19 @@ Requires:
  9 Strength */
  
 COPY ~%MOD_FOLDER%/items/JP#20.itm~ ~override~
-SAY NAME1 @142 /* Eiran's Voice +3 */
-SAY NAME2 @142 /* Eiran's Voice +3 */
-SAY DESC @143 /* Eiran was a skald from Neverwinter who joined the ranks of the Neverwinter Nine during one of its wars with Luskan. Rather than commanding from the rear, he fought the Luskan invaders alongide the city's troops, hurling his enchanted axe while singing heroic tales. The weapon became bound to his voice, and its magic only responds to those trained in the bardic arts.
+SAY NAME1 @142 /* Freeblade's Mantle */
+SAY NAME2 @142 /* Freeblade's Mantle */
+SAY DESC @143 /* Ralen the Freeblade was a notorious halfling duelist and wanderer whose adventures along the Sword Coast left behind as many broken limbs as stolen purses. It is said that nearly every inn between Baldur's Gate and Athkatla eventually displayed a notice declaring that the halfling was no longer a welcome guest. Whether he departed of his own accord or merely sought more establishments to offend, the tales claim he eventually wandered east in search of new adventures.
 
 STATISTICS:
 
 Equipped abilities:
-– Dexterity: +1 (+2 for Skald)
-– Armor Class: +1 (+2 for Skald)
+- Armor Class: +1
+- Melee THAC0: +1 (+2 for Swashbuckler and Blade) 
+- Melee Critical Hit chance: +5% (Swashbuckler and Blade only)
+– Pick Pockets: +20%
 
-Combat abilities:
-– Melee: target must Save vs. Spell or suffer 1d6+3 cold damage and receive -2 Armor Class penalty for 1 turn
-– Thrown: target must Save vs. Spell or suffer 1d6+3 cold damage and become deafened for 1 turn
-– Returns to the wielder's hand when thrown
-
-THAC0: +3 
-Damage: 1d6+4 
-Damage type (melee): Slashing
-Damage type (thrown): Missile
-Speed Factor: 1 
-Proficiency Type: Axe
-Type: One-handed
-Requires:
- 4 Strength
-
-Weight: 3 */
+Weight: 2 */
 
 COPY ~%MOD_FOLDER%/items/JP#21.itm~ ~override~
 SAY NAME1 @144 /* Helm of the Faithful */
