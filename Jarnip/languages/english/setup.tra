@@ -358,13 +358,13 @@ Combat abilities:
 Requires:
  9 Strength~
 @142  = ~Freeblade's Mantle~
-@143  = ~Ralen the Freeblade was a notorious halfling duelist and wanderer whose adventures along the Sword Coast left behind as many broken limbs as stolen purses. It is said that nearly every inn between Baldur's Gate and Athkatla eventually displayed a notice declaring that the halfling was no longer a welcome guest. Whether he departed of his own accord or merely sought more establishments to offend, the tales claim he eventually wandered east in search of new adventures.
+@143  = ~Kalen the Freeblade was a notorious halfling duelist and wanderer whose adventures along the Sword Coast left behind as many broken noses as stolen purses. It is said that nearly every inn between Baldur's Gate and Athkatla eventually displayed a notice declaring that the halfling was no longer a welcome guest. Whether he departed on his own or was driven by a coalition of organized innkeepers, the tales claim he eventually wandered east in search of new adventures.
 
 STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Melee THAC0: +1 (+2 for Swashbuckler and Blade) 
+- Melee THAC0: +1
 - Melee Critical Hit chance: +5% (Swashbuckler and Blade only)
 – Pick Pockets: +20%
 
