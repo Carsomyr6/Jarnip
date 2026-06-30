@@ -484,15 +484,15 @@ Price: 20,000 gp
 =======
 
 Wayfarer +4
-This leather armor was crafted for the leader of the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support mountaineous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
+This leather armor was crafted for the leader of the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support long mountaineous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
 
 STATISTICS:
 
 Equipped Abilities:
-– Move Silently and Hide In Shadows: +10%
-– Fire and Cold Resistance: +10%
-– Movement Rate improved by 2
-– Backstab Multiplier: +1 (Stalkers only)
+- Move Silently and Hide In Shadows: +10%
+- Movement Rate improved by 2
+- Immunity to fatigue
+- Backstab Multiplier: +1 (Stalkers only)
 
 Armor Class: 3 (1 vs. slashing, 2 vs. piercing and missile)
 Requires:
