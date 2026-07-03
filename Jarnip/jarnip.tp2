@@ -169,7 +169,6 @@ STATISTICS:
 
 Equipped Abilities:
 
-- THAC0 and Damage: +1
 - Weapon Speed Factor: +1
 - Visual Range: +3
 - 1/2 extra attack per round (Stalker only)
@@ -485,17 +484,16 @@ Requires:
  9 Strength */
  
 COPY ~%MOD_FOLDER%/items/JP#20.itm~ ~override~
-SAY NAME1 @142 /* Freeblade's Mantle */
-SAY NAME2 @142 /* Freeblade's Mantle */
-SAY DESC @143 /* Kalen the Freeblade was a notorious halfling duelist and wanderer whose adventures along the Sword Coast left behind as many broken noses as stolen purses. It is said that nearly every inn between Baldur's Gate and Athkatla eventually displayed a notice declaring that the halfling was no longer a welcome guest. Whether he departed on his own or was driven by a coalition of organized innkeepers, the tales claim he eventually wandered east in search of new adventures.
+SAY NAME1 @142 /* Herbert's Black Mantle */
+SAY NAME2 @142 /* Herbert's Black Mantle */
+SAY DESC @143 /* Herbert Schwarz was a famous Waterdhavian duelist whose adventures along the Sword Coast left behind as many tavern brawls as humiliated opponents. It is said that nearly every inn between Waterdeep and Baldur's Gate eventually displayed a notice declaring that the adventurer was no longer a welcome guest. Whether he departed on his own or was driven by a coalition of organized innkeepers, the tales claim Herbert eventually wandered south in search of new adventures.
 
 STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Melee THAC0: +1
+- Melee THAC0 and damage: +1
 - Melee Critical Hit chance: +5% (Swashbuckler and Blade only)
-– Pick Pockets: +20%
 
 Weight: 2 */
 
