@@ -334,8 +334,8 @@ Equipped abilities:
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-- Body Wither: each turn the wielder must Save vs. Death (-5 penalty) or lose 1 Constitution
-- Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
+- Body Wither: every turn the wielder must Save vs. Death (-5 penalty) or lose 1 Constitution
+- Murderous Wrath: On each hit, the wielder must Save vs. Death (-2 penalty) or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
 - Blood Lust: Each successful hit heals the wielder for 2d4 damage and grants 1/2 extra attack per round for 1 round. Killing an enemy restores 3d6 Hit Points, all lost Constitution, and increases Strength by 1 (maximum 25) for 1 turn
 
 Damage: 2d4+5 (slashing), +2d4 (magic)
