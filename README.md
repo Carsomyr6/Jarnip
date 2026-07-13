@@ -11,9 +11,10 @@ When playing BG2 on Insane difficulty with SCS/Ascension installed, the game ess
 FEATURES:
 - Adds a new bonus merchant, Jarnip, to the Adventurer's Mart
 - 24 new items in total
-- Emphasis on kit- and race-specific bonuses and abilities
+- Equipment tailored to specific classes and kits
 - Balanced to be strong in SoA and viable in ToB
-- Includes one easter-egg item whose power comes at a price
+- Lore-friendly descriptions to match the atmosphere of the original game
+- Designed to fit seamlessly into a vanilla BG2 experience
 
 INSTALLATION:
 
