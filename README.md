@@ -30,7 +30,7 @@ July 2026  - v1.0.0:
 - Item balance changes. Final release.
 
 March 2026  - v0.1.1:
-- Code improvements and error corrections. Minor item balance changes.
+- Code improvements and error corrections. I am grateful to 11jo for their testing and edits.
 
 August 2025 - v0.1.0:
 - Initial release
