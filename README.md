@@ -1,6 +1,6 @@
 **Jarnip: A New Bonus Merchant in the Adventurer's Mart **
 
-MOD VERSION: v0.1.1   AUTHOR: RZABON   GAME: BG2, BG2EE, EET
+MOD VERSION: v1.0.0   AUTHOR: RZABON   GAME: BG2, BG2EE, EET
 
 INTRODUCTION:
 
