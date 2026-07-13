@@ -12,7 +12,7 @@ FEATURES:
 - Adds a new bonus merchant, Jarnip, to the Adventurer's Mart
 - 24 new items in total
 - Equipment tailored to specific classes and kits
-- Balanced to be strong in SoA and viable in ToB
+- Balanced to be comparable to late SoA equipment
 - Lore-friendly descriptions to match the atmosphere of the original game
 - Designed to fit seamlessly into a vanilla BG2 experience
 
