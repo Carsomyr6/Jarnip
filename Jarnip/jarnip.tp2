@@ -134,7 +134,7 @@ Proficiency Type: Longbow
 Type: Two-handed
 Requires:
  10 Strength
- 12 Intelligence
+ 13 Intelligence
 
 Weight: 3 */
 
@@ -155,8 +155,8 @@ Speed Factor: 2
 Proficiency Type: Longsword
 Type: One-handed
 Requires:
- 12 Strength
- 12 Intelligence
+ 10 Strength
+ 13 Intelligence
 
 Weight: 3 */
 
