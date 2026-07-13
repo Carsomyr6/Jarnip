@@ -25,6 +25,9 @@ This is my first mod. Although I tested it thoroughly, it is likely that certain
 
 VERSION HISTORY:
 
+July 2026  - v1.0.0:
+- Item balance changes. Final release.
+
 March 2026  - v0.1.1:
 - Code improvements and error corrections. Minor item balance changes.
 
