@@ -260,7 +260,7 @@ This suit of splint mail is unlike any forged from ordinary iron or steel. Each 
 STATISTICS:
 
 Equipped abilities:
-– Magic Resistance: +10% (+30% for Wizard Slayers)
+– Magic Resistance: +10% (+20% for Wizard Slayers)
 – Saving Throws: +1 (+2 for Wizard Slayers)
 
 Armor Class: 1 (0 vs. piercing and missile, -1 vs. crushing)
