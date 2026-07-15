@@ -251,7 +251,7 @@ Waterdhavian parents often tell their children the tale of Bloodlust: a cursed b
 
 The crimson blade is covered in bloodmarks, suggesting it is hundreds of years old. If the legends are true, it has caused the death of thousands, and countless innocents have fallen victim to its malevolent influence. The origins of Bloodlust are unclear, but it is evident that it was created for one purpose: to kill without end and unleash carnage across the Realms. 
 
-The curse of this sword permanently marks the wielder: their hair turns white and begins to fall out, while their skin becomes ghastly and riddled with blisters. Over time, they lose physical fortitude and wither from within, inevitably leading to death. The only way to alleviate this affliction is through satiating the blade's desire for bloodshed, yet the curse itself may never be lifted. 
+The curse of this sword permanently marks the wielder: their hair turns white and begins to fall out, while their skin becomes ghastly and riddled with blisters. Over time, they lose physical fortitude and wither from within. The only way to alleviate this affliction is through satiating the blade's desire for bloodshed, yet the curse itself may never be lifted.
 
 Once equipped, this cursed sword cannot be removed or unequipped by any known spell or ritual. The wielder has no choice but to obey and continue the slaughter. Only death can grant freedom from its curse.
 
@@ -260,13 +260,14 @@ STATISTICS:
 Equipped abilities:
 - Cursed
 - Immune to Remove Curse
-- Charisma set to 5
+- Charisma: -5 penalty
+- Constitution: -2 penalty
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-- Body Wither: every turn the wielder must Save vs. Death (-5 penalty) or lose 1 Constitution
 - Murderous Wrath: On each hit, the wielder must Save vs. Death (-2 penalty) or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
-- Blood Lust: Each successful hit grants 1/2 extra attack per round for 1 round. Killing an enemy restores 4d6 Hit Points, all lost Constitution, and increases Strength by 1 (maximum 25) for 1 turn
+- Dread Hunger: On each hit, the target must Save vs. Death or receive extra 5 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
+- Blood Lust: Killing an enemy restores 4d6 Hit Points, increases Strength and Constitution by 1, and grants 1/2 extra attack per round for 1 turn
 
 Damage: 2d4+5 (slashing)
 THAC0: +5
