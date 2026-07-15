@@ -265,9 +265,9 @@ Equipped abilities:
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-- Murderous Wrath: On each hit, the wielder must Save vs. Death (-2 penalty) or go berserk for 2 rounds. When berserk, the movement rate is doubled and slashing damage is increased by 30%
+- Murderous Wrath: On each hit, the wielder must Save vs. Death (-2 penalty) or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
 - Dread Hunger: On each hit, the target must Save vs. Death or receive extra 5 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
-- Blood Lust: Killing an enemy restores 4d6 Hit Points, increases Strength and Constitution by 1, and grants 1/2 extra attack per round for 1 turn
+- Blood Lust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
 
 Damage: 2d4+5 (slashing)
 THAC0: +5
