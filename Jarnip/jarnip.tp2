@@ -119,16 +119,14 @@ SAY DESC @109 /* This longbow is the pinnacle of Elven craftsmanship. It once be
 STATISTICS:
 
 Equipped abilities:
-- Elaine's guidance increases Weapon Proficiency in Longbows by 1 slot for:
-Fighter/Mage
-Elf or Half-Elf
-Good Alignment
+- Elf or Half-Elf: +1 THAC0 and damage with missile weapons
+- Fighter/Mage: +1 THAC0 and damage with missile weapons
 
 Combat abilities:
-- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d6 magic damage
+- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d4 magic damage
 
 THAC0: +3
-Damage: 1d6+3 (piercing), +1d6 (magic)
+Damage: 1d6+3 (piercing), +1d4 (magic)
 Speed Factor: 4
 Proficiency Type: Longbow
 Type: Two-handed
