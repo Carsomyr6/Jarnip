@@ -213,7 +213,7 @@ Requires:
 
 Weight: 50~
 @128  = ~Reghedmen Iron Circlet~
-@129  = ~This bare iron band was the war-helm of one of the barbarian chieftains from the Reghed Glacier who led the failed assault on the Ten Towns centuries ago. Said to be quenched in the blood of fallen foes and blessed by Tempos, this circlet sharpens the senses in the heat of battle, allowing its wearer to strike with deadly rage.
+@129  = ~This bare iron band was the war-helm of one of the barbarian chieftains from the Reghed Glacier who led the failed assault on the Ten Towns centuries ago. Said to be quenched in the blood of fallen foes and blessed by Tempus, this circlet sharpens the senses in the heat of battle, allowing its wearer to strike with deadly rage.
 
 STATISTICS:
 
@@ -269,8 +269,8 @@ Combat abilities:
 - Dread Hunger: On each hit, the target must Save vs. Death or receive extra 2d4 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
 - Blood Lust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
 
-Damage: 2d4+5 (slashing)
 THAC0: +5
+Damage: 2d4+5 (slashing)
 Speed Factor: 3
 Proficiency Type: Bastard Sword
 Type: One-handed
