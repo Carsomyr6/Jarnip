@@ -21,7 +21,7 @@ Requires:
 
 Weight: 10
 
-Price: 30,000 gp
+Price: 25,000 gp
 
 ========
 
@@ -40,7 +40,7 @@ Requires:
 
 Weight: 100
 
-Price: 60,000 gp
+Price: 50,000 gp
 
 ========
 
@@ -91,7 +91,7 @@ Requires:
 
 Weight: 3
 
-Price: 24,000 gp
+Price: 22,000 gp
 
 ==========
 
@@ -123,7 +123,7 @@ Equipped abilities:
 - Luck: +1 (Swashbuckler only)
 
 Combat Abilities:
-- Each hit improves the wielder's Armor Class by 1 for 3 rounds
+- Each hit improves the wielder's Armor Class by 1 for 2 rounds
 
 THAC0: +2
 Damage: 1d6+2 (piercing)
@@ -155,7 +155,7 @@ Requires:
 
 Weight: 3
 
-Price: 18,000 gp
+Price: 15,000 gp
 
 ========
 
@@ -165,10 +165,10 @@ This obsidian spear is adorned with the symbol of Talos, the Storm Lord, etched 
 STATISTICS:
 
 Equipped Abilities:
-– Electricity Damage: +20% bonus
+– Electricity Damage: +15% bonus
 
 Combat Abilities:
-– 20% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
+– 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
 – Changes local weather to thunderstorm while in combat
 
 THAC0: +3
@@ -182,7 +182,7 @@ Requires:
 
 Weight: 5
 
-Price: 25,000 gp
+Price: 24,000 gp
 
 ========
 
@@ -223,7 +223,7 @@ Requires:
 
 Weight: 6
 
-Price: 30,000 gp
+Price: 24,000 gp
 
 ========
 
@@ -248,7 +248,7 @@ Requires:
 
 Weight: 5
 
-Price: 12,500 gp
+Price: 12,000 gp
 
 ========
 
@@ -267,7 +267,7 @@ Requires:
 
 Weight: 50
 
-Price: 25,000 gp
+Price: 24,000 gp
 
 =========
 
@@ -278,7 +278,7 @@ STATISTICS:
 
 Equipped abilities:
 – THAC0 and Damage: +1
-– Slashing, Crushing, and Piercing Damage: +15% bonus
+– Slashing, Crushing, and Piercing Damage: +10% bonus
 – Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
 – Protects against critical hits
 
@@ -297,7 +297,7 @@ Equipped abilities:
 - When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance. (Fighter only)
 
 Combat abilities:
-- 25% chance on hit to grant the wielder +1 bonus to damage for 1 turn
+- 20% chance on hit to grant the wielder +1 bonus to damage for 1 turn
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
@@ -347,7 +347,7 @@ Requires:
 
 Weight: 10
 
-Price: 50,000 gp
+Price: 30,000 gp
 
 =========
 
@@ -442,7 +442,7 @@ Combat abilities:
 Requires:
  9 Strength
  
- Price: 20,000 gp
+ Price: 18,000 gp
 
 ==========
 
@@ -453,12 +453,12 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Melee THAC0 and damage: +1
+- Melee THAC0: +1
 - Melee Critical Hit chance: +5% (Swashbuckler and Blade only)
 
 Weight: 2
  
-Price: 15,000 gp
+Price: 10,000 gp
 
 =======
 
@@ -468,14 +468,14 @@ A relic of the Lathanderite church, Helm of the Faithful is said to be imbued wi
 STATISTICS:
 
 Equipped abilities:
-– Damage Resistance: +5%
+– +5% Resistance to all damage types
 – Armor Class: +1
 – Saving Throws: +1
 – Protects against critical hits
 
 Weight: 2
 
-Price: 20,000 gp
+Price: 18,000 gp
 
 =======
 
@@ -485,7 +485,6 @@ This leather armor was crafted for the leader of the Wardens of the Bloodstone G
 STATISTICS:
 
 Equipped Abilities:
-- Move Silently and Hide In Shadows: +10%
 - Movement Rate improved by 2
 - Immunity to fatigue
 - Backstab Multiplier: +1 (Stalkers only)
@@ -496,7 +495,7 @@ Requires:
 
 Weight: 3
 
-Price: 14,000 gp
+Price: 15,000 gp
 
 ========
 
@@ -522,7 +521,7 @@ Requires:
 
 Weight: 15
 
-Price: 14,000 gp
+Price: 12,000 gp
 
 =======
 
@@ -539,7 +538,7 @@ Equipped abilities:
 
 Weight: 1
 
-Price: 28,000 gp
+Price: 22,000 gp
 
 =======
 
