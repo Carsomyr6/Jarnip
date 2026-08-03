@@ -50,7 +50,7 @@ This longbow is the pinnacle of Elven craftsmanship. It once belonged to a legen
 STATISTICS:
 
 Combat abilities:
-- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3, to hit including the bonus listed below, and deal a total of 1d6+3 piercing and 1d4 magic damage
+- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal a total of 1d6+3 piercing and 1d4 magic damage
 
 THAC0: +3
 Damage: 1d6+3 (piercing), +1d4 (magic)
@@ -63,7 +63,7 @@ Requires:
 
 Weight: 3
 
-Price: 18,000 gp
+Price: 16,000 gp
 
 ========
 
