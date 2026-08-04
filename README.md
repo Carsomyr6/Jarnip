@@ -1,5 +1,4 @@
-**Jarnip's Wares: A New Bonus Merchant in the Adventurer's Mart**
-
+# Jarnip's Wares: A New Bonus Merchant in the Adventurer's Mart
 MOD VERSION: v1.1.0		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
 
 **INTRODUCTION**
