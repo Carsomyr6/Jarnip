@@ -164,7 +164,7 @@ This obsidian spear is adorned with the symbol of Talos, the Storm Lord, etched 
 STATISTICS:
 
 Equipped Abilities:
-– Electricity Damage: +15% bonus
+– Electricity Damage dealt by the wielder: +15%
 
 Combat Abilities:
 – 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
