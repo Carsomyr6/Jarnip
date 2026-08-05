@@ -130,7 +130,7 @@ Weight: 3~
 STATISTICS:
 
 Equipped Abilities:
-- Electricity Damage: +15% bonus
+– Electricity Damage dealt by the wielder: +15%
 
 Combat Abilities:
 - 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
@@ -412,7 +412,7 @@ Requires:
 
 Weight: 15~
 @150  = ~Girdle of Dwarven Pride~
-@151  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faer�n.
+@151  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
 
 STATISTICS:
 
