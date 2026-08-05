@@ -524,20 +524,19 @@ Price: 12,000 gp
 
 =======
 
-Torm's Gauntlets
-These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+Girdle of Dwarven Pride
+Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1
-– Saving Throws: +1
-– Spell Casting Speed Improved by 1 (Clerics and Paladins only)
-– Divine Casting Level: +1 (Clerics and Paladins only)
+- Armor Class: +1 (+2 for Dwarves)
+- Constitution: +1 (+2 for Dwarves)
+- Physical Damage Resistance: +5% (Dwarven Defender only)
 
-Weight: 1
+Weight: 2
 
-Price: 22,000 gp
+Price: 10,000 gp
 
 =======
 
