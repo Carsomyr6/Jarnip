@@ -81,7 +81,7 @@ Weight: 3~
 STATISTICS:
 
 Equipped Abilities:
-- Weapon Speed Factor improved by 1
+- Weapon Speed Factor: +1
 - Visual Range: +2 (+4 for Stalker)
 - 1/2 extra attack per round (Stalker only)
 - Protects against critical hits
@@ -153,7 +153,7 @@ STATISTICS:
 
 Equipped Abilities:
 - Armor Class: +3
-- THAC0 and Damage: +1 when attacking with fists
+- THAC0 and Damage: +2 when attacking with fists
 - Protects against critical hits
 - The wearer is under a permanent state of alcohol intoxication. It has no negative impact on Luck or Saving Throws.
 
@@ -412,7 +412,7 @@ Requires:
 
 Weight: 15~
 @150  = ~Girdle of Dwarven Pride~
-@151  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western FaerÃ»n.
+@151  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
 
 STATISTICS:
 
