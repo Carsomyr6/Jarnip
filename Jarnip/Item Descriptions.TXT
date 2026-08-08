@@ -730,7 +730,7 @@ The origins of this ancient helm are lost to history, but some scholars believe 
 STATISTICS:
 
 Combat abilities:
-- Saving Throws: +1
+- Saving Throws: +1 (+2 for Inquisitor)
 - Magic Resistance: +5% (+10% for Inquisitor)
 
 Equipped abilities:
