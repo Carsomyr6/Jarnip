@@ -785,7 +785,7 @@ Price: 30,000 gp
 ========
 
 Shoes of the Lady of the Forest
-These shoes are said to have been crafted by Mielikki herself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, quickening their footsteps and deepening their bond with nature.
+These shoes are said to have been crafted by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, they grant the wearer a powerful blessing, quickening their footsteps and deepening their bond with nature.
 
 STATISTICS:
 
