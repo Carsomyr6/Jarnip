@@ -497,10 +497,10 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +2
-- Attacks per round: +1
+- Attacks per round: +1 (Bard and Thief only)
 
 Combat abilities:
-- Sapphire Guard: On a critical miss, casts Mirror Image on self (Bard, Thief, and Mage only)
+- Sapphire Guard: On a critical miss, casts Mirror Image on self
 
 THAC0: +3
 Damage: 1d4+3 (piercing)
