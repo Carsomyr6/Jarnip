@@ -217,7 +217,7 @@ According to legends, Judicator was forged by archons of Mount Celestia and best
 STATISTICS:
 
 Equipped abilities:
-- Saving Throws: +1 (Cleric and Paladin only)
+- Wisdom: +1 (Cleric only)
 
 Combat abilities:
 - On each hit, the target must Save vs. Spell or become blinded for 1 round
