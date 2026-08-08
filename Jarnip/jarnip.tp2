@@ -70,6 +70,8 @@ EXTEND_TOP ~ar0702.bcs~ ~%MOD_FOLDER%/scripts/ar0702.baf~
 
 // JARNIP'S ITEMS
 
+COPY ~%MOD_FOLDER%/items~ ~override~
+
 COPY ~%MOD_FOLDER%/items/JP#01.itm~ ~override~
 SAY NAME1 @104 /* Heart of Fury +3 */
 SAY NAME2 @104 /* Heart of Fury +3 */
