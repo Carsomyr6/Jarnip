@@ -621,18 +621,18 @@ Charge abilities:
  Does not harm party members
 
 Weight: 3~
-@222  = ~Torm's Gauntlets~
-@223  = ~These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+@222  = ~Shoes of the Lady of the Forest~
+@223  = ~These shoes are said to have been crafted by Mielikki herself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, quickening their footsteps and deepening their bond with nature.
 
 STATISTICS:
 
-Equipped Abilities:
-- Armor Class: +1
-- Saving Throws: +1
-- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
-- Divine Casting Level: +2 (Clerics and Paladins only)
+Equipped abilities:
+- Doubles Movement Rate
+- Hide in Shadows and Move Silently: +15%
+- Visual Range: +2 (Ranger only)
+- Fire, Cold, Electricity, and Acid resistance: +20% (Ranger only)
 
-Weight: 1~
+Weight: 4~
 @224  = ~Herbert's Coat +5~
 @225  = ~This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
