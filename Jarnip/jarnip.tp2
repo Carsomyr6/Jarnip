@@ -43,7 +43,7 @@ LANGUAGE ~English~
          ~english~
          ~Jarnip/Languages/english/setup.tra~
 
-BEGIN @100 /* Jarnip: New Bonus Merchant in the Adventurers Mart */
+BEGIN @100 /* Jarnip's Wares: A New Bonus Merchant for BG2 */
 REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) @101 /* Must be installed on BG2, BGT, BG2EE or EET */
 
 // JARNIP'S DIALOGUE
