@@ -157,7 +157,6 @@ Combat abilities:
 THAC0: +3
 Damage: 1d6+3
 Damage type (melee): Slashing
-Damage type (thrown): Missile
 Speed Factor: 1
 Proficiency Type: Axe
 Type: One-handed
