@@ -152,7 +152,7 @@ Equipped abilities:
 
 Combat abilities:
 - On each hit, the target must Save vs. Spell or lose a random arcane spell from memory
-- Enemy spellcasters within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
+- Enemies within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
 
 THAC0: +3
 Damage: 1d6+3
