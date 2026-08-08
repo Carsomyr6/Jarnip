@@ -246,7 +246,7 @@ STATISTICS:
 Equipped abilities:
 - 1/2 extra attack per round (1 for Kensai)
 
-Combat Abilities:
+Combat abilities:
 - For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai only)
 
 THAC0: +2
@@ -492,7 +492,7 @@ Price: 18,000 gp
 =======
 
 Wayfarer +4
-This leather armor was crafted for the leader of the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support long mountaineous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
+This leather armor was crafted for the leader of the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. The group was known for their ambush tactics, and its equipment was specifically crafted to support long mountainous journeys. This armor is decorated with fox fur and surprisingly lightweight, enabling its wearer to attack swiftly and disappear immediately afterwards.
 
 STATISTICS:
 
