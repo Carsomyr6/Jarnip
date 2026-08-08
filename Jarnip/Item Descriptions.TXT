@@ -541,6 +541,8 @@ Price: 12,000 gp
 Tormish Gauntlets
 On rare occasions, gauntlets such as these are granted to Champions of Torm after they have distinguished themselves in the service of the Church. They are trimmed with silver and designed to closely resemble Torm's holy symbol, making them immediately recognizable to all followers of the God of Duty.
 
+STATISTICS:
+
 Equipped abilities:
 - Armor Class: +1
 - Saving Throws: +1
