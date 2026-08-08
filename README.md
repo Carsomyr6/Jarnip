@@ -30,7 +30,7 @@ This is my first mod. All feedback and suggestions are greatly appreciated. I wa
 **Changelog**
 
 August 2026 - v2.0.0:
-Added Jarnip as a new merchant in Saradush. Merged the two SoA and ToB components into one mod. Fixed typos, scripts, and balance problems across the board
+Added Jarnip as a new merchant in Saradush. Merged the two SoA and ToB components into one mod. Fixed typos, formatting, and some scripting problems. The mod's name has been changed to Jarnip: A New Bonus Merchant for Baldur's Gate 2
 
 August 2026 - v1.1.0:
 Balance changes and price adjustments
