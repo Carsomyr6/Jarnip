@@ -28,7 +28,7 @@ This is my first mod. All feedback and suggestions are greatly appreciated. I wa
 **Changelog**
 
 August 2026 - v2.0.0:
-Added Jarnip as a new merchant in Saradush. Merged the two SoA and ToB components into one mod. Patches, adjustments, and balance changes across the board
+Added Jarnip as a new merchant in Saradush. Merged the two SoA and ToB components into one mod. Fixed typos, scripts, and balance problems across the board
 
 August 2026 - v1.1.0:
 Balance changes and price adjustments
