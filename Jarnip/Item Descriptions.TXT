@@ -727,7 +727,7 @@ Price: 30,000 gp
 ========
 
 Crown of the High Inquisitor
-The origins of this ancient helm are lost to history, but some scholars believe it was forged for the leader of a long-forgotten order of Tyrian inquisitors who pledged to purge the Sword Coast of evil magic. Though the order has long since been disbanded, the power that remains within the relic suggests that its sacred mission is not yet complete.
+The origins of this ancient helmet are lost to history, but its azure steel and silver ornamentation indicate that it once belonged to a high-ranking member of a long-forgotten paladin order. Though the order has long since been disbanded, the power lingering within the relic suggests that its sacred purpose still endures.
 
 STATISTICS:
 
