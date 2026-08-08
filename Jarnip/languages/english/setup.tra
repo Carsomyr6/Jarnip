@@ -422,17 +422,16 @@ Requires:
  16 Strength
 
 Weight: 15~
-@150  = ~Girdle of Dwarven Pride~
-@151  = ~Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
-
-STATISTICS:
+@150  = ~Tormish Gauntletse~
+@151  = ~On rare occasions, gauntlets such as these are granted to Champions of Torm after they have distinguished themselves in the service of the Church. They are trimmed with silver and designed to closely resemble Torm's holy symbol, making them immediately recognizable to all followers of the God of Duty.
 
 Equipped abilities:
-- Armor Class: +1 (+2 for Dwarves)
-- Constitution: +1 (+2 for Dwarves)
-- Physical Damage Resistance: +5% (Dwarven Defender only)
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
 
-Weight: 2~
+Weight: 1~
 @200  = ~Jarnip in ToB: A New Merchant in Saradush~
 @201  = ~Must be installed on BG2, BGT, BG2EE or EET~
 @202  = ~Jarnip~
