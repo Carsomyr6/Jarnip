@@ -1,4 +1,4 @@
-# Jarnip's Wares: A New Bonus Merchant for Baldur's Gate 2
+# Jarnip's Wares: A New Bonus Merchant for BG2
 MOD VERSION: v2.0.0		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
 
 **Introduction**
