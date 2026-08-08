@@ -15,7 +15,7 @@ Jarnip introduces **36 new items in total** that were designed as a Vanilla+ exp
 - Class-specific equipment designed to increase gameplay variety
 - Expands game itemization while preserving the overall balance of the original game
 - Lore-friendly descriptions that feel at home in the Forgotten Realms setting
-- Designed for a Vanilla+ SCS/Insane setting
+- Designed for a Vanilla+ SCS/Insane playthroughs
 
 **Installation**
 
