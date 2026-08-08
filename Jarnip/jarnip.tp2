@@ -856,3 +856,5 @@ Equipped abilities:
 - Protects against critical hits
 
 Weight: 1 */
+
+COPY ~%MOD_FOLDER%/items~ ~override~
