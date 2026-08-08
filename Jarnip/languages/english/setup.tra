@@ -538,8 +538,8 @@ Weight: 8~
 STATISTICS:
 
 Equipped abilities:
-- Immunity to Fear
-- Armor Class: -2 Penalty (0 for Fighter)
+- Regenerates 1 HP every 2 seconds
+- Attacks per round: -1/2 (No penalty for Fighter)
 
 Combat abilities:
 - Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
