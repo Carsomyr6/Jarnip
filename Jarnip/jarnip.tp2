@@ -561,18 +561,17 @@ Requires:
 Weight: 15 */
 
 COPY ~%MOD_FOLDER%/items/JP#24.itm~ ~override~
-SAY NAME1 @150 /* Girdle of Dwarven Pride */
-SAY NAME2 @150 /* Girdle of Dwarven Pride */
-SAY DESC @151 /* Girdles like this were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. It is adorned with precious stones, and its runes speak of loyalty and responsibility toward one's clan and kingdom. The few surviving girdles are exceptionally rare and held in great reverence among the shield dwarves of western Faerûn.
-
-STATISTICS:
+SAY NAME1 @150 /* Tormish Gauntlets */
+SAY NAME2 @150 /* Tormish Gauntlets */
+SAY DESC @151 /* On rare occasions, gauntlets such as these are granted to Champions of Torm after they have distinguished themselves in the service of the Church. They are trimmed with silver and designed to closely resemble Torm's holy symbol, making them immediately recognizable to all followers of the God of Duty.
 
 Equipped abilities:
-- Armor Class: +1 (+2 for Dwarves)
-- Constitution: +1 (+2 for Dwarves)
-- Physical Damage Resistance: +5% (Dwarven Defender only)
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
 
-Weight: 2 */
+Weight: 1 */
 
 BEGIN @200 /* Jarnip in ToB: A New Merchant in Saradush */
 REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) @201 /* Must be installed on BG2, BGT, BG2EE or EET */
@@ -809,19 +808,19 @@ Charge abilities:
 Weight: 3 */
 
 COPY ~%MOD_FOLDER%/items/JP#90.itm~ ~override~
-SAY NAME1 @222 /* Torm's Gauntlets */
-SAY NAME2 @222 /* Torm's Gauntlets */
-SAY DESC @223 /* These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+SAY NAME1 @222 /* Shoes of the Lady of the Forest */
+SAY NAME2 @222 /* Shoes of the Lady of the Forest */
+SAY DESC @223 /* These shoes are said to have been crafted by Mielikki herself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, quickening their footsteps and deepening their bond with nature.
 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1
-- Saving Throws: +1
-- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
-- Divine Casting Level: +1 (Clerics and Paladins only)
+- Doubles Movement Rate
+- Hide in Shadows and Move Silently: +15%
+- Visual Range: +2 (Ranger only)
+- Fire, Cold, Electricity, and Acid resistance: +20% (Ranger only)
 
-Weight: 1 */
+Weight: 4 */
 
 COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
 SAY NAME1 @224 /* Herbert's Coat of Fortune +5 */
