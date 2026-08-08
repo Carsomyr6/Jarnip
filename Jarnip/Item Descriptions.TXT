@@ -680,8 +680,8 @@ Equipped abilities:
 - Armor Class: -2 Penalty (0 for Fighter)
 
 Combat abilities:
-- Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Worldbreaker: On a critical hit, the target must Save vs. Death at -2 or receive 20 slashing damage and be stunned for 2 rounds
+- Regenerates 1 HP every 2 seconds
+- Attacks per round: -1/2 (No penalty for Fighter)
 
 THAC0: +4
 Damage: 1d12+4 (slashing)
