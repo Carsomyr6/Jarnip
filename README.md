@@ -7,6 +7,8 @@ This mod for Baldur's Gate 2 adds a new bonus merchant named **Jarnip** to Shado
 
 Jarnip introduces **36 new items in total** that were designed as a Vanilla+ expansion for SCS/Insane playthroughs. Rather than simply introducing more powerful gear, this mod expands the range of viable equipment without rendering iconic BG2 weapons obsolete. Every new item has unique abilities and effects, which are restricted to specific classes or kits. Please note that mods changing vanilla classes and kits are likely to affect gameplay balance.
 
+In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In Throne of Bhaal, Jarnip finds himself trapped in the Tankard Tree tavern in Saradush.
+
 **Features**
 
 - Adds a new bonus merchant, Jarnip, selling a variety of new class-specific magic items
