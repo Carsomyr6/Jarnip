@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/Jarnip/backup~
 AUTHOR ~RZABON~
-VERSION ~v1.0~
+VERSION ~v2.0.0~
 
 README ~Jarnip/README.TXT~
 
@@ -69,8 +69,6 @@ SAY 0xc @103 /* Jarnip's Wares */ // SAY STORE_NAME
 EXTEND_TOP ~ar0702.bcs~ ~%MOD_FOLDER%/scripts/ar0702.baf~
 
 // JARNIP'S ITEMS
-
-COPY ~%MOD_FOLDER%/items~ ~override~
 
 COPY ~%MOD_FOLDER%/items/JP#01.itm~ ~override~
 SAY NAME1 @104 /* Heart of Fury +3 */
@@ -201,17 +199,26 @@ Requires:
 Weight: 2 */
 
 COPY ~%MOD_FOLDER%/items/JP#07.itm~ ~override~
-SAY NAME1 @116 /* Spell Bane +2 */
-SAY NAME2 @116 /* Spell Bane +2 */
-SAY DESC @117 /* This beautifully decorated shield is forged from blue steel and adorned with runes. According to legend, it was forged for a Rashemi warrior from Mulsantir who pledged to purge The Unapproachable East of the Red Wizards some hundred years ago. The shield is said to possess a blessing that thwarts attempts to dispel or remove magic, reflecting such spells back onto those who cast them. More than one arrogant Red Wizard has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spell Bane.
+SAY NAME1 @116 /* Weavecutter +3 */
+SAY NAME2 @116 /* Weavecutter +3 */
+SAY DESC @117 /* This axe is forged from black meteoric ore that seems to absorb the magical energy surrounding it. Legends claim that, during the final years of ancient Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. Fearing the power of Netherese arcanists, they used the metal to forge a handful of relics capable of suppressing nearby arcane magic. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +3
-– Magic Resistance: +10% (+20% for Wizard Slayer and Inquisitor)
-– Reflects all Dispel Magic effects back at their caster (Wizard Slayer and Inquisitor only)
+- Save vs. Spell: +2
+- Magic Resistance: +10% (Wizard Slayer only)
 
+Combat abilities:
+- Enemy spellcasters within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
+- On each hit, the target must Save vs. Spell or lose a random arcane spell from memory
+
+THAC0: +3
+Damage: 1d6+3
+Damage type (melee): Slashing
+Speed Factor: 1
+Proficiency Type: Axe
+Type: One-handed
 Requires:
  4 Strength
 
@@ -566,3 +573,286 @@ Equipped abilities:
 - Physical Damage Resistance: +5% (Dwarven Defender only)
 
 Weight: 2 */
+
+BEGIN @200 /* Jarnip in ToB: A New Merchant in Saradush */
+REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) @201 /* Must be installed on BG2, BGT, BG2EE or EET */
+
+// JARNIP'S DIALOGUE
+
+COMPILE	~%MOD_FOLDER%/dialogue/JP#2.d~
+
+// CREATURE: JARNIP
+
+COPY ~%MOD_FOLDER%/creatures/JP#2.cre~ ~override~
+SAY NAME1 @202 /* Jarnip */
+SAY NAME2 @202 /* Jarnip */
+WRITE_ASCII 0x2cc ~JP#2~ #8  // dialogue // WRITE_ASCII DIALOG ~JP#2~ (8)
+WRITE_ASCII 0x248 ~JP#2~  #8  // override // WRITE_ASCII SCRIPT_OVERRIDE ~JP#2~ (8)
+WRITE_ASCII DEATHVAR ~JP#2~ (32)
+
+// STORE: JARNIP'S WARES
+
+COPY ~%MOD_FOLDER%/store/JP#2.sto~ ~override~
+SAY 0xc @203 /* Jarnip's Wares */ // SAY STORE_NAME
+
+// SCRIPT: SPAWN JARNIP
+
+EXTEND_TOP ~AR5003.bcs~ ~%MOD_FOLDER%/scripts/AR5003.baf~
+
+// JARNIP'S ITEMS
+
+COPY ~%MOD_FOLDER%/items/JP#99.itm~ ~override~
+SAY NAME1 @204 /* Bane of the Innocent +4 */
+SAY NAME2 @204 /* Bane of the Innocent +4 */
+SAY DESC @205 /* The first victims of this sword were not warriors. They were pilgrims. Peasants. Beggars. Those who could not fight back.
+
+Long ago, this forsaken blade belonged to an unnamed holy champion who was suddenly stripped of his deity's grace. Instead of seeking penance, he chose the path of vengeance. It is said that the slaughter of the followers of his former faith was so great that the screams of his victims became permanently imbued within the blade.
+
+Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Because of unspeakable atrocities committed with it in the past, only those who follow the path of the antipaladin, or who have become fallen paladins, can wield it.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +20%
+- Characters of Good or Neutral alignment are slain upon equipping this sword
+
+Combat abilities:
+- Touch of Terror: 25% chance on hit to cause the target to panic for 4 rounds
+- Dooming Presence: 5% chance on hit that all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
+
+THAC0: +4 
+Damage: 2d4+4 (slashing), +2d4 (fire)
+Speed Factor: 4 
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3 */
+
+COPY ~%MOD_FOLDER%/items/JP#98.itm~ ~override~
+SAY NAME1 @206 /* The Triumphant +5 */
+SAY NAME2 @206 /* The Triumphant +5 */
+SAY DESC @207 /* According to legend, The Triumphant first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde of demons from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly defeated an entire army. No body was ever found. Only the sword remained, lying amid the dead.
+
+Since that time, The Triumphant has appeared in countless sagas of the northern barbarian tribes, becoming a powerful symbol of might and perseverance. Some say that whoever claims the sword is destined for greatness, while others believe that the blade simply finds those who are worthy of it.
+
+Whatever the truth, those who take up The Triumphant soon discover that even impossible odds can be overcome.
+
+STATISTICS:
+
+Equipped Abilities:
+- Strength: +2
+
+Combat Abilities:
+- Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
+- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Strike chance by 5%, and grants an extra attack per round
+
+THAC0: +5
+Damage: 1d10+5 (slashing)
+Speed Factor: 5
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 16 Strength
+
+Weight: 15 */
+
+COPY ~%MOD_FOLDER%/items/JP#97.itm~ ~override~
+SAY NAME1 @208 /* Herbert's Gauche +3 */
+SAY NAME2 @208 /* Herbert's Gauche +3 */
+SAY DESC @209 /* This off-hand dagger originally belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became a subject of innumerable folk tales. After retiring from adventuring, Herbert settled down in Calimshan and spent his final days surrounded by admirers and courtesans.
+
+STATISTICS:
+
+Equipped Abilities:
+- Armor Class: +2
+- Attacks per round: +1
+
+Special Abilities:
+- Casts Mirror Image two times per day
+
+THAC0: +3
+Damage: 1d4+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1 */
+
+COPY ~%MOD_FOLDER%/items/JP#96.itm~ ~override~
+SAY NAME1 @210 /* Vigilant Eye +4 */
+SAY NAME2 @210 /* Vigilant Eye +4 */
+SAY DESC @211 /* Holy Shield of Protection: Vigilant Eye
+
+This intricately decorated shield is forged from polished azure steel and bears the holy symbol of Helm. The blessing granted to it by the Vigilant One is truly incredible, as it extends beyond its bearer and protects all allies who stand beside the paladin.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +5
+- Saving Throws: +1
+- Magic Resistance: +10%
+- Aura of Protection: All party members gain:
+   +1 bonus to Armor Class
+   +1 bonus to all saving throws
+
+Requires:
+ 13 Strength
+ 13 Wisdom
+
+Weight: 8 */
+
+COPY ~%MOD_FOLDER%/items/JP#95.itm~ ~override~
+SAY NAME1 @212 /* Bloodseeker Axe +4 */
+SAY NAME2 @212 /* Bloodseeker Axe +4 */
+SAY DESC @213 /* Rumors claim that this adamantine two-handed axe was crafted by the mad wizard Halaster Blackcloak for a berserker minotaur warlord who guarded the entrance to the Undermountain's main treasury. The creature was eventually slain by a band of adventurers, who claimed the axe as their prize. What became of the treasure itself remains unknown.
+
+STATISTICS:
+
+Equipped Abilities:
+- Regenerate 1 Hit Point every 2 seconds
+
+Combat Abilities:
+- Thirst for Blood: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. On a critical hit, it deals an additional 15 points of slashing damage and heals the wielder for 15 Hit Points. This will not heal beyond the wielder's maximum
+
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 5
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 17 Strength
+
+Weight: 25 */
+
+COPY ~%MOD_FOLDER%/items/JP#94.itm~ ~override~
+SAY NAME1 @214 /* Light of Eldath +5 */
+SAY NAME2 @214 /* Light of Eldath +5 */
+SAY DESC @215 /* This unique greater Staff of the Woodlands was a personal gift from Eldath to the High Vychlaran of Rashemen. Blessed by the Green Goddess herself, the staff embodies her peaceful domain, granting an incredible blessing and calling upon the judgment of nature against anyone who dares to harm its wielder.
+
+STATISTICS:
+
+Equipped Abilities:
+- Fire and Cold Resistance: +20%
+- Armor Class: +2
+- Saving Throws: +1
+- Wisdom: +2
+
+Combat Abilities:
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d6+5 poison damage and become entangled for 4 rounds
+
+THAC0: +5
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 10 Dexterity
+ 15 Wisdom
+
+Weight: 4 */
+
+COPY ~%MOD_FOLDER%/items/JP#93.itm~ ~override~
+SAY NAME1 @216 /* Crown of the High Inquisitor */
+SAY NAME2 @216 /* Crown of the High Inquisitor */
+SAY DESC @217 /* The origins of this ancient helm are lost to history, but some scholars believe it was forged for the leader of a long-forgotten order of Tyrian inquisitors who pledged to purge Faerûn of evil magic. Though the order has long since been disbanded, the power that remains within the relic suggests that its sacred mission is not yet complete.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws: +1
+- Magic Resistance: +5% (+10% for Inquisitor)
+
+Combat abilities:
+- Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitor only)
+
+Weight: 5 */
+
+COPY ~%MOD_FOLDER%/items/JP#92.itm~ ~override~
+SAY NAME1 @218 /* Cloak of the Crimson Abbot */
+SAY NAME2 @218 /* Cloak of the Crimson Abbot */
+SAY DESC @219 /* Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Crimson Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+
+STATISTICS:
+
+Equipped abilities:
+- Hit Points: +10
+- Attacks per round: +1 (Monk only)
+
+Combat abilities:
+- Scarlet Palm: Each successful melee hit with fists has a 33% chance to stun the target for 1 round (save vs. Spell negates)
+
+Weight: 4 */
+
+COPY ~%MOD_FOLDER%/items/JP#91.itm~ ~override~
+SAY NAME1 @220 /* Robe of Balagos +6 */
+SAY NAME2 @220 /* Robe of Balagos +6 */
+SAY DESC @221 /* This robe was crafted by the legendary red dragon Balagos to wear when he assumed human form. Later, Balagos gifted the robe to the leader of his human worshippers. Woven from heavy Calimshan silk and adorned with the scales of the great wyrm, it contains a fragment of Balagos's own draconic power. Only those touched by dragon blood can unlock the robe's full potential.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 4
+- Decrease casting time by 2
+- Physical Damage resistance: +30% (Red Dragon Disciple only)
+- Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
+
+Charge abilities:
+- Casts Dragon Breath once per day
+ Damage: 20d10 (Save vs. Breath for half)
+ Area: 15-ft. radius
+ Does not harm party members
+
+Weight: 3 */
+
+COPY ~%MOD_FOLDER%/items/JP#90.itm~ ~override~
+SAY NAME1 @222 /* Torm's Gauntlets */
+SAY NAME2 @222 /* Torm's Gauntlets */
+SAY DESC @223 /* These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
+- Divine Casting Level: +1 (Clerics and Paladins only)
+
+Weight: 1 */
+
+COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
+SAY NAME1 @224 /* Herbert's Coat of Fortune +5 */
+SAY NAME2 @224 /* Herbert's Coat of Fortune +5 */
+SAY DESC @225 /* This exceptional studded leather once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent he owed largely to this enchanted armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this armor is the dream of any adventurer.
+
+STATISTICS:
+
+Equipped abilities:
+- Luck: +1 (Swashbuckler only)
+
+Combat abilities:
+- Avoid Death: When the wielder's Hit Points fall below 25%, grants 20 temporary hit points, +5 to saves vs. Death, and immunity to death magic for 1 round. This effect can only occur once every 1 turn.
+
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
+Requires:
+ 8 Strength
+
+Weight: 10 */
+
+COPY ~%MOD_FOLDER%/items/JP#88.itm~ ~override~
+SAY NAME1 @226 /* Nethraval's Ardor */
+SAY NAME2 @226 /* Nethraval's Ardor */
+SAY DESC @227 /* The legendary eldritch knight Nethraval wore this enchanted circlet during his final battle, when he descended into Cania to rescue his betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the circlet survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws vs. Spell: +2
+- Magic Damage Resistance: +30%
+- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mage only)
+- Protects against critical hits
+
+Weight: 1 */

@@ -1,5 +1,7 @@
-Jarnip's Wares
+Jarnip: A New Bonus Merchant for Baldur's Gate 2
 Item Descriptions
+
+JARNIP IN ATHKATLA
 
 Heart of Fury +3
 This impressive two-handed sword originally belonged to the Tribe of the Great White Wyrm, a barbarian clan from Icewind Dale that worshipped the white dragon matriarch Icasaracht. After Icasaracht was slain by a group of adventurers, the clan scattered, and its heirloom fell into the hands of outsiders. Despite the passage of time, the sword has retained Icasaracht's enchantment, and you can feel it pulsing with cold, primal fury.
@@ -7,8 +9,8 @@ This impressive two-handed sword originally belonged to the Tribe of the Great W
 STATISTICS:
 
 Equipped Abilities:
-– +20% Resistance to Physical Damage
-– +10 to Maximum Hit Points (+20 for Barbarians)
+- +20% Resistance to Physical Damage
+- +10 to Maximum Hit Points (+20 for Barbarians)
 
 THAC0: +3
 Damage: 1d10+3, +1 cold
@@ -76,8 +78,8 @@ Moonblades are magical longswords that were forged in ancient Myth Drannor. They
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1
-– Spell Casting Speed Improved by 2
+- Armor Class: +1
+- Spell Casting Speed Improved by 1 (2 for Fighter/Mage)
 
 THAC0: +3
 Damage: 1d8+3 (slashing), +1 (magic)
@@ -139,45 +141,55 @@ Price: 12,000 gp
 
 ========
 
-Spell Bane +2
-This beautifully decorated shield is forged from blue steel and adorned with runes. According to legend, it was forged for a Rashemi warrior from Mulsantir who pledged to purge The Unapproachable East of the Red Wizards some hundred years ago. The shield is said to possess a blessing that thwarts attempts to dispel or remove magic, reflecting such spells back onto those who cast them. More than one arrogant Red Wizard has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spell Bane.
+Weavecutter +3
+This axe is forged from black meteoric ore that seems to absorb the magical energy surrounding it. Legends claim that, during the final years of ancient Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. Fearing the power of Netherese arcanists, they used the metal to forge a handful of relics capable of suppressing nearby arcane magic. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +3
-– Magic Resistance: +10% (+20% for Wizard Slayer and Inquisitor)
-– Reflects Dispel Magic effects back at their caster (Wizard Slayer and Inquisitor only)
+- Save vs. Spell: +2
+- Magic Resistance: +10% (Wizard Slayer only)
 
+Combat abilities:
+- On each hit, the target must Save vs. Spell or lose a random arcane spell from memory
+- Enemy spellcasters within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
+
+THAC0: +3
+Damage: 1d6+3
+Damage type (melee): Slashing
+Damage type (thrown): Missile
+Speed Factor: 1
+Proficiency Type: Axe
+Type: One-handed
 Requires:
  4 Strength
 
 Weight: 3
 
-Price: 15,000 gp
+Price: 20,000 gp
 
 ========
 
 Eye of the Storm +3
-This obsidian spear is adorned with the symbol of Talos, the Storm Lord, etched just beneath its head. It likely belonged to a High Priest of Talos, as its single swing can summon terrifying thunder and rain. You can feel the air electrifying when you hold this fearsome weapon, but only Druids and Rangers will be able to control its wrath.
+This obsidian spear is adorned with the symbol of Talos etched just beneath its head. It likely belonged to a senior Talassan Stormlord, as its single swing can summon terrifying thunder and rain. You can feel the air electrifying when you hold this fearsome weapon, but its true wrath is only unleashed in battle.
 
 STATISTICS:
 
-Equipped Abilities:
-– Electricity Damage dealt by the wielder: +15%
+Equipped abilities:
+- Electricity Damage dealt by the wielder: +15% (Druid only)
 
-Combat Abilities:
-– 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
-– Changes local weather to thunderstorm while in combat
+Combat abilities:
+- 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
+- Attacks change local weather to thunderstorm
 
 THAC0: +3
-Damage: 1d8+3 (piercing), +1 (electrical)
+Damage: 1d8+3 (piercing), +1d4 (electrical)
 Speed Factor: 3
 Proficiency Type: Spear
 Type: Two-handed
 Requires:
- 12 Strength
- 16 Wisdom
+ 6 Strength
+ 12 Wisdom
 
 Weight: 5
 
@@ -190,11 +202,9 @@ The Way of the Drunken Master is a monastic tradition that teaches its practitio
 
 STATISTICS:
 
-Equipped Abilities:
-– Armor Class: +3
-– THAC0 and Damage: +1 when attacking with fists
-– Protects against critical hits
-– The wearer is under a permanent state of alcohol intoxication. It has no negative impact on Luck or Saving Throws.
+Equipped abilities:
+- Protects against critical hits
+- The wearer is under a permanent magical state of alcohol intoxication. It grants +3 to Armor Class and +1 to THAC0 and Damage when attacking with fists. It has no negative impact on Luck or Saving Throws (Monk only)
 
 Weight: 3
 
@@ -207,9 +217,12 @@ According to legends, Judicator was forged by archons of Mount Celestia and best
 
 STATISTICS:
 
-Combat Abilities:
-– On each hit, the target must Save vs. Spell or become blinded for 1 round
-– 15% chance per hit of casting Holy Smite centered on the target (affects evil only, 6d4 damage, save vs. spell for half)
+Equipped abilities:
+- Saving Throws: +1 (Cleric and Paladin only)
+
+Combat abilities:
+- On each hit, the target must Save vs. Spell or become blinded for 1 round
+- 15% chance per hit of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
 
 THAC0: +3
 Damage: 2d4+4 (crushing), +3 vs. evil (magic)
@@ -257,8 +270,8 @@ This suit of splint mail is unlike any forged from ordinary iron or steel. Each 
 STATISTICS:
 
 Equipped abilities:
-– Magic Resistance: +10% (+20% for Wizard Slayers)
-– Saving Throws: +1 (+2 for Wizard Slayers)
+- Magic Resistance: +10% (+20% for Wizard Slayer)
+- Saving Throws: +1 (+2 for Wizard Slayer)
 
 Armor Class: 1 (0 vs. piercing and missile, -1 vs. crushing)
 Requires:
@@ -276,10 +289,10 @@ This bare iron band was the war-helm of one of the barbarian chieftains from the
 STATISTICS:
 
 Equipped abilities:
-– THAC0 and Damage: +1
-– Slashing, Crushing, and Piercing Damage: +10% bonus
-– Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
-– Protects against critical hits
+- THAC0 and Damage: +1
+- Slashing, Crushing, and Piercing Damage: +10% bonus
+- Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarian only)
+- Protects against critical hits
 
 Weight: 1
 
@@ -327,8 +340,8 @@ STATISTICS:
 Equipped abilities:
 - Cursed
 - Immune to Remove Curse
-- Charisma: -5 penalty
-- Constitution: -2 penalty
+- Charisma: -5 penalty (0 for Blackguard)
+- Constitution: -2 penalty (0 for Blackguard)
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
@@ -356,8 +369,8 @@ This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender
 STATISTICS:
 
 Equipped Abilities:
-– +5% Resistance to Slashing, Piercing, and Crushing Damage
-– +1 to Strength (Dwarves only)
+- +5% Resistance to Slashing, Piercing, and Crushing Damage
+- +1 to Strength (Dwarves only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra +2d4 vs. goblins, orcs, and giants
@@ -380,9 +393,9 @@ This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender
 STATISTICS:
 
 Equipped Abilities:
-– +5% Resistance to Slashing, Piercing, and Crushing Damage
-– +1 to Constitution
-– 1/2 extra attack per round (Dwarven Defender only)
+- +5% Resistance to Slashing, Piercing, and Crushing Damage
+- +1 to Constitution
+- 1/2 extra attack per round (Dwarven Defender only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing)
@@ -404,6 +417,7 @@ The blade of this finely decorated halberd has gold-plated edges and is forged f
 STATISTICS:
 
 Equipped Abilities:
+- Armor Class: +1 (Fighter only)
 - Movement Rate improved by 2
 
 Combat Abilities:
@@ -431,12 +445,12 @@ At first glance, this blackened iron shield seems old and unremarkable. However,
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +3 (+5 for Blackguards)
-– Saving Throws: +1 (+3 for Blackguards)
-– Fire and Cold Resistance: +10%
+- Armor Class: +3 (+5 for Blackguards)
+- Saving Throws: +1 (+3 for Blackguards)
+- Fire and Cold Resistance: +10%
 
 Combat abilities:
-– Casts Doom on whoever hits the wielder: -2 penalty to THAC0 and Saving Throws for 1 turn
+- Casts Doom on whoever hits the wielder: -2 penalty to THAC0 and Saving Throws for 1 turn
 
 Requires:
  9 Strength
@@ -467,10 +481,10 @@ A relic of the Lathanderite church, Helm of the Faithful is said to be imbued wi
 STATISTICS:
 
 Equipped abilities:
-– +5% Resistance to all damage types
-– Armor Class: +1
-– Saving Throws: +1
-– Protects against critical hits
+- +5% Resistance to all damage types (Paladin and Cleric only)
+- Armor Class: +1
+- Saving Throws: +1
+- Protects against critical hits
 
 Weight: 2
 
@@ -538,5 +552,291 @@ Weight: 2
 
 Price: 10,000 gp
 
-=======
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+JARNIP IN SARADUSH
+
+Bane of the Innocent +4
+The first victims of this sword were not knights. They were pilgrims. Peasants. Beggars. Those who could not fight back.
+
+Long ago, this forsaken blade belonged to an unnamed holy champion who was suddenly stripped of his deity's grace. Instead of seeking penance, he chose the path of vengeance. It is said that the slaughter of the followers of his former faith was so great that the screams of his victims became permanently imbued within the blade.
+
+Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Because of unspeakable atrocities committed with it in the past, only those who follow the path of the antipaladin, or who have become fallen paladins, can wield it.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire Resistance: +20% (+40% for Blackguard)
+- Characters of Good or Neutral alignment are slain upon equipping this sword
+
+Combat abilities:
+- Touch of Terror: 25% chance on hit to cause the target to panic for 4 rounds
+- Dooming Presence: 5% chance on hit that all enemies within a 15-ft. radius panic and receive a -2 penalty to Armor Class, hit rolls, and damage rolls for 1 turn
+
+THAC0: +4 
+Damage: 2d4+4 (slashing), +2d4 (fire)
+Speed Factor: 4
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3
+
+Price: 25,000 gp
+
+========
+
+The Triumphant +5
+According to legend, The Triumphant first belonged to a barbarian king of Narfell who perished while defending his homeland from an invading horde from the Endless Wastes. The sword was said to have been found on the battlefield after its wielder had single-handedly defeated an entire army. No body was ever found. Only the sword remained, lying amid the dead.
+
+Since that time, The Triumphant has appeared in countless sagas of the northern barbarian tribes, becoming a symbol of might and perseverance. Some say that whoever claims the sword is destined for greatness, while others believe that the blade simply finds those who are worthy of it.
+
+Whatever the truth, those who take up The Triumphant soon discover that even impossible odds can be overcome.
+
+STATISTICS:
+
+Equipped abilities:
+- Strength: +1
+- Constitution: +1
+
+Combat abilities:
+- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Strike chance by 5%, and grants an extra attack per round (Berserker, Barbarian and Rashemi warrior only)
+- Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
+
+THAC0: +5
+Damage: 1d10+5 (slashing)
+Speed Factor: 5
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 16 Strength
+
+Weight: 15
+
+Price: 40,000 gp
+
+========
+
+Neverwinter Sapphire +3
+This richly adorned off-hand dagger bears the crest of the city of Neverwinter and has a teardrop-shaped sapphire set into its pommel. It was originally the property of Arlon Vey, a celebrated adventurer and arcane trickster who became a member of the Neverwinter Nine. Though believed lost during one of the city's wars with Luskan, the dagger has somehow found its way back to the Sword Coast. Rumors claim that the sapphire in its pommel is enchanted to summon illusory copies of the wielder in melee combat.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +2
+- Attacks per round: +1
+
+Combat abilities:
+- Sapphire Guard: On a critical miss, casts Mirror Image on self (Bard, Thief, and Mage only)
+
+THAC0: +3
+Damage: 1d4+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1
+
+Price: 22,000 gp
+
+========
+
+Holy Shield of Protection +4: Vigilant Eye
+
+The polished azure steel and sacred silver ornaments make it immediately clear that this shield originally belonged to a senior Shield Knight in the service of Helm. Its rim features an engraved prayer to the Vigilant One, asking for aid for its bearer and all those who serve the Helmite Church. The blessing granted to this shield by Helm is truly incredible, as it not only protects the paladin but also safeguards all allies who stand beside them.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +5
+- Saving Throws: +1
+- Magic Resistance: +10%
+- Aura of Protection (Paladin only):
+	All party members gain:
+   +1 bonus to Armor Class
+   +1 bonus to all saving throws
+
+Requires:
+ 13 Strength
+ 13 Wisdom
+
+Weight: 8
+
+Price: 24,000 gp
+
+========
+
+Axe of the Worldbreaker +4
+This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, Blaiz marched south, leaving a trail of destruction in his wake. His reign of terror finally ended when a band of adventurers from Targos slew him in battle and claimed the axe as their prize.
+
+STATISTICS:
+
+Equipped abilities:
+- Immunity to Fear
+- Regenerates 1 HP every second (Fighter only)
+
+Combat abilities:
+- Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
+- Worldbreaker: On a critical hit, the target must Save vs. Death at -2 or receive 20 slashing damage and be stunned for 2 rounds
+
+THAC0: +4
+Damage: 1d12+4 (slashing)
+Speed Factor: 6
+Proficiency Type: Axe
+Type: Two-handed
+Requires:
+ 17 Strength
+
+Weight: 25
+
+Price: 26,000 gp
+
+========
+
+Grace of Eldath +5
+This unique greater Staff of the Woodlands was a personal gift from Eldath to the High Vychlaran of Rashemen. Blessed by the Green Goddess herself, the staff embodies her peaceful domain, granting a powerful blessing and calling upon the judgment of nature against anyone who dares to harm the druid wielding it.
+
+STATISTICS:
+
+Equipped abilities:
+- Fire and Cold Resistance: +20%
+- Armor Class: +2
+- Saving Throws: +1
+- Wisdom: +2
+
+Combat abilities:
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druid only)
+
+THAC0: +5
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 10 Dexterity
+ 15 Wisdom
+
+Weight: 4
+
+Price: 30,000 gp
+
+========
+
+Crown of the High Inquisitor
+The origins of this ancient helm are lost to history, but some scholars believe it was forged for the leader of a long-forgotten order of Tyrian inquisitors who pledged to purge Faer�n of evil magic. Though the order has long since been disbanded, the power that remains within the relic suggests that its sacred mission is not yet complete.
+
+STATISTICS:
+
+Combat abilities:
+- Saving Throws: +1
+- Magic Resistance: +5% (+10% for Inquisitor)
+
+Equipped abilities:
+- Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitor only)
+
+Weight: 5
+
+Price: 15,000 gp
+
+========
+
+Cloak of the Scarlet Abbot
+Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+
+STATISTICS:
+
+Equipped abilities:
+- Hit Points: +10
+- Attacks per round: +1 (Monk only)
+
+Combat abilities:
+- Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
+
+Weight: 4
+
+Price: 12,000 gp
+
+========
+
+Robe of Balagos
+This opulent red robe was crafted by the legendary dragon Balagos for his use whenever he assumed a human form. He later gifted it to a group of his human worshippers as a reward. Woven from heavy Calimshan silk and adorned with the scales of a great wyrm, the robe still channels Balagos's power and is said to recognize whether its wearer is of draconic descent.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: 4
+- Decrease casting time by 2
+- Physical Damage resistance: +30% (Red Dragon Disciple only)
+- Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
+
+Charge abilities:
+- Casts Dragon Breath once per day
+ Damage: 20d10 (Save vs. Breath for half)
+ Area: 15-ft. radius
+ Does not harm party members
+
+Weight: 3
+
+Price: 30,000 gp
+
+========
+
+Torm's Gauntlets
+These gauntlets are said to have been worn by Torm himself during the Time of Troubles. Whether the legend is true or not, they grant the wearer a powerful blessing, strengthening their resolve and improving their divine spellcasting skills.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+- Spell Casting Speed Improved by 2 (Clerics and Paladins only)
+- Divine Casting Level: +2 (Clerics and Paladins only)
+
+Weight: 1
+
+Price: 22,000 gp
+
+========
+
+Herbert's Coat +5
+This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws: +1
+- Luck: +1 (Swashbuckler only)
+
+Combat abilities:
+- Avoid Death: When the wearer's Hit Points fall below 10%, grants 20 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
+
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
+Requires:
+ 8 Strength
+
+Weight: 10
+
+Price: 20,000 gp
+
+========
+
+Nethraval's Ardor
+The legendary eldritch knight Nethraval wore this enchanted circlet during his final battle, when he descended into Cania to rescue his betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the circlet survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+- Saving Throws vs. Spell: +2
+- Magic Damage Resistance: +30%
+- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mage only)
+- Protects against critical hits
+
+Weight: 1
+
+Price: 18,000 gp
+
+
 
