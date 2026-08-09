@@ -1,9 +1,6 @@
 # Jarnip: A New Bonus Merchant for Baldur's Gate 2
 MOD VERSION: v2.0.0		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
 
-<img width="227" height="227" alt="image" src="https://github.com/user-attachments/assets/aaf525cb-95c3-4496-a237-28838e6ecc6c" />
-
-
 **Introduction**
 
 This mod for Baldur's Gate 2 adds a new bonus merchant named **Jarnip** to Shadows of Amn and Throne of Bhaal. Like his colleagues Joluv and Deidre, Jarnip sells a collection of unique magical items to aid you during your adventures. Suffering from an excess of gold pieces in your purse? The prices of Jarnip's wares are among the highest on the Sword Coast, but his stock is carefully curated to satisfy the expectations of even the most demanding customers.
