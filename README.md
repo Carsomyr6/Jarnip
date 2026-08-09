@@ -1,8 +1,7 @@
 # Jarnip: A New Bonus Merchant for Baldur's Gate 2
 MOD VERSION: v2.0.0		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88e3f587-0608-4853-afd9-afcf0e062eb3" />
-
+<img width="609" height="609" alt="image" src="https://github.com/user-attachments/assets/de9f3527-8244-436a-b012-52e433f64da3" />
 
 **Introduction**
 
