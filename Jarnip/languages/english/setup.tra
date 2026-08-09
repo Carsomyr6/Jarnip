@@ -7,13 +7,12 @@
 
 STATISTICS:
 
-Equipped Abilities:
-- +20% Resistance to Physical Damage
-- +10 to Maximum Hit Points (+20 for Barbarians)
+Equipped abilities:
+- Physical Damage Resistance: +20%
+- Hit Points: +10 (+20 for Barbarians)
 
 THAC0: +3
-Damage: 1d10+3, +1 cold
-Damage Type: Slashing
+Damage: 1d10+3 (slashing), +1 (cold)
 Speed Factor: 7
 Proficiency Type: Two-Handed Sword
 Type: Two-Handed
@@ -27,8 +26,8 @@ Weight: 10~
 STATISTICS:
 
 Equipped abilities:
-- +5% Resistance to Physical Damage (+15% for Cavalier)
-- +1 to Charisma (+2 for Cavalier)
+- Physical Damage Resistance: +5% (+15% for Cavalier)
+- Charisma: +1 (+2 for Cavalier)
 
 Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavalier)
 Requires:
@@ -80,10 +79,10 @@ Weight: 3~
 
 STATISTICS:
 
-Equipped Abilities:
+Equipped abilities:
 - Weapon Speed Factor: +1
 - Visual Range: +2 (+4 for Stalker)
-- 1/2 extra attack per round (Stalker only)
+- Attacks per round: +1/2 (Stalker only)
 - Protects against critical hits
 
 Weight: 2~
@@ -94,11 +93,11 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +2
-- Critical Hit Chance: +5% (Swashbuckler and Blade only)
+- Critical Hit chance: +5% (Swashbuckler and Blade only)
 - Luck: +1 (Swashbuckler only)
 
-Combat Abilities:
-- Each hit improves the wielder's Armor Class by 1 for 2 rounds
+Combat abilities:
+- On hit: improves the wielder's Armor Class by 1 for 2 rounds
 
 THAC0: +2
 Damage: 1d6+2 (piercing)
@@ -120,7 +119,6 @@ Equipped abilities:
 - Magic Resistance: +10% (Wizard Slayer only)
 
 Combat abilities:
-- On each hit, the target must Save vs. Spell or lose a random arcane spell from memory
 - Enemies within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
 
 THAC0: +3
@@ -141,7 +139,7 @@ Equipped abilities:
 - Electricity Damage dealt by the wielder: +15% (Druid only)
 
 Combat abilities:
-- 15% chance to cast Call Lightning on hit (4d8 damage, save vs. spell for half)
+- On hit: 15% chance to cast Call Lightning on the target (4d8 damage, save vs. spell for half)
 - Attacks change local weather to thunderstorm
 
 THAC0: +3
@@ -173,8 +171,8 @@ Equipped abilities:
 - Wisdom: +1 (Cleric only)
 
 Combat abilities:
-- On each hit, the target must Save vs. Spell or become blinded for 1 round
-- 15% chance per hit of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
+- On hit: the target must Save vs. Spell or become blinded for 1 round
+- On hit: 15% chance of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
 
 THAC0: +3
 Damage: 2d4+4 (crushing), +3 vs. evil (magic)
@@ -192,9 +190,9 @@ Weight: 6~
 STATISTICS:
 
 Equipped abilities:
-- 1/2 extra attack per round (1 for Kensai)
+- Attacks per round: +1/2 (+1 for Kensai)
 
-Combat Abilities:
+Combat abilities:
 - For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai only)
 
 THAC0: +2
@@ -238,10 +236,10 @@ Weight: 1~
 STATISTICS: 
 
 Equipped abilities:
-- When the wielder's Hit Points fall below 50%, <PRO_HESHE> gains +2 bonus to THAC0. When Hit Points fall below 25%, <PRO_HESHE> gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance. (Fighter only)
+- When Hit Points fall below 50%, the wielder gains +2 bonus to THAC0. When Hit Points fall below 25%, the wielder gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance (Fighter only)
 
 Combat abilities:
-- 20% chance on hit to grant the wielder +1 bonus to damage for 1 turn
+- On hit: 20% chance to grant the wielder +1 bonus to damage for 1 turn
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
@@ -273,7 +271,7 @@ Equipped abilities:
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
-- Murderous Wrath: On each hit, the wielder must Save vs. Death (-2 penalty) or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
+- Murderous Wrath: On each hit, the wielder must Save vs. Death at -2 or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
 - Dread Hunger: On each hit, the target must Save vs. Death or receive extra 2d4 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
 - Bloodlust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
 
@@ -291,18 +289,17 @@ Weight: 10~
 
 STATISTICS:
 
-Equipped Abilities:
-- +5% Resistance to Slashing, Piercing, and Crushing Damage
-- +1 to Strength (Dwarves only)
+Equipped abilities:
+- Resistance to Slashing, Piercing, and Crushing Damage: +5%
+- Strength: +1 (Dwarves only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra +2d4 vs. goblins, orcs, and giants
-Damage Type: crushing
 Speed Factor: 2
 Proficiency Type: War Hammer
 Type: One-handed
 Requires:
- 16 Strength
+ 17 Strength
 
 Weight: 20~
 @136  = ~Korgunth's Left Fist +2~
@@ -310,10 +307,10 @@ Weight: 20~
 
 STATISTICS:
 
-Equipped Abilities:
-- +5% Resistance to Slashing, Piercing, and Crushing Damage
-- +1 to Constitution
-- 1/2 extra attack per round (Dwarven Defender only)
+Equipped abilities:
+- Resistance to Slashing, Piercing, and Crushing Damage: +5%
+- Constitution: +1
+- Attacks per round: +1/2 (Dwarven Defender only)
 
 THAC0: +2
 Damage: 2d4+3 (crushing)
@@ -321,7 +318,7 @@ Speed Factor: 2
 Proficiency Type: War Hammer
 Type: One-handed
 Requires:
- 16 Strength
+ 17 Strength
 
 Weight: 20~
 @138  = ~Silver Watch +2~
@@ -379,9 +376,9 @@ Weight: 2~
 STATISTICS:
 
 Equipped abilities:
-- +5% Resistance to all damage types (Paladin and Cleric only)
+- Resistance to all damage types: +5% (Paladin and Cleric only)
 - Armor Class: +1
-- Saving Throws: +1
+- Saving Throws: +1   
 - Protects against critical hits
 
 Weight: 2~
@@ -390,7 +387,7 @@ Weight: 2~
 
 STATISTICS:
 
-Equipped Abilities:
+Equipped abilities:
 - Movement Rate improved by 2
 - Immunity to fatigue
 - Backstab Multiplier: +1 (Stalkers only)
@@ -407,10 +404,10 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: -2 Penalty
-- 1/2 extra attack per round (Berserkers and Barbarians only)
+- Attacks per round: +1/2 (Berserkers and Barbarians only)
 
 Combat abilities:
-- Each successful hit deals extra 1d10 slashing damage to all enemies within 3 ft. in front of the wielder. Affected targets must save vs. Death at +2 or fall on the ground for 1 round.
+- On hit: All enemies within 3 ft. in front of the wielder take extra 1d10 slashing damage. Affected targets must save vs. Death at +2 or fall on the ground for 1 round.
 
 THAC0: +2
 Damage: 1d12+2 (slashing)
@@ -442,7 +439,7 @@ Weight: 1~
 
 Long ago, this forsaken blade belonged to an unnamed holy champion who was suddenly stripped of his deity's grace. Instead of seeking penance, he chose the path of vengeance. It is said that the slaughter of the followers of his former faith was so great that the screams of his victims became permanently imbued within the blade.
 
-Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Because of unspeakable atrocities committed with it in the past, only those who follow the path of the antipaladin, or who have become fallen paladins, can wield it.
+Bane of the Innocent strikes terror into the hearts of those who face it and does not tolerate the touch of the righteous. Because of unspeakable atrocities committed with it in the past, only Blackguards and fallen paladins can wield it.
 
 STATISTICS:
 
@@ -477,7 +474,7 @@ Equipped abilities:
 - Constitution: +1
 
 Combat abilities:
-- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Strike chance by 5%, and grants an extra attack per round (Berserker, Barbarian and Rashemi warrior only)
+- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Hit chance by 5%, and grants an extra attack per round (Berserker, Barbarian and Rashemi warrior only)
 - Furious Strikes: On a critical hit, the target is knocked back for 1 round
 
 THAC0: +5
@@ -510,7 +507,7 @@ Requires:
  3 Strength
 
 Weight: 1~
-@210  = ~Watcher's Oath +4~
+@210  = ~Watcher's Oath +3~
 @211  = ~Holy Shield of Protection: Watcher's Oath
 
 Watcher's Oath was once a simple, unenchanted shield that belonged to a Helmite squire. The young knight fell protecting his comrades during a siege of Helm's Hold, and his shield was shattered in battle. In honor of his sacrifice, the Helmites reforged the shield to serve as a symbol of unwavering duty. Its newly crafted rim is intricately decorated and features an engraved prayer to the Vigilant One, requesting aid for its bearer and all those who stand beside them.
@@ -518,13 +515,10 @@ Watcher's Oath was once a simple, unenchanted shield that belonged to a Helmite 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +5
+- Armor Class: +4
 - Saving Throws: +1
 - Magic Resistance: +10%
-- Aura of Protection (Paladin only):
-	All party members gain:
-   +1 bonus to Armor Class
-   +1 bonus to all saving throws
+- Aura of Protection: All party members gain +1 bonus to Armor Class and +1 bonus to all Saving Throws (Paladin only)
 
 Requires:
  10 Strength
@@ -532,17 +526,17 @@ Requires:
 
 Weight: 8~
 @212  = ~Pride of Ammarindar +4~
-@213  = ~Weapons like this two-handed axe were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of responsibility and loyalty toward one's clan. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
+@213  = ~Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
 
 STATISTICS:
 
 Equipped abilities:
-- +10% Resistance to Physical Damage (+20% for Dwarven defender)
-- 1/2 extra attack per round (Dwarven Defender only)
+- Armor Class: +1 (Dwarven Defender only)
+- Physical Damage Resistance: +10% (+20% for Dwarven Defender)
 
 Combat abilities:
-- Relentless Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Stunning Blow: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 2 rounds
+- Unyielding Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
+- Crushing Blow: 25% chance on hit to reduce the target's Physical Damage Resistance by 10% for 2 rounds (save vs. Death at -2 negates)
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
@@ -560,12 +554,12 @@ STATISTICS:
 
 Equipped abilities:
 - Fire and Cold Resistance: +20%
-- Armor Class: +2
-- Saving Throws: +1
+- Armor Class: +1
+- Saving Throws: +2
 - Wisdom: +2
 
 Combat abilities:
-- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Wand at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druid only)
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Staff at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druid only)
 
 THAC0: +5
 Damage: 1d6+5 (crushing)
@@ -580,7 +574,7 @@ Weight: 4~
 @216  = ~Crown of the High Inquisitor~
 @217  = ~The origins of this ancient helmet are lost to history, but its azure steel and silver ornamentation indicate that it once belonged to a high-ranking member of a long-forgotten paladin order. Though the order has long since been disbanded, the power lingering within the relic suggests that its sacred mission is far from over.
 
-TATISTICS:
+STATISTICS:
 
 Equipped abilities:
 - Saving Throws: +1 (+2 for Inquisitor)
@@ -608,7 +602,7 @@ Weight: 4~
 
 STATISTICS:
 
-Equipped Abilities:
+Equipped abilities:
 - Armor Class: 4
 - Decrease casting time by 2
 - Physical Damage resistance: +30% (Red Dragon Disciple only)
@@ -621,18 +615,18 @@ Charge abilities:
  Does not harm party members
 
 Weight: 3~
-@222  = ~Shoes of the Lady of the Forest~
-@223  = ~These shoes are said to have been crafted by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, they grant the wearer a powerful blessing, quickening their footsteps and deepening their bond with nature.
+@222  = ~Ring of the Lady of the Forest~
+@223  = ~This ring is said to have been worn by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, it grants the wearer a powerful blessing, strengthening their resilience and deepening their bond with nature.
 
 STATISTICS:
 
 Equipped abilities:
-- Doubles Movement Rate
-- Hide in Shadows and Move Silently: +15%
-- Visual Range: +2 (Ranger only)
+- Visual Range: +2
+- THAC0: +1 (Ranger only)
+- Damage: +2 (Ranger only)
 - Fire, Cold, Electricity, and Acid resistance: +20% (Ranger only)
 
-Weight: 4~
+Weight: 0~
 @224  = ~Herbert's Coat +5~
 @225  = ~This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
