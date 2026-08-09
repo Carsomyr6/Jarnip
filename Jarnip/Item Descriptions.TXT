@@ -603,8 +603,8 @@ Equipped abilities:
 - Constitution: +1
 
 Combat abilities:
-- Furious Strikes: Critical hits knock the target back and deal an additional 2d12 slashing damage
 - Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Strike chance by 5%, and grants an extra attack per round (Berserker, Barbarian and Rashemi warrior only)
+- Furious Strikes: On a critical hit, the target is knocked back and stunned for 1 round
 
 THAC0: +5
 Damage: 1d10+5 (slashing)
@@ -682,7 +682,7 @@ Equipped abilities:
 
 Combat abilities:
 - Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Worldbreaker: On a critical hit, the target must Save vs. Death at -2 or receive 20 slashing damage and be stunned for 2 rounds
+- Worldbreaker: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 1 round
 
 THAC0: +4
 Damage: 1d12+4 (slashing)
