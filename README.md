@@ -15,7 +15,7 @@ In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In 
 - 24 new items for Shadows of Amn
 - 12 new items for Throne of Bhaal
 - Class-specific equipment designed to increase gameplay variety
-- Expands game itemization while preserving the overall balance of the original game
+- Expands itemization while preserving the overall balance of the original game
 - Lore-friendly descriptions that don't break immersion into the Forgotten Realms setting
 - Designed for Vanilla+ Ascension/SCS/Insane playthroughs
 
