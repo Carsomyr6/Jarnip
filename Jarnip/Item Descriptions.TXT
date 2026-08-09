@@ -1,6 +1,7 @@
 Jarnip: A New Bonus Merchant for Baldur's Gate 2
 Item Descriptions
 
+Component 1
 JARNIP IN ATHKATLA
 
 Heart of Fury +3
@@ -554,6 +555,7 @@ Price: 18,000 gp
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+Component 2
 JARNIP IN SARADUSH
 
 Bane of the Innocent +4
