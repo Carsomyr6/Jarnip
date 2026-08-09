@@ -670,28 +670,28 @@ Price: 24,000 gp
 
 ========
 
-Axe of the Worldbreaker +4
-This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, the giant marched south, leaving a trail of destruction in his wake. Though believed invincible, Blaiz's reign of terror finally ended when a band of adventurers from Targos slew him in battle and claimed the axe as their prize.
+Pride of Ammarindar +4
+Weapons like this two-handed axe were granted to dwarven elders in ancient Ammarindar after they were chosen to lead their respective clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of responsibility and loyalty toward one's clan. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
 
 STATISTICS:
 
 Equipped abilities:
-- Regenerates 1 HP every 2 seconds
-- Hit Points: +10 (Fighter only)
+- +10% Resistance to Physical Damage (+20% for Dwarven defender)
+- 1/2 extra attack per round (Dwarven Defender only)
 
 Combat abilities:
-- Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Worldbreaker: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 2 rounds
+- Relentless Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
+- Stunning Blow: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 2 rounds
 
 THAC0: +4
 Damage: 1d12+4 (slashing)
-Speed Factor: 6
+Speed Factor: 5
 Proficiency Type: Axe
 Type: Two-handed
 Requires:
- 17 Strength
+ 16 Strength
 
-Weight: 25
+Weight: 20
 
 Price: 26,000 gp
 
