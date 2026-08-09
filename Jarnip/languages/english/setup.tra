@@ -533,13 +533,13 @@ Requires:
 
 Weight: 8~
 @212  = ~Axe of the Worldbreaker +4~
-@213  = ~This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, Blaiz marched south, leaving a trail of destruction in his wake. His reign of terror finally ended when a band of adventurers from Targos slew him in battle and claimed the axe as their prize.
+@213  = ~This mighty adamantine two-handed axe belonged to Blaiz the Worldbreaker, a giant warlord who once established a kingdom in the Spine of the World. After gathering an army of ogres, trolls, and orcs, the giant marched south, leaving a trail of destruction in his wake. Though believed invincible, Blaiz's reign of terror finally ended when a band of adventurers from Targos slew him in battle and claimed the axe as their prize.
 
 STATISTICS:
 
 Equipped abilities:
 - Regenerates 1 HP every 2 seconds
-- Attacks per round: -1/2 (No penalty for Fighter)
+- Hit Points: +10 (Fighter only)
 
 Combat abilities:
 - Relentless Onslaught: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
