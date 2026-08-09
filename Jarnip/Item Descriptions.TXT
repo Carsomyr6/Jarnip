@@ -684,14 +684,14 @@ Combat abilities:
 - Stunning Blow: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 2 rounds
 
 THAC0: +4
-Damage: 1d12+4 (slashing)
+Damage: 1d10+4 (slashing)
 Speed Factor: 5
 Proficiency Type: Axe
 Type: Two-handed
 Requires:
- 16 Strength
+ 15 Strength
 
-Weight: 20
+Weight: 15
 
 Price: 26,000 gp
 
