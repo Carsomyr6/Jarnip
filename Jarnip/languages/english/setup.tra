@@ -111,7 +111,7 @@ Requires:
 
 Weight: 2~
 @116  = ~Weavecutter +3~
-@117  = ~This axe is forged from black meteoric ore that seems to absorb the magical energy surrounding it. Legends claim that, during the final years of ancient Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. Fearing the power of Netherese arcanists, they used the metal to forge a handful of relics capable of suppressing nearby arcane magic. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+@117  = ~This axe is forged from black meteoric ore that seems to absorb all magical energy around it. Legends claim that, during the final years of ancient Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. Fearing the power of Netherese arcanists, they used the metal to forge a handful of relics capable of suppressing nearby arcane magic. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
 
 STATISTICS:
 
@@ -124,8 +124,7 @@ Combat abilities:
 - Enemies within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
 
 THAC0: +3
-Damage: 1d6+3
-Damage type (melee): Slashing
+Damage: 1d6+3 (slashing)
 Speed Factor: 1
 Proficiency Type: Axe
 Type: One-handed
