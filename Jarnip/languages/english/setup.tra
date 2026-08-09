@@ -545,14 +545,14 @@ Combat abilities:
 - Stunning Blow: 25% chance on hit the target must Save vs. Death at -2 or receive 2d12 slashing damage and be stunned for 2 rounds
 
 THAC0: +4
-Damage: 1d12+4 (slashing)
+Damage: 1d10+4 (slashing)
 Speed Factor: 5
 Proficiency Type: Axe
 Type: Two-handed
 Requires:
- 16 Strength
+ 15 Strength
 
-Weight: 20~
+Weight: 15~
 @214  = ~Grace of Eldath +5~
 @215  = ~Long ago, this unique greater Staff of the Woodlands belonged to a high vychlaran of Rashemen. Once, when the witch was trapped in Ashenwood and pursued by Thayan mercenaries, she noticed a feminine green hand emerging from a nearby pond, holding what appeared to be a wooden branch. The branch turned out to be a magical staff, which allowed her to escape her pursuers. Blessed by the Green Goddess herself, this artifact embodies her peaceful domain, granting a powerful blessing and invoking the judgment of nature against anyone who dares to harm the druid wielding it.
 
