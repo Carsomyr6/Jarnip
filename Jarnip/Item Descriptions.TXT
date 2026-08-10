@@ -1,5 +1,5 @@
 Jarnip: A New Bonus Merchant for Baldur's Gate 2
-v2.1.0
+v2.2.0
 
 Item Descriptions
 
@@ -30,7 +30,7 @@ Price: 25,000 gp
 ========
 
 Gilded Bulwark +2
-This may well be the most extravagant suit of armor ever forged in the Realms. It was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was shortly after slain by a gibberling. Though it reeks of vanity, this armor offers unmatched protection, provided its new owner has the strength to wear it.
+This armor was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was shortly after slain by a gibberling. Though it reeks of vanity, this armor offers exceptional protection, provided its new owner has the strength to wear it.
 
 STATISTICS:
 
@@ -49,7 +49,7 @@ Price: 50,000 gp
 ========
 
 Elaine +3
-This longbow is the pinnacle of Elven craftsmanship. It once belonged to Elaine, a legendary Arcane Archer who fell defending the elven city of Askavar over a thousand years ago. Some claim that Elaine's soul still resides within the bow, empowering its arrows with magical energy. Only those of Elven heritage may use it.
+This longbow is a masterpiece of Elven craftsmanship. It once belonged to Elaine, a legendary Arcane Archer who fell defending the elven city of Askavar over a thousand years ago. Some claim that Elaine's soul still resides within the bow, empowering its arrows with magical energy. Only those of Elven heritage may use it.
 
 STATISTICS:
 
@@ -57,10 +57,10 @@ Equipped abilities:
 - +2 THAC0 and damage with missile weapons and attack speed factor improved by 1 (Fighter/Mage only)
 
 Combat abilities:
-- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6+3 piercing and 1d4 magic damage
+- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6+3 piercing and 1 magic damage
 
 THAC0: +3
-Damage: 1d6+3 (piercing), +1d4 (magic)
+Damage: 1d6+3 (piercing), +1 (magic)
 Speed Factor: 4
 Proficiency Type: Longbow
 Type: Two-handed
@@ -143,27 +143,20 @@ Price: 12,000 gp
 
 ========
 
-Weavecutter +3
-This axe is forged from black meteoric ore that seems to absorb all magical energy around it. Legends claim that, during the final years of ancient Netheril, dwarven smiths discovered a unique meteoric ore with innate antimagic properties. Fearing the power of Netherese arcanists, they used the metal to forge a handful of relics capable of suppressing nearby arcane magic. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence.
+The Weavebreaker
+This amulet is forged from strange metal that seems to absorb the magical energy around it. It is said that ancient dwarven smiths once discovered a meteoric ore with unusual antimagic properties, which they used to forge a handful of relics. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in its presence. Because this amulet owes its properties not to enchantment but to the ancient dwarven ore, it is one of the few magic items that Wizard Slayers can use.
 
 STATISTICS:
 
 Equipped abilities:
 - Save vs. Spell: +2
 - Magic Resistance: +10% (Wizard Slayer only)
+- Disables the use of arcane spells by the wearer
 
 Combat abilities:
-- Enemies within 30 ft. suffer 25% arcane spell failure (Wizard Slayer only)
+- Enemies within 30 ft. suffer 20% arcane spell failure (Wizard Slayer only)
 
-THAC0: +3
-Damage: 1d6+3 (slashing)
-Speed Factor: 1
-Proficiency Type: Axe
-Type: One-handed
-Requires:
- 4 Strength
-
-Weight: 3
+Weight: 2
 
 Price: 20,000 gp
 
@@ -220,7 +213,7 @@ Equipped abilities:
 - Wisdom: +1 (Cleric only)
 
 Combat abilities:
-- On hit: the target must Save vs. Spell or become blinded for 1 round
+- On hit: 50% chance the target must Save vs. Spell or become blinded for 1 round
 - On hit: 15% chance of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
 
 THAC0: +3
@@ -363,7 +356,7 @@ Price: 30,000 gp
 =========
 
 Korgunth's Right Fist +2
-This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-handed fighting style, charging into enemy ranks with rage. Due to its sheer weight, his hammer, known as the "Right Fist," was capable of delivering devastating blows, especially against the traditional enemies of the dwarves: goblins, orcs, and giants.
+This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. Due to its sheer weight, his hammer, known as the "Right Fist," was capable of delivering devastating blows, especially against the traditional enemies of the dwarves: goblins, orcs, and giants.
 
 STATISTICS:
 
@@ -372,7 +365,7 @@ Equipped abilities:
 - Strength: +1 (Dwarves only)
 
 THAC0: +2
-Damage: 2d4+3 (crushing), extra +2d4 vs. goblins, orcs, and giants
+Damage: 2d4+3 (crushing), extra 2d4+3 vs. goblins, orcs, and giants
 Speed Factor: 2
 Proficiency Type: War Hammer
 Type: One-handed
@@ -386,7 +379,7 @@ Price: 10,000 gp
 =========
 
 Korgunth's Left Fist +2
-This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-handed fighting style, charging into enemy ranks with rage. The "Left Fist" was essential to Korgunth's martial techniques and allowed him to strike with deadly swiftness.
+This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. The "Left Fist" was essential to Korgunth's martial techniques and allowed him to strike with deadly swiftness.
 
 STATISTICS:
 
@@ -420,7 +413,7 @@ Equipped abilities:
 
 Combat abilities:
 - Melee range increased by 50% (3 ft. total)
-- On hit: 33% chance to stagger the target in place for 1 round and deal 1d10 piercing damage (no save)
+- On hit: 33% chance to stagger the target in place for 1 round (no save)
 
 THAC0: +2
 Damage: 1d10+2 (slashing or piercing, whichever is better)
@@ -537,7 +530,7 @@ Price: 12,000 gp
 =======
 
 Tormish Gauntlets
-On rare occasions, gauntlets such as these are granted to Champions of Torm after they have distinguished themselves in the service of the Church. They are trimmed with silver and designed to closely resemble Torm's holy symbol, making them immediately recognizable to all followers of the God of Duty.
+On rare occasions, gauntlets such as these are granted to champions of Torm after they have distinguished themselves in the service of the Church. They are trimmed with silver and designed to closely resemble Torm's holy symbol, making them immediately recognizable to all followers of the God of Duty.
 
 STATISTICS:
 
@@ -549,7 +542,7 @@ Equipped abilities:
 
 Weight: 1
 
-Price: 18,000 gp
+Price: 20,000 gp
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -654,7 +647,7 @@ Equipped abilities:
 - Armor Class: +4
 - Saving Throws: +1
 - Magic Resistance: +10%
-- Aura of Protection: All party members gain +1 bonus to Armor Class and +1 bonus to all Saving Throws (Paladin only)
+- Aura of Protection: All party members gain +1 to Armor Class and +1 to all Saving Throws (Paladin only)
 
 Requires:
  10 Strength
@@ -677,7 +670,7 @@ Equipped abilities:
 
 Combat abilities:
 - Unyielding Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Crushing Blow: 25% chance on hit to reduce the target's Physical Damage Resistance by 10% for 2 rounds (save vs. Death at -2 negates)
+- Crushing Blow: 25% chance on hit to reduce the target's Physical Damage Resistance by 5% for 4 rounds (save vs. Death at -2 negates)
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
@@ -701,7 +694,7 @@ STATISTICS:
 Equipped abilities:
 - Fire and Cold Resistance: +20%
 - Armor Class: +1
-- Saving Throws: +2
+- Saving Throws: +1
 - Wisdom: +2
 
 Combat abilities:
@@ -741,7 +734,7 @@ Price: 15,000 gp
 ========
 
 Cloak of the Scarlet Abbot
-Long ago, this legendary cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+Long ago, this cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
 
 STATISTICS:
 
@@ -759,14 +752,14 @@ Price: 12,000 gp
 ========
 
 Robe of Balagos
-This opulent red robe was crafted by the legendary dragon Balagos for his use whenever he assumed a human form. He later gifted it to a group of his human worshippers as a reward. Woven from heavy Calimshan silk and adorned with the scales of a great wyrm, the robe still channels Balagos's power and is said to recognize whether its wearer is of draconic descent.
+This opulent robe was crafted by the red dragon Balagos for his use whenever he assumed a human form. He later gifted it to a group of his human worshippers as a reward. Woven from heavy Calimshan silk and adorned with the scales of a great wyrm, the robe still channels Balagos's power and is said to recognize whether its wearer is of draconic descent.
 
 STATISTICS:
 
 Equipped abilities:
 - Armor Class: 4
 - Decrease casting time by 2
-- Physical Damage resistance: +30% (Red Dragon Disciple only)
+- Physical Damage resistance: +25% (Red Dragon Disciple only)
 - Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
 
 Charge abilities:
@@ -794,7 +787,7 @@ Equipped abilities:
 
 Weight: 0
 
-Price: 7,500 gp
+Price: 10,000 gp
 
 ========
 
@@ -804,7 +797,6 @@ This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdh
 STATISTICS:
 
 Equipped abilities:
-- Saving Throws: +1
 - Luck: +1 (Swashbuckler only)
 
 Combat abilities:
@@ -834,6 +826,3 @@ Equipped abilities:
 Weight: 1
 
 Price: 18,000 gp
-
-
-
