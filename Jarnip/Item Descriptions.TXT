@@ -1,5 +1,5 @@
 Jarnip: A New Bonus Merchant for Baldur's Gate 2
-Item Descriptions
+Item Descriptions v2.1.0
 
 Component 1
 JARNIP IN ATHKATLA
