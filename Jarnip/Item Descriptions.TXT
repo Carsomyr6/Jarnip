@@ -1,5 +1,7 @@
 Jarnip: A New Bonus Merchant for Baldur's Gate 2
-Item Descriptions v2.1.0
+v2.1.0
+
+Item Descriptions
 
 Component 1
 JARNIP IN ATHKATLA
@@ -792,7 +794,7 @@ Equipped abilities:
 
 Weight: 0
 
-Price: 15,000 gp
+Price: 7,500 gp
 
 ========
 
