@@ -13,7 +13,7 @@ STATISTICS:
 
 Equipped abilities:
 - Physical Damage Resistance: +20%
-- Hit Points: +10 (+20 for Barbarians)
+- Hit Points: +10 (Barbarians)
 
 THAC0: +3
 Damage: 1d10+3 (slashing), +1 (cold)
@@ -35,10 +35,10 @@ This armor was commissioned at great expense by Sir Alrond, a wealthy nobleman f
 STATISTICS:
 
 Equipped abilities:
-- Physical Damage Resistance: +5% (+15% for Cavalier)
-- Charisma: +1 (+2 for Cavalier)
+- Physical Damage Resistance: +5% (+15% for Cavaliers)
+- Charisma: +1 (+2 for Cavaliers)
 
-Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavalier)
+Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile), -2 (Cavaliers)
 Requires:
  18 Strength
 
@@ -54,7 +54,7 @@ This longbow is a masterpiece of Elven craftsmanship. It once belonged to Elaine
 STATISTICS:
 
 Equipped abilities:
-- +2 THAC0 and damage with missile weapons and attack speed factor improved by 1 (Fighter/Mage only)
+- +2 THAC0 and damage, +1 attack speed factor (Fighter/Mages only)
 
 Combat abilities:
 - When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6+3 piercing and 1 magic damage
@@ -81,7 +81,7 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Spell Casting Speed Improved by 1 (2 for Fighter/Mage)
+- Spell Casting Speed: +2
 
 THAC0: +3
 Damage: 1d8+3 (slashing), +1 (magic)
@@ -105,8 +105,8 @@ STATISTICS:
 
 Equipped abilities:
 - Weapon Speed Factor: +1
-- Visual Range: +2 (+4 for Stalker)
-- Attacks per round: +1/2 (Stalker only)
+- Visual Range: +2 (+4 for Stalkers)
+- Attacks per round: +1/2 (Stalkers)
 - Protects against critical hits
 
 Weight: 2
@@ -122,8 +122,8 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +2
-- Critical Hit chance: +5% (Swashbuckler and Blade only)
-- Luck: +1 (Swashbuckler only)
+- Critical Hit chance: +5% (Swashbucklers and Blades)
+- Luck: +1 (Swashbucklers)
 
 Combat abilities:
 - On hit: improves the wielder's Armor Class by 1 for 2 rounds
@@ -149,12 +149,12 @@ This amulet is forged from strange metal that seems to absorb the magical energy
 STATISTICS:
 
 Equipped abilities:
-- Save vs. Spell: +2
-- Magic Resistance: +10% (Wizard Slayer only)
+- Saving Throws: +2
+- Magic Resistance: +10% (Wizard Slayers)
 - Disables the use of arcane spells by the wearer
 
 Combat abilities:
-- Enemies within 30 ft. suffer 20% arcane spell failure (Wizard Slayer only)
+- Enemies within 30 ft. suffer 20% arcane spell failure (Wizard Slayers)
 
 Weight: 2
 
@@ -168,7 +168,7 @@ This obsidian spear is adorned with the symbol of Talos etched just beneath its 
 STATISTICS:
 
 Equipped abilities:
-- Electricity Damage dealt by the wielder: +15% (Druid only)
+- Electricity Damage: +15% (Druids)
 
 Combat abilities:
 - On hit: 15% chance to cast Call Lightning on the target (4d8 damage, save vs. spell for half)
@@ -196,7 +196,7 @@ STATISTICS:
 
 Equipped abilities:
 - Protects against critical hits
-- The wearer is under a permanent state of magical alcohol intoxication. It grants +3 to Armor Class and +1 to THAC0 and Damage when attacking with fists. It has no negative impact on Luck or Saving Throws (Monk only)
+- The wearer is under a permanent state of magical alcohol intoxication. It grants +3 to Armor Class and +1 to THAC0 and Damage when attacking with fists. It has no negative impact on Luck or Saving Throws (Monks)
 
 Weight: 3
 
@@ -208,9 +208,6 @@ Judicator +3
 According to legends, Judicator was forged by archons of Mount Celestia and bestowed upon a mortal Justiciar of Tyr centuries ago. Since then, it has assisted innumerable battles against the forces of evil, even beyond Toril. Judicator shines with a divine light that blazes upon its foes, blinding the unworthy and smiting evil with holy radiance.
 
 STATISTICS:
-
-Equipped abilities:
-- Wisdom: +1 (Cleric only)
 
 Combat abilities:
 - On hit: 50% chance the target must Save vs. Spell or become blinded for 1 round
@@ -240,7 +237,7 @@ Equipped abilities:
 - Attacks per round: +1/2 (+1 for Kensai)
 
 Combat abilities:
-- For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai only)
+- For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai)
 
 THAC0: +2
 Damage: 1d10+2 (slashing)
@@ -283,7 +280,7 @@ STATISTICS:
 Equipped abilities:
 - THAC0 and Damage: +1
 - Slashing, Crushing, and Piercing Damage: +10% bonus
-- Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians only)
+- Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by further 5% for 1 round (Barbarians)
 - Protects against critical hits
 
 Weight: 1
@@ -298,7 +295,7 @@ The blade of this sword is plain and unremarkable, forged from dark, unpolished 
 STATISTICS: 
 
 Equipped abilities:
-- When Hit Points fall below 50%, the wielder gains +2 bonus to THAC0. When Hit Points fall below 25%, the wielder gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance (Fighter only)
+- When Hit Points fall below 50%, the wielder gains +2 bonus to THAC0. When Hit Points fall below 25%, the wielder gains an additional +2 THAC0 bonus and a +5% bonus to Critical Hit chance (Fighters)
 
 Combat abilities:
 - On hit: 20% chance to grant the wielder +1 bonus to damage for 1 turn
@@ -332,8 +329,8 @@ STATISTICS:
 Equipped abilities:
 - Cursed
 - Immune to Remove Curse
-- Charisma: -5 penalty (0 for Blackguard)
-- Constitution: -2 penalty (0 for Blackguard)
+- Charisma: -5 penalty
+- Constitution: -2 penalty
 - Appearance changes: skin turns pale gray, hair becomes bone-white
 
 Combat abilities:
@@ -362,7 +359,7 @@ STATISTICS:
 
 Equipped abilities:
 - Resistance to Slashing, Piercing, and Crushing Damage: +5%
-- Strength: +1 (Dwarves only)
+- Strength: +1 (Dwarves)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra 2d4+3 vs. goblins, orcs, and giants
@@ -386,7 +383,7 @@ STATISTICS:
 Equipped abilities:
 - Resistance to Slashing, Piercing, and Crushing Damage: +5%
 - Constitution: +1
-- Attacks per round: +1/2 (Dwarven Defender only)
+- Attacks per round: +1/2 (Dwarven Defenders)
 
 THAC0: +2
 Damage: 2d4+3 (crushing)
@@ -408,8 +405,7 @@ The blade of this finely decorated halberd has gold-plated edges and is forged f
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1 (Fighter only)
-- Movement Rate improved by 2
+- Movement Rate: +2 (Fighters)
 
 Combat abilities:
 - Melee range increased by 50% (3 ft. total)
@@ -438,7 +434,6 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +3 (+5 for Blackguards)
 - Saving Throws: +1 (+3 for Blackguards)
-- Fire and Cold Resistance: +10%
 
 Combat abilities:
 - Casts Doom on whoever hits the wielder: -2 penalty to THAC0 and Saving Throws for 1 turn
@@ -458,7 +453,7 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +1
 - Melee THAC0: +1
-- Melee Critical Hit chance: +5% (Swashbuckler and Blade only)
+- Melee Critical Hit chance: +5% (Swashbucklers and Blades)
 
 Weight: 2
  
@@ -472,7 +467,7 @@ A relic of the Lathanderite church, Helm of the Faithful is said to be imbued wi
 STATISTICS:
 
 Equipped abilities:
-- Resistance to all damage types: +5% (Paladin and Cleric only)
+- Resistance to all damage types: +5% (Paladins and Clerics)
 - Armor Class: +1
 - Saving Throws: +1   
 - Protects against critical hits
@@ -489,9 +484,9 @@ This leather armor was crafted for the leader of the Wardens of the Bloodstone G
 STATISTICS:
 
 Equipped abilities:
-- Movement Rate improved by 2
+- Movement Rate: +2
 - Immunity to fatigue
-- Backstab Multiplier: +1 (Stalkers only)
+- Backstab Multiplier: +1 (Stalkers)
 
 Armor Class: 3 (1 vs. slashing, 2 vs. piercing and missile)
 Requires:
@@ -510,7 +505,7 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: -2 Penalty
-- Attacks per round: +1/2 (Berserkers and Barbarians only)
+- Attacks per round: +1/2 (Berserkers and Barbarians)
 
 Combat abilities:
 - On hit: All enemies within 3 ft. in front of the wielder take extra 1d10 slashing damage. Affected targets must save vs. Death at +2 or fall on the ground for 1 round.
@@ -537,11 +532,10 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +1
 - Saving Throws: +1
-- Spell Casting Speed Improved by 1 (Clerics and Paladins only)
-- Divine Casting Level: +1 (Clerics and Paladins only)
+- Spell Casting Speed: +1 (Clerics and Paladins)
+- Divine Casting Level: +1 (Clerics and Paladins)
 
 Weight: 1
-
 Price: 20,000 gp
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -559,7 +553,7 @@ Bane of the Innocent strikes terror into the hearts of those who face it and doe
 STATISTICS:
 
 Equipped abilities:
-- Fire Resistance: +20% (+40% for Blackguard)
+- Fire Resistance: +30%
 - Characters of Good or Neutral alignment are slain upon equipping this sword
 
 Combat abilities:
@@ -594,7 +588,7 @@ Equipped abilities:
 - Constitution: +1
 
 Combat abilities:
-- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Hit chance by 5%, and grants an extra attack per round (Berserker, Barbarian and Rashemi warrior only)
+- Heroic Inspiration: While enraged, increases Armor Class by 2, Critical Hit chance by 5%, and grants an extra attack per round
 - Furious Strikes: On a critical hit, the target is knocked back for 1 round
 
 THAC0: +5
@@ -618,7 +612,7 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +2
-- Attacks per round: +1 (Bard and Thief only)
+- Attacks per round: +1 (Bards and Thieves)
 
 Combat abilities:
 - Sapphire Guard: On a critical miss, casts Mirror Image on self
@@ -647,7 +641,7 @@ Equipped abilities:
 - Armor Class: +4
 - Saving Throws: +1
 - Magic Resistance: +10%
-- Aura of Protection: All party members gain +1 to Armor Class and +1 to all Saving Throws (Paladin only)
+- Aura of Protection: All party members gain +1 to Armor Class and +1 to all Saving Throws (Paladins and Priests of Helm)
 
 Requires:
  10 Strength
@@ -660,13 +654,13 @@ Price: 24,000 gp
 ========
 
 Pride of Ammarindar +4
-Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
+Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of responsibility toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1 (Dwarven Defender only)
-- Physical Damage Resistance: +10% (+20% for Dwarven Defender)
+- Armor Class: +1 (Dwarven Defenders)
+- Physical Damage Resistance: +10% (+20% for Dwarven Defenders)
 
 Combat abilities:
 - Unyielding Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
@@ -698,7 +692,7 @@ Equipped abilities:
 - Wisdom: +2
 
 Combat abilities:
-- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Staff at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druid only)
+- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Staff at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druids)
 
 THAC0: +5
 Damage: 1d6+5 (crushing)
@@ -721,8 +715,8 @@ The origins of this ancient helmet are lost to history, but its azure steel and 
 STATISTICS:
 
 Equipped abilities:
-- Saving Throws: +1 (+2 for Inquisitor)
-- Magic Resistance: +5% (+10% for Inquisitor)
+- Saving Throws: +1 (+2 for Inquisitors)
+- Magic Resistance: +5% (+10% for Inquisitors)
 
 Combat abilities:
 - Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitor only)
@@ -734,13 +728,13 @@ Price: 15,000 gp
 ========
 
 Cloak of the Scarlet Abbot
-Long ago, this cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown, but there is little doubt that it is one of the most powerful monk relics in the Realms.
+Long ago, this cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown.
 
 STATISTICS:
 
 Equipped abilities:
 - Hit Points: +10
-- Attacks per round: +1 (Monk only)
+- Attacks per round: +1 (Monks)
 
 Combat abilities:
 - Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
@@ -758,9 +752,9 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: 4
-- Decrease casting time by 2
-- Physical Damage resistance: +25% (Red Dragon Disciple only)
-- Fire damage dealt by the wearer: +20% (Red Dragon Disciple only)
+- Spell Casting Speed: +2
+- Physical Damage resistance: +25% (Red Dragon Disciples)
+- Fire damage dealt by the wearer: +20% (Red Dragon Disciples)
 
 Charge abilities:
 - Casts Dragon Breath once per day
@@ -781,9 +775,9 @@ STATISTICS:
 
 Equipped abilities:
 - Visual Range: +2
-- THAC0: +1 (Ranger only)
-- Damage: +2 (Ranger only)
-- Fire, Cold, Electricity, and Acid resistance: +20% (Ranger only)
+- THAC0: +1 (Rangers)
+- Damage: +2 (Rangers)
+- Fire, Cold, Electricity, and Acid resistance: +20% (Rangers)
 
 Weight: 0
 
@@ -798,12 +792,12 @@ STATISTICS:
 
 Equipped abilities:
 - Saving Throws: +1
-- Luck: +1 (Swashbuckler only)
+- Luck: +1 (Swashbucklers)
 
 Combat abilities:
 - Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
 
-Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbuckler)
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbucklers)
 Requires:
  8 Strength
 
@@ -821,7 +815,7 @@ STATISTICS:
 Equipped abilities:
 - Saving Throws vs. Spell: +2
 - Magic Damage Resistance: +30%
-- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mage only)
+- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mages)
 - Protects against critical hits
 
 Weight: 1
