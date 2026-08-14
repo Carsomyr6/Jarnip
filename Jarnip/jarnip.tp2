@@ -43,8 +43,8 @@ LANGUAGE ~English~
          ~english~
          ~Jarnip/Languages/english/setup.tra~
 
-BEGIN @100 /* Jarnip: A New Bonus Merchant for Baldur's Gate 2 */
-REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) @101 /* Must be installed on BG2, BGT, BG2EE or EET */
+BEGIN @100 /* Jarnip: A New Bonus Merchant in the Adventurer's Mart */
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~) @101 /* Must be installed on BG2EE or EET */
 
 // JARNIP'S DIALOGUE
 
@@ -561,7 +561,7 @@ Equipped abilities:
 Weight: 1 */
 
 BEGIN @200 /* Jarnip in ToB: A New Merchant in Saradush */
-REQUIRE_PREDICATE (GAME_IS ~bgt soa tob bg2ee eet~) @201 /* Must be installed on BG2, BGT, BG2EE or EET */
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~) @201 /* Must be installed on BG2EE or EET */
 
 // JARNIP'S DIALOGUE
 
