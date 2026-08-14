@@ -14,7 +14,7 @@ ALWAYS
 
 	LAF autotra_workaround END
 
-	ACTION_IF GAME_IS ~bgee eet~ BEGIN
+	ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
 //  ACTION_DEFINE_ARRAY RL#_noconvert BEGIN END
 
 		ACTION_DEFINE_ARRAY RL#_reload BEGIN Setup END
