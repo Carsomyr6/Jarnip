@@ -1,4 +1,4 @@
-@100  = ~Jarnip: A New Bonus Merchant for Baldur's Gate 2~
+@100  = ~Jarnip: A New Bonus Merchant in the Adventurer's Mart~
 @101  = ~Must be installed on BG2EE or EET~
 @102  = ~Jarnip~
 @103  = ~Jarnip's Wares~
@@ -419,7 +419,7 @@ Equipped abilities:
 
 Weight: 1~
 @200  = ~Jarnip in ToB: A New Merchant in Saradush~
-@201  = ~Must be installed on BG2, BGT, BG2EE or EET~
+@201  = ~Must be installed on BG2EE or EET~
 @202  = ~Jarnip~
 @203  = ~Jarnip's Wares~
 @204  = ~Bane of the Innocent +4~
