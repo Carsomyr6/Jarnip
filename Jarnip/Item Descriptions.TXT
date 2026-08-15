@@ -860,6 +860,7 @@ STATISTICS:
 
 Equipped abilities:
 - Backstab Multiplier: -1 penalty
+- Non-detection
 - Hide in Shadows and Move Silently: +15%
 
 Combat abilities:
