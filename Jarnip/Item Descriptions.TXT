@@ -824,7 +824,7 @@ Price: 18,000 gp
 
 ========
 
-Pain of the Damned +3
+Torment of Acheron +3
 This cursed dagger belonged to an ancient Netherese necromancer who used it for ritual sacrifices in his pursuit of immortality. Upon his death, the gods themselves cast him into Acheron as punishment for his crimes, yet even there he continued his sinister experiments. It is said that he eventually became a demilich and somehow found his way back to Toril, though what became of him afterward remains a mystery.
 
 STATISTICS:
