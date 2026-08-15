@@ -674,11 +674,12 @@ Weight: 1~
 STATISTICS:
 
 Equipped abilities:
-- Backstab Multiplier: -1 penalty
-- Hide in Shadows and Move Silently: +15%
+– Backstab Multiplier: -1 penalty
+– Non-detection
+– Hide in Shadows and Move Silently: +15%
 
 Combat abilities:
-- Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+– Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
 
 THAC0: +4
 Damage: 1d6+4 (piercing)
