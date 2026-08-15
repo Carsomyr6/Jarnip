@@ -811,3 +811,30 @@ Equipped abilities:
 - Protects against critical hits
 
 Weight: 1 */
+
+COPY ~%MOD_FOLDER%/items/JP#87.itm~ ~override~
+SAY NAME1 @228 /* Torment of Acheron +3 */
+SAY NAME2 @228 /* Torment of Acheron +3 */
+SAY DESC @229 /* Long ago, this dagger belonged to an ancient Netherese necromancer who used it for countless ritual sacrifices in his quest for godhood. Upon his death, the gods themselves cast him into Acheron as punishment for his crimes, yet even there he continued his sinister experiments. It is said that he eventually became a demilich and somehow found his way back to Toril, though what became of him afterward is unknown.
+
+STATISTICS:
+
+Equipped abilities:
+- Cursed
+- Strength: -2
+- Save vs. Death: +2
+- Caster Level: +2 (Necromancers)
+- Can memorize one extra arcane 6th-level spell, one extra 7th-level spell, and one extra 8th-level spell (Necromancers)
+
+Charge abilities:
+- Twice per day can summon five skeleton warriors
+
+THAC0: +3
+Damage: 1d4+3 (piercing), +1 (cold)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1 */
