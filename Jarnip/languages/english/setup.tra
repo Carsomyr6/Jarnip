@@ -668,3 +668,25 @@ Requires:
  3 Strength
 
 Weight: 1~
+@230  = ~Dance of Death +4~
+@231  = ~Few know the true name of the assassin who wielded this blade. The oldest surviving accounts call her only the Dancer, a master of stealth capable of slipping through guarded halls and crowded streets without ever being seen. It is said that she served no lord and accepted no payment, choosing her victims according to her own peculiar sense of justice. After decades of murder, the Dancer simply vanished, leaving behind only her blade.
+
+STATISTICS:
+
+Equipped abilities:
+- Backstab Multiplier: -1 penalty
+- Hide in Shadows and Move Silently: +15%
+
+Combat abilities:
+- Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+
