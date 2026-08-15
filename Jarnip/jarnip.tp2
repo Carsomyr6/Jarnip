@@ -4,6 +4,39 @@ VERSION ~v2.2.1~
 
 README ~Jarnip/README.TXT~
 
+ALWAYS
+
+
+	DEFINE_ACTION_FUNCTION autotra_workaround BEGIN
+	COPY ~Jarnip/Languages/English~				~weidu_external/Jarnip/Languages/autotra/%LANGUAGE%~
+	COPY ~Jarnip/Languages/%LANGUAGE%~				~weidu_external/Jarnip/Languages/autotra/%LANGUAGE%~
+	END
+
+	LAF autotra_workaround END
+
+	ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
+//  ACTION_DEFINE_ARRAY RL#_noconvert BEGIN END
+
+		ACTION_DEFINE_ARRAY RL#_reload BEGIN Setup END
+
+			LAF HANDLE_CHARSETS
+				INT_VAR
+				infer_charsets = 1
+				STR_VAR
+				tra_path = EVAL ~weidu_external/Jarnip/Languages/autotra~
+				out_path = EVAL ~weidu_external/Jarnip/Languages/autotra/UTF8~
+				iconv_path = ~Jarnip/Languages/autotra/iconv~
+				// noconvert_array = RL#_noconvert
+				reload_array = RL#_reload
+			END
+
+	// Backup ANSI
+	COPY ~weidu_external/Jarnip/Languages/autotra/%LANGUAGE%~			~weidu_external/Jarnip/Languages/autotra/ANSI/%LANGUAGE%~
+	// UTF8 only
+	COPY ~weidu_external/Jarnip/Languages/autotra/UTF8/%LANGUAGE%~			~weidu_external/Jarnip/Languages/autotra/%LANGUAGE%~
+	END
+END
+
 AUTO_TRA ~weidu_external/Jarnip/Languages/autotra/%s~
 
 LANGUAGE ~English~
