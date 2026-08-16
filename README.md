@@ -5,7 +5,7 @@ MOD VERSION: v2.3.0		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
 
 This mod for Baldur's Gate 2 adds a new bonus merchant named **Jarnip** to Shadows of Amn and Throne of Bhaal. Like his colleagues Joluv and Deidre, Jarnip sells a collection of unique magical items to aid you during your adventures. Suffering from an excess of gold pieces in your purse? The prices of Jarnip's wares are among the highest on the Sword Coast, but his stock is carefully curated to satisfy the expectations of even the most demanding customers.
 
-Jarnip introduces **38 new items** that were designed for Vanilla+ SCS/Insane playthroughs. Instead of simply introducing more powerful gear, this mod expands the range of viable equipment without rendering iconic BG2 weapons obsolete. Every new item was carefully designed with balance in mind, and comes with class-specific bonuses and abilities. The priority was to reinforce class fantasy while preserving the feel and progression of the original game. Please note that other mods changing vanilla classes and kits are likely to affect gameplay balance.
+Jarnip introduces **36 new items** that were designed for Vanilla+ SCS/Insane playthroughs. Instead of simply introducing more powerful gear, this mod expands the range of viable equipment without rendering iconic BG2 weapons obsolete. Every new item was carefully designed with balance in mind, and comes with class-specific bonuses and abilities. The priority was to reinforce class fantasy while preserving the feel and progression of the original game. Please note that other mods changing vanilla classes and kits are likely to affect gameplay balance.
 
 In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In Throne of Bhaal, Jarnip finds himself trapped in the Tankard Tree tavern in Saradush.
 
@@ -13,7 +13,7 @@ In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In 
 
 - Adds a new bonus merchant, Jarnip, selling a variety of new class-specific items
 - 24 new items in Shadows of Amn
-- 14 new items in Throne of Bhaal
+- 12 new items in Throne of Bhaal
 - Class-specific equipment designed to increase gameplay variety
 - Expands itemization while preserving the balance and progression of the original game
 - Lore-friendly descriptions that don't break immersion into the Forgotten Realms setting
