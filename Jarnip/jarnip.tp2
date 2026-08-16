@@ -807,9 +807,9 @@ Requires:
 Weight: 10 */
 
 COPY ~%MOD_FOLDER%/items/JP#88.itm~ ~override~
-SAY NAME1 @228 /* Torment of Acheron +3 */
-SAY NAME2 @228 /* Torment of Acheron +3 */
-SAY DESC @229 /* Long ago, this dagger belonged to an ancient Netherese necromancer who used it for countless ritual sacrifices in his quest for godhood. Upon his death, the gods themselves cast him into Acheron as punishment for his crimes, yet even there he continued his sinister experiments. It is said that he eventually became a demilich and somehow found his way back to Toril, though what became of him afterward is unknown.
+SAY NAME1 @226 /* Torment of Acheron +3 */
+SAY NAME2 @226 /* Torment of Acheron +3 */
+SAY DESC @227 /* Long ago, this dagger belonged to an ancient Netherese necromancer who used it for countless ritual sacrifices in his quest for godhood. Upon his death, the gods themselves cast him into Acheron as punishment for his crimes, yet even there he continued his sinister experiments. It is said that he eventually became a demilich and somehow found his way back to Toril, though what became of him afterward is unknown.
 
 STATISTICS:
 
