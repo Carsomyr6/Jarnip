@@ -708,7 +708,7 @@ Price: 30,000 gp
 
 ========
 
-Helm of Adsiltia
+Adsiltia's Judgment
 The legendary champion of Tyr Adsiltia wore this enchanted helmet during her final battle, when she descended into Cania to rescue her betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the helmet survived and eventually found its way back to Toril.
 
 STATISTICS:
