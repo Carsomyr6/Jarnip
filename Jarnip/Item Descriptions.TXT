@@ -855,7 +855,7 @@ Price: 25,000 gp
 ========
 
 Dance of Death +4
-Few know the true name of the assassin who became notorious for a series of murders of high-profile figures in Athkatla some fifty years ago. The surviving accounts call her only the Dancer, a master of stealth who was allegedly able to slip through crowded streets and guarded halls without ever being seen. It is said that she served no lord and accepted no payment, targeting wealthy slavers and corrupt officials according to her own sense of justice. After her final assassination of a high-ranking Cowled Wizard, the Dancer was nearly captured but somehow vanished, leaving behind only her blade.
+Few know the true name of the assassin who committed a series of murders targeting high-profile figures in Athkatla some fifty years ago. The surviving accounts call her only the Dancer, a master of stealth who could slip through crowded streets and guarded halls without ever being seen. It is said that she served no lord and accepted no payment, targeting wealthy slavers and corrupt officials according to her own sense of justice. After her final assassination of a high-ranking Cowled Wizard, the Dancer was nearly captured but somehow vanished, leaving behind only her blade.
 
 STATISTICS:
 
