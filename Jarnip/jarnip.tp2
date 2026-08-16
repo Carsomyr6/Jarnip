@@ -763,19 +763,28 @@ Charge abilities:
 Weight: 3 */
 
 COPY ~%MOD_FOLDER%/items/JP#90.itm~ ~override~
-SAY NAME1 @222 /* Ring of the Lady of the Forest */
-SAY NAME2 @222 /* Ring of the Lady of the Forest */
-SAY DESC @223 /* This ring is said to have been worn by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, it grants the wearer a powerful blessing, strengthening their resilience and deepening their bond with nature.
+SAY NAME1 @222 /* Dance of Death +4 */
+SAY NAME2 @222 /* Dance of Death +4 */
+SAY DESC @223 /* Few know the true name of the assassin who wielded this blade. The oldest surviving accounts call her only the Dancer, a master of stealth capable of slipping through guarded halls and crowded streets without ever being seen. It is said that she served no lord and accepted no payment, choosing her victims according to her own peculiar sense of justice. After decades of murder, the Dancer simply vanished, leaving behind only her blade.
 
 STATISTICS:
 
 Equipped abilities:
-- Visual Range: +2
-- THAC0: +1 (Rangers)
-- Damage: +2 (Rangers)
-- Fire, Cold, Electricity, and Acid resistance: +20% (Rangers)
+- Backstab Multiplier: -1 penalty
+- Hide in Shadows and Move Silently: +15%
 
-Weight: 0 */
+Combat abilities:
+- Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2 */
 
 COPY ~%MOD_FOLDER%/items/JP#89.itm~ ~override~
 SAY NAME1 @224 /* Herbert's Coat +5 */
@@ -796,21 +805,6 @@ Requires:
  8 Strength
 
 Weight: 10 */
-
-COPY ~%MOD_FOLDER%/items/JP#88.itm~ ~override~
-SAY NAME1 @226 /* Nethraval's Ardor */
-SAY NAME2 @226 /* Nethraval's Ardor */
-SAY DESC @227 /* The legendary eldritch knight Nethraval wore this enchanted circlet during his final battle, when he descended into Cania to rescue his betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the circlet survived and eventually found its way back to Toril.
-
-STATISTICS:
-
-Equipped abilities:
-- Saving Throws vs. Spell: +2
-- Magic Damage Resistance: +30%
-- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mages)
-- Protects against critical hits
-
-Weight: 1 */
 
 COPY ~%MOD_FOLDER%/items/JP#87.itm~ ~override~
 SAY NAME1 @228 /* Torment of Acheron +3 */
@@ -840,26 +834,4 @@ Requires:
 Weight: 1 */
 
 COPY ~%MOD_FOLDER%/items/JP#86.itm~ ~override~
-SAY NAME1 @230 /* Dance of Death +4 */
-SAY NAME2 @230 /* Dance of Death +4 */
-SAY DESC @231 /* Few know the true name of the assassin who wielded this blade. The oldest surviving accounts call her only the Dancer, a master of stealth capable of slipping through guarded halls and crowded streets without ever being seen. It is said that she served no lord and accepted no payment, choosing her victims according to her own peculiar sense of justice. After decades of murder, the Dancer simply vanished, leaving behind only her blade.
-
-STATISTICS:
-
-Equipped abilities:
-- Backstab Multiplier: -1 penalty
-- Hide in Shadows and Move Silently: +15%
-
-Combat abilities:
-- Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
-
-THAC0: +4
-Damage: 1d6+4 (piercing)
-Speed Factor: 1
-Proficiency Type: Short Sword
-Type: One-handed
-Requires:
- 5 Strength
-
-Weight: 2 */
 
