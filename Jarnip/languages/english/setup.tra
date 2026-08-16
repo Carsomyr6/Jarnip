@@ -643,20 +643,8 @@ Requires:
  8 Strength
 
 Weight: 10~
-@226  = ~Nethraval's Ardor~
-@227  = ~The legendary eldritch knight Nethraval wore this enchanted circlet during his final battle, when he descended into Cania to rescue his betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the circlet survived and eventually found its way back to Toril.
-
-STATISTICS:
-
-Equipped abilities:
-– Saving Throws vs. Spell: +2
-– Magic Damage Resistance: +30%
-– Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mages)
-– Protects against critical hits
-
-Weight: 1~
-@228  = ~Eternal Torment +3~
-@229  = ~The intricate ornamentation suggests that this dagger was originally crafted in ancient Illefarn for some kind of religious ritual. However, whatever magic this blade once possessed has since been corrupted by the lich Velsharoon, who used it to sacrifice countless victims in an attempt to achieve godhood. Whether the dagger was stolen from Velsharoon or discarded after he found a more powerful artifact, the necromantic curse it possesses is as sinister as it is powerful.
+@226  = ~Eternal Torment +3~
+@227  = ~The intricate ornamentation suggests that this dagger was originally crafted in ancient Illefarn for some kind of religious ritual. However, whatever magic this blade once possessed has since been corrupted by the lich Velsharoon, who used it to sacrifice countless victims in an attempt to achieve godhood. Whether the dagger was stolen from Velsharoon or discarded after he found a more powerful artifact, the necromantic curse it possesses is as sinister as it is powerful.
 
 STATISTICS:
 
