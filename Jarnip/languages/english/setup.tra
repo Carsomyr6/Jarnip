@@ -604,18 +604,28 @@ Charge abilities:
  Does not harm party members
 
 Weight: 3~
-@222  = ~Ring of the Lady of the Forest~
-@223  = ~This ring is said to have been worn by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, it grants the wearer a powerful blessing, strengthening their resilience and deepening their bond with nature.
+@222  = ~Dance of Death +4~
+@223  = ~Few know the true name of the assassin who committed a series of murders targeting high-profile figures in Athkatla some fifty years ago. The surviving accounts call her only the Dancer, a master of stealth who could slip through crowded streets and guarded halls without ever being seen. It is said that she served no lord and accepted no payment, targeting wealthy slavers and corrupt officials according to her own sense of justice. After her final assassination of a high-ranking Cowled Wizard, the Dancer was nearly captured but somehow vanished, leaving behind only her blade.
 
 STATISTICS:
 
 Equipped abilities:
-– Visual Range: +2
-– THAC0: +1 (Rangers)
-– Damage: +2 (Rangers)
-– Fire, Cold, Electricity, and Acid resistance: +20% (Rangers)
+– Backstab Multiplier: -1 penalty
+– Non-detection
+– Hide in Shadows and Move Silently: +15%
 
-Weight: 0~
+Combat abilities:
+– Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
 @224  = ~Herbert's Coat +5~
 @225  = ~This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
@@ -669,26 +679,3 @@ Requires:
  3 Strength
 
 Weight: 1~
-@230  = ~Dance of Death +4~
-@231  = ~Few know the true name of the assassin who committed a series of murders targeting high-profile figures in Athkatla some fifty years ago. The surviving accounts call her only the Dancer, a master of stealth who could slip through crowded streets and guarded halls without ever being seen. It is said that she served no lord and accepted no payment, targeting wealthy slavers and corrupt officials according to her own sense of justice. After her final assassination of a high-ranking Cowled Wizard, the Dancer was nearly captured but somehow vanished, leaving behind only her blade.
-
-STATISTICS:
-
-Equipped abilities:
-– Backstab Multiplier: -1 penalty
-– Non-detection
-– Hide in Shadows and Move Silently: +15%
-
-Combat abilities:
-– Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
-
-THAC0: +4
-Damage: 1d6+4 (piercing)
-Speed Factor: 1
-Proficiency Type: Short Sword
-Type: One-handed
-Requires:
- 5 Strength
-
-Weight: 2~
-
