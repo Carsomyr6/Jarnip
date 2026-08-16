@@ -832,13 +832,13 @@ STATISTICS:
 
 Equipped abilities:
 - Cursed
-- Strength: -2
+- Magic Resistance: -20% penalty
 - Save vs. Death: +2
 - Caster Level: +2 (Necromancers)
 - Can memorize one extra arcane 6th-level spell, one extra 7th-level spell, and one extra 8th-level spell (Necromancers)
 
 Charge abilities:
-- Twice per day can summon five skeleton warriors
+- Summon five skeleton warriors twice per day
 
 THAC0: +3
 Damage: 1d4+3 (piercing), +1 (cold)
