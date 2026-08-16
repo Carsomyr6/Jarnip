@@ -768,23 +768,6 @@ Price: 30,000 gp
 
 ========
 
-Ring of the Lady of the Forest
-This ring is said to have been worn by Mielikki herself during the Time of Troubles. Whether the rumor is true or not, it grants the wearer a powerful blessing, strengthening their resilience and deepening their bond with nature.
-
-STATISTICS:
-
-Equipped abilities:
-- Visual Range: +2
-- THAC0: +1 (Rangers)
-- Damage: +2 (Rangers)
-- Fire, Cold, Electricity, and Acid resistance: +20% (Rangers)
-
-Weight: 0
-
-Price: 10,000 gp
-
-========
-
 Herbert's Coat +5
 This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
@@ -804,23 +787,6 @@ Requires:
 Weight: 10
 
 Price: 20,000 gp
-
-========
-
-Nethraval's Ardor
-The legendary eldritch knight Nethraval wore this enchanted circlet during his final battle, when he descended into Cania to rescue his betrothed from the captivity of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the circlet survived and eventually found its way back to Toril.
-
-STATISTICS:
-
-Equipped abilities:
-- Saving Throws vs. Spell: +2
-- Magic Damage Resistance: +30%
-- Can memorize one extra arcane 4th-level spell, one extra 5th-level spell, and one extra 6th-level spell (Fighter/Mages)
-- Protects against critical hits
-
-Weight: 1
-
-Price: 18,000 gp
 
 ========
 
