@@ -654,17 +654,17 @@ Price: 24,000 gp
 ========
 
 Pride of Ammarindar +4
-Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
+Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from enchanted mithral and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
 
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +1 (Dwarven Defenders)
-- Physical Damage Resistance: +10% (+20% for Dwarven Defenders)
+– Movement Rate: +2 (Dwarven Defenders)
+– Physical Damage Resistance: +10% (+20% for Dwarven Defenders)
 
 Combat abilities:
-- Unyielding Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Crushing Blow: 25% chance on hit to reduce the target's Armor Class by 2 for 4 rounds
+– Unyielding Assault: Each hit deals an additional 4 points of slashing damage and heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
+– Crushing Blow: 25% chance on hit to reduce the target's Armor Class by 2 for 4 rounds
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
