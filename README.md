@@ -1,5 +1,5 @@
 # Jarnip: A New Bonus Merchant for Baldur's Gate 2
-MOD VERSION: v2.3.1		AUTHOR: Rzabon		GAME: BG2, BG2EE, EET
+MOD VERSION: v2.3.1		AUTHOR: Rzabon		GAME: BG2EE, EET
 
 **Introduction**
 
@@ -21,7 +21,7 @@ In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In 
 
 **Installation**
 
-This is a WeiDU mod for Baldur's Gate II, BG2:EE, and EET. Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and run Setup-Jarnip.exe. You can choose to install the SoA and ToB mod components separately. 
+This is a WeiDU mod for BG2:EE and EET. Unzip the archive into your Baldur's Gate II (Enhanced Edition) directory and run Setup-Jarnip.exe. You can choose to install the SoA and ToB mod components separately. 
 
 **Acknowledgments**
 
