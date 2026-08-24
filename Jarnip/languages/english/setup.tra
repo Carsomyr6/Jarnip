@@ -613,7 +613,6 @@ STATISTICS:
 Equipped abilities:
 – Backstab Multiplier: -1 penalty
 – Non-detection
-– Hide in Shadows and Move Silently: +15%
 
 Combat abilities:
 – Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
@@ -645,7 +644,7 @@ Requires:
 
 Weight: 10~
 @226  = ~Eternal Torment +3~
-@227  = ~The intricate ornamentation suggests that this dagger was originally crafted in ancient Illefarn for some kind of religious ritual. However, whatever magic this blade once possessed has since been corrupted by the lich Velsharoon, who used it to sacrifice countless victims in an attempt to achieve godhood. Whether the dagger was stolen from Velsharoon or discarded after he found a more powerful artifact, the necromantic curse it possesses is as sinister as it is powerful.
+@227  = ~The intricate ornamentation suggests that this dagger was originally crafted in ancient Illefarn. However, whatever magic it once possessed has since been corrupted by the lich Velsharoon, who used it for ritual sacrifices in an attempt to achieve godhood. Whether the dagger was stolen from Velsharoon or discarded after he found a more powerful artifact, the necromantic curse it possesses is as sinister as it is powerful.
 
 STATISTICS:
 
