@@ -817,31 +817,27 @@ Price: 20,000 gp
 
 ========
 
-Eternal Torment +3
-The intricate ornamentation suggests that this dagger was originally crafted in ancient Illefarn. However, whatever magic it once possessed has since been corrupted by the lich Velsharoon, who used it for ritual sacrifices in an attempt to achieve godhood. Whether the dagger was stolen from Velsharoon or discarded after he found a more powerful artifact, the necromantic curse it possesses is as sinister as it is powerful.
+Scourge of the Sky +3
+Scourge of the Sky is said to have originally belonged to an ancient Tuigan Khan who united the fifteen tribes of the Endless Wastes for the first time. Since then, it has passed down through numerous warlords who sought to become the next Khan. Clearly intended only for the most formidable Tuigan warriors, this composite longbow is exceptionally sturdy and demands both great strength and skill to wield effectively.
 
 STATISTICS:
 
 Equipped abilities:
-- Cursed
-- Magic Resistance: -20% penalty
-- Save vs. Death: +2
-- Caster Level: +2 (Necromancers)
-- Can memorize one extra arcane 6th-level spell, one extra 7th-level spell, and one extra 8th-level spell (Necromancers)
+– Three shots per round (Archers), one shot per round (others)
 
-Charge abilities:
-- Summon five skeleton warriors twice per day
+Combat abilities:
+– The bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +4 to hit and deal 1d6+1 missile damage
 
-THAC0: +3
-Damage: 1d4+3 (piercing), +1 (cold)
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: One-handed
+THAC0: +4
+Damage: 1d6+1 (missile)
+Speed Factor: 4
+Proficiency Type: Longbow
+Type: Two-handed
 Requires:
- 3 Strength
+ 19 Strength
 
-Weight: 1
+Weight: 8
 
-Price: 25,000 gp
+Price: 33,000 gp
 
 ========
