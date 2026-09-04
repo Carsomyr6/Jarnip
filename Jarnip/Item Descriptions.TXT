@@ -211,7 +211,7 @@ According to legends, Judicator was forged by archons of Mount Celestia and best
 STATISTICS:
 
 Combat abilities:
-- On hit: 50% chance the target must Save vs. Spell or become blinded for 1 round
+- On hit: The target must Save vs. Spell or become blinded for 1 round
 - On hit: 15% chance of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
 
 THAC0: +3
