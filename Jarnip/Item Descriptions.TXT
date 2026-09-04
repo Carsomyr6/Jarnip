@@ -795,7 +795,7 @@ Price: 26,000 gp
 
 ========
 
-Herbert's Coat
+Herbert's Coat +5
 This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdhavian duelist whose adventures along the Sword Coast became the subject of innumerable folk tales. Herbert was known for being able to escape from even the most dangerous situations, a talent many attributed to his magic armor. Durable, lightweight, and enchanted with a permanent blessing of fortune, this coat is the dream of any adventurer.
 
 STATISTICS:
@@ -806,7 +806,7 @@ Equipped abilities:
 Combat abilities:
 - Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
 
-Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbucklers)
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 0 (Swashbucklers)
 Requires:
  8 Strength
 
