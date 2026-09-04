@@ -70,7 +70,7 @@ Requires:
 
 Weight: 3
 
-Price: 16,000 gp
+Price: 18,000 gp
 
 ========
 
