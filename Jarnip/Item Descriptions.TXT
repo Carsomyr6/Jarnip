@@ -806,7 +806,7 @@ Equipped abilities:
 Combat abilities:
 - Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
 
-Armor Class: 1 (0 vs. slashing, 1 vs. piercing and missile), 0 (Swashbucklers)
+Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 1 (Swashbucklers)
 Requires:
  8 Strength
 
