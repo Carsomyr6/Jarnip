@@ -607,7 +607,7 @@ Price: 40,000 gp
 
 ========
 
-Sapphire Guard +3
+Harper's Gift +3
 This richly adorned off-hand dagger bears the crest of the Harpers and has a large sapphire set into its pommel. It originally belonged to Elminster Aumar, who gifted it to an unnamed Master Harper tasked with infiltrating the Zhentil Keep from within. Although the fate of the Harper agent remains unknown, the dagger has somehow found its way back to the Sword Coast.
 
 STATISTICS:
