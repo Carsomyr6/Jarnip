@@ -654,7 +654,7 @@ Price: 24,000 gp
 ========
 
 Pride of Ammarindar +4
-Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from adamantine steel and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
+Weapons such as this two-handed axe were granted to dwarven elders in ancient Ammarindar when they were chosen to lead their clans. Its blade is made from mithral steel and adorned with dwarven runes that speak of loyalty toward one's clan and kingdom. The few surviving weapons are exceptionally rare and held in great reverence among the dwarves.
 
 STATISTICS:
 
