@@ -634,7 +634,7 @@ Price: 22,000 gp
 ========
 
 Watcher's Oath +3
-Once, Watcher's Oath was a simple, unenchanted shield that belonged to a Helmite squire. The young knight fell while protecting his comrades during a siege of Helm's Hold, and his shield was shattered in battle. In honor of his sacrifice, the Helmites reforged the shield so that it might serve as a symbol of unwavering duty. Its newly crafted rim is intricately decorated and features an engraved prayer to the Vigilant One, requesting aid for its bearer and all those who stand beside them.
+Once, Watcher's Oath was a simple, unenchanted shield that belonged to a nameless Helmite squire. However, the young knight fell while protecting his comrades during a siege of Helm's Hold, and his shield was shattered in battle. In honor of his sacrifice, the Helmites reforged the shield so that it might serve as a symbol of unwavering duty. Its newly crafted rim is intricately decorated and features an engraved prayer to the Vigilant One, requesting aid for its bearer and all those who stand beside them.
 
 STATISTICS:
 
