@@ -837,6 +837,6 @@ Requires:
 
 Weight: 8
 
-Price: 33,000 gp
+Price: 30,000 gp
 
 ========
