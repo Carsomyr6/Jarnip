@@ -705,7 +705,7 @@ Requires:
 
 Weight: 4
 
-Price: 30,000 gp
+Price: 35,000 gp
 
 ========
 
