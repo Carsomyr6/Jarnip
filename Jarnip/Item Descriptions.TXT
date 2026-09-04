@@ -149,8 +149,8 @@ This amulet is forged from a strange metal that seems to absorb any magical ener
 STATISTICS:
 
 Equipped abilities:
-– Save vs. Spell: +1 (+2 for Wizard Slayer)
-– Magic Resistance: +5% (+10% for Wizard Slayer)
+– Save vs. Spell: +1 (+2 for Wizard Slayers)
+– Magic Resistance: +5% (+10% for Wizard Slayers)
 – Disables the use of arcane spells by the wearer
 – Can be worn by Wizard Slayers
 
