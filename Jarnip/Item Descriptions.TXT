@@ -769,7 +769,7 @@ Price: 30,000 gp
 
 ========
 
-Dance of Death +4
+Dance of Death +3
 Few know the true name of the assassin who committed a series of murders targeting high-profile figures in Athkatla some fifty years ago. The surviving accounts call her only the Dancer, a master of stealth who could slip through crowded streets and guarded halls without ever being seen. It is said that she served no lord and accepted no payment, targeting wealthy slavers and corrupt officials according to her own sense of justice. After her final assassination of a high-ranking Cowled Wizard, the Dancer was nearly captured but somehow vanished, leaving behind only her blade.
 
 STATISTICS:
@@ -779,11 +779,11 @@ Equipped abilities:
 - Non-detection
 
 Combat abilities:
-- Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+- Dance of Death: On a successful backstab, the target must Save vs. Death at -3 or die (Shadowdancers)
 
-THAC0: +4
-Damage: 1d6+4 (piercing)
-Speed Factor: 1
+THAC0: +3
+Damage: 1d6+3 (piercing)
+Speed Factor: 0
 Proficiency Type: Short Sword
 Type: One-handed
 Requires:
@@ -791,7 +791,7 @@ Requires:
 
 Weight: 2
 
-Price: 30,000 gp
+Price: 26,000 gp
 
 ========
 
