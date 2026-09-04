@@ -144,7 +144,7 @@ Price: 12,000 gp
 ========
 
 The Weavebreaker
-This amulet is forged from a mysterious metal that seems to absorb any magical energy in its vicinity. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in the amulet's presence. Because this amulet owes its properties not to enchantment but to the properties of the special material, it is one of the few magic items that Wizard Slayers can use.
+This amulet is forged from a strange metal that seems to absorb any magical energy in its vicinity. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in the amulet's presence. Because this amulet owes its properties not to enchantment but to the properties of the mysterious ore, it is one of the few magic items that Wizard Slayers can use.
 
 STATISTICS:
 
