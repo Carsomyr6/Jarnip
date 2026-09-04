@@ -43,10 +43,10 @@ Equipped abilities:
 – +2 THAC0 and damage, +1 attack speed factor (Fighter/Mages only)
 
 Combat abilities:
-– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6+3 piercing and 1 magic damage
+– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6+3 missile and 1 magic damage
 
 THAC0: +3
-Damage: 1d6+3 (piercing), +1 (magic)
+Damage: 1d6+3 (missile), +1 (magic)
 Speed Factor: 4
 Proficiency Type: Longbow
 Type: Two-handed
