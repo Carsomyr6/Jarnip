@@ -651,10 +651,10 @@ Equipped abilities:
 – Three shots per round (Archers), one shot per round (others)
 
 Combat abilities:
-– The bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +4 to hit and deal 1d6+1 missile damage
+– The bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +4 to hit and deal 1d6+2 missile damage
 
 THAC0: +4
-Damage: 1d6+1 (missile)
+Damage: 1d6+2 (missile)
 Speed Factor: 4
 Proficiency Type: Longbow
 Type: Two-handed
