@@ -716,8 +716,8 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Saving Throws: +1 (+2 for Inquisitors)
-- Magic Resistance: +5% (+10% for Inquisitors)
+- Saving Throws: +1 (+3 for Inquisitors)
+- Magic Resistance: +5% (+15% for Inquisitors)
 
 Combat abilities:
 - Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitors)
