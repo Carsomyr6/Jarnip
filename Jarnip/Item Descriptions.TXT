@@ -279,7 +279,7 @@ This bare iron band was the war-helm of one of the barbarian chieftains from the
 STATISTICS:
 
 Equipped abilities:
-- Fire and Cold Resistance: +20%
+- Fire and Cold Resistance: +15%
 - Hit Points: +10
 - Each time the wearer is hit in combat, Slashing, Crushing, and Piercing Damage increases by 5% for 1 round (Barbarians)
 - Protects against critical hits
