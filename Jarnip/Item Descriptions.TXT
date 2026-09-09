@@ -709,7 +709,7 @@ Price: 35,000 gp
 
 ========
 
-Helm of the High Inquisitor
+Adsiltia's Ardor
 The legendary Tyrian inquisitor Adsiltia wore this enchanted helmet during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the helmet survived and eventually found its way back to Toril.
 
 STATISTICS:
