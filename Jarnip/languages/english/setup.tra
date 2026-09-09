@@ -560,15 +560,15 @@ Requires:
  15 Wisdom
 
 Weight: 4~
-@216  = ~Adsiltia's Ardorr~
+@216  = ~Adsiltia's Ardor~
 @217  = ~The legendary Tyrian inquisitor Adsiltia wore this enchanted helmet during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the helmet survived and eventually found its way back to Toril.
 
 STATISTICS:
 
 Equipped abilities:
 – Armor Class: +1
-– Saving Throws: +1 (+2 for Inquisitors)
-– Magic Resistance: +5% (+10% for Inquisitors)
+– Saving Throws: +1 (+3 for Inquisitors)
+– Magic Resistance: +5% (+15% for Inquisitors)
 
 Combat abilities:
 – Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitor only)
