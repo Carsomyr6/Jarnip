@@ -587,7 +587,7 @@ STATISTICS:
 
 Equipped abilities:
 - Strength: +1
-- Resistance to slashing, piercing, and crushing damage: +10%
+- Resistance to Slashing, Piercing, and Crushing Damage: +10%
 
 Combat abilities:
 - Heroic Inspiration: While enraged, increases Critical Hit chance by 5% and grants an extra attack per round
