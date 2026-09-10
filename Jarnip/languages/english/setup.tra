@@ -523,8 +523,7 @@ Equipped abilities:
 - Physical Damage Resistance: +10% (+20% for Dwarven Defenders)
 
 Combat abilities:
-- Unyielding Assault: Each hit heals the wielder for 4 Hit Points. This will not heal beyond the wielder's maximum
-- Stalwart Defender: 33% chance on hit to improve the wielder's Armor Class by 1 for 4 rounds
+- Unyielding Assault: Each hit heals the wielder for 5 Hit Points. This will not heal beyond the wielder's maximum
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
