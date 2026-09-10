@@ -594,7 +594,7 @@ Combat abilities:
 - Furious Strikes: On a critical hit, the target is knocked back for 1 round
 
 THAC0: +5
-Damage: 1d10+5 (slashing)
+Damage: 2d6+5 (slashing)
 Speed Factor: 5
 Proficiency Type: Two-handed Sword
 Type: Two-handed
