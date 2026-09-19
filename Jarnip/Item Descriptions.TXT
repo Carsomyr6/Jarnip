@@ -679,18 +679,18 @@ Price: 30,000 gp
 ========
 
 Grace of Eldath +5
-During one of the wars between Rashemen and Thay, a young vychlaran found herself trapped in Ashenwood, being pursued by Thayan mercenaries. When all hope seemed lost, she noticed a green, feminine hand emerging from a nearby pond, holding what appeared to be a wooden branch. The branch turned out to be a unique Staff of the Woodlands, which enabled her to escape her pursuers and safely return to Mulsantir. Whether the legend is true or not, this staff is said to be blessed by the Green Goddess herself and invoke her judgment against anyone who dares to harm the druid wielding it.
+During one of the wars between Rashemen and Thay, a young vychlaran found herself wounded in Ashenwood, being pursued by Thayan mercenaries. When all hope seemed lost, she noticed a green, feminine hand emerging from a nearby pond, holding what appeared to be a wooden branch. The branch turned out to be an enchanted staff, which enabled her to escape her pursuers and safely return to Mulsantir. Whether the legend is true or not, it is almost certain that this staff has been blessed by the Green Goddess herself.
 
 STATISTICS:
 
 Equipped abilities:
-- Fire and Cold Resistance: +20%
-- Armor Class: +1
-- Saving Throws: +1
-- Wisdom: +2
+– Fire and Cold Resistance: +20%
+– Armor Class: +1
+– Saving Throws: +1
+– Wisdom: +1
 
 Combat abilities:
-- Emerald Rebuke: Any creature that strikes the wielder in melee must save vs. Staff at -2 or suffer 1d10+5 poison damage and become entangled for 4 rounds (Druids)
+– Healing Waters: Each party member regenerates 3 HP/round (Druids)
 
 THAC0: +5
 Damage: 1d6+5 (crushing)
