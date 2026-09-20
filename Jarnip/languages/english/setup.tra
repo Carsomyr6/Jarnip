@@ -55,25 +55,21 @@ Requires:
  13 Intelligence
 
 Weight: 3~
-@110  = ~Moonshade +3~
-@111  = ~Moonblades are magical longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to be wielded by anyone of elven heritage. It retains a powerful enchantment that greatly improves its wielder's arcane and martial abilities.
+@110  = ~Helm of High Inquisitor~
+@111  = ~The origins of this helmet are lost to history, but its azure steel and silver ornamentation indicate that it once belonged to a high-ranking member of a long-forgotten paladin order. Though the order has long since been disbanded, the power that lingers within the relic suggests that its sacred mission is far from over.
 
 STATISTICS:
 
 Equipped abilities:
 – Armor Class: +1
-– Spell Casting Speed: +2 (Fighter/Mages)
+– Saving Throws: +1 (+2 for Inquisitors)
+– Magic Resistance: +5% (+15% for Inquisitors)
+– Protects against critical hits
 
-THAC0: +3
-Damage: 1d8+3 (slashing), +1 (magic)
-Speed Factor: 2
-Proficiency Type: Longsword
-Type: One-handed
-Requires:
- 10 Strength
- 13 Intelligence
+Combat abilities:
+– Enemies within 30 ft. cast spells at +2 casting time (Inquisitors)
 
-Weight: 3~
+Weight: 4~
 @112  = ~Bloodstone Ranger's Hood~
 @113  = ~This hood was crafted by the Wardens of the Bloodstone Gate, an elite circle of rangers who once patrolled the mountain passes of Damara. It is said that this hood sharpens the senses of its wearer, enabling them to detect danger from a safe distance and strike first.
 
@@ -551,20 +547,25 @@ Requires:
  15 Wisdom
 
 Weight: 4~
-@216  = ~Adsiltia's Ardor~
-@217  = ~The legendary Tyrian inquisitor Adsiltia wore this enchanted helmet during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the helmet survived and eventually found its way back to Toril.
+@216  = ~Moonshade +3~
+@217  = ~Moonblades are legendary longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to accept a new wielder of elven heritage. It retains a powerful enchantment that greatly enhances its wielder's arcane and martial abilities.
 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1
-– Saving Throws: +1 (+2 for Inquisitors)
-– Magic Resistance: +5% (+15% for Inquisitors)
+– Saving Throws vs. Spell: +2
+– Spell Casting Speed: +2 (Fighter/Mages)
 
-Combat abilities:
-– Aura of Judgment: Enemies within 30 ft. cast spells at +2 casting time (Inquisitors)
+THAC0: +3
+Damage: 1d8+3 (slashing), +1d4 (magic)
+Speed Factor: 2
+Proficiency Type: Longsword
+Type: One-handed
+Requires:
+ 10 Strength
+ 13 Intelligence
 
-Weight: 5~
+Weight: 3~
 @218  = ~Cloak of the Scarlet Abbot~
 @219  = ~Long ago, this cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown.
 
