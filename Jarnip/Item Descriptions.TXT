@@ -585,9 +585,6 @@ Whatever the truth, those who take up the Triumphant soon discover that even imp
 
 STATISTICS:
 
-Equipped abilities:
-- Strength: +1
-
 Combat abilities:
 - Heroic Inspiration: While enraged, increases Critical Hit chance by 5% and grants an extra attack per round
 - Furious Strikes: On a critical hit, the target is knocked back for 1 round
