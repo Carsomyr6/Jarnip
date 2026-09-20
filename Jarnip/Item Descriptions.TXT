@@ -88,7 +88,7 @@ Equipped abilities:
 Combat abilities:
 – Enemies within 30 ft. cast spells at +2 casting time (Inquisitors)
 
-Weight: 5
+Weight: 4
 
 Price: 15,000 gp
 
