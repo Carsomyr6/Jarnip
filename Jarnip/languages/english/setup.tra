@@ -109,21 +109,17 @@ Requires:
  14 Dexterity
 
 Weight: 2~
-@116  = ~The Weavebreaker~
-@117  = ~This amulet is forged from a strange metal that seems to absorb any magical energy in its vicinity. Wizards standing nearby often describe an oppressive sensation, as though the Weave itself grows thin in the amulet's presence. Because this amulet owes its properties not to enchantment but to the properties of the mysterious ore, it is one of the few magic items that Wizard Slayers can use.
+@116  = ~Amulet of Spirit Warding~
+@117  = ~Amulets like this are worn by the eldest shamans of the Uthgardt tribes. Each is said to honor deceased ancestors and strengthen the shaman's connection to the spiritual world. Those standing nearby often describe an eerie sensation, as though the boundary between the material and spiritual worlds grows thin in the amulet's presence.
 
 STATISTICS:
 
 Equipped abilities:
-– Save vs. Spell: +1 (+2 for Wizard Slayers)
-– Magic Resistance: +5% (+10% for Wizard Slayers)
-– Disables the use of arcane spells by the wearer
-– Can be worn by Wizard Slayers
+– Saving Throws: +1
+– Spell Casting Speed: +4 (Shamans)
+– Protection from spiritual creatures: The wearer cannot be attacked by Wraiths, Specters, Shadows, Will-O-Wisps, or spectral undead (Shamans)
 
-Combat abilities:
-– Enemies within 30 ft. suffer 25% arcane spell failure (Wizard Slayers)
-
-Weight: 2~
+Weight: 1~
 @118  = ~Eye of the Storm +3~
 @119  = ~This obsidian spear is adorned with the symbol of Talos etched just beneath its head. It likely belonged to a senior Talassan stormlord, as its single swing can summon terrifying thunder and rain. You can feel the air electrifying when you hold this fearsome weapon, but its true wrath is only unleashed in battle.
 
