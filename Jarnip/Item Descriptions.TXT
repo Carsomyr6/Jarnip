@@ -144,7 +144,7 @@ Amulets like this are worn by the eldest shamans of the Uthgardt tribes. Each is
 STATISTICS:
 
 Equipped abilities:
-– Saving Throws: +1
+– Save vs. Death: +2
 – Spell Casting Speed: +4 (Shamans)
 – Protection from spiritual creatures: The wearer cannot be attacked by Wraiths, Specters, Shadows, Will-O-Wisps, or spectral undead (Shamans)
 
