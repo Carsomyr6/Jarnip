@@ -139,7 +139,7 @@ Price: 12,000 gp
 ========
 
 Amulet of Spirit Warding
-Amulets like this are worn by the eldest shamans of the Uthgardt tribes. Each is said to honor deceased ancestors and strengthen the shaman's connection to the spiritual world. Those standing nearby often describe an eerie sensation, as though the boundary between the material and spiritual worlds grows thin in the amulet's presence.
+Amulets like this are often worn by shamans of the Uthgardt tribes. Each one is said to honor deceased ancestors and strengthen the shaman's connection to the spiritual world. Those nearby often report feeling an eerie sensation, as if the boundary between the material and spiritual worlds becomes thin in the presence of the amulet.
 
 STATISTICS:
 
