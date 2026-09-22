@@ -61,7 +61,6 @@ Weight: 3~
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +1
 – Saving Throws: +1 (+2 for Inquisitors)
 – Magic Resistance: +5% (+10% for Inquisitors)
 – Protects against critical hits
@@ -358,8 +357,7 @@ STATISTICS:
 
 Equipped abilities:
 – Resistance to all damage types: +5% (Paladins and Clerics)
-– Armor Class: +1
-– Saving Throws: +1   
+– Armor Class: +1  
 – Protects against critical hits
 
 Weight: 2~
