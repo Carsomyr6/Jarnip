@@ -233,7 +233,7 @@ Requires:
 
 Weight: 7~
 @132  = ~The Spellbreaker +3~
-@133  = ~Rumors have it that dwarven miners from ancient Bhaerynden once discovered a unique metal ore with innate anti-magic properties. From the ore, dwarven smiths crafted a handful of relics entrusted to dwarven warriors tasked with hunting Drow archmages. This axe was one such relic, and the strange metal from which it was forged allows a skilled warrior to shatter the magical protections of even the most powerful wizard.
+@133  = ~Rumors have it that dwarven miners from ancient Bhaerynden once discovered a unique metal ore with innate antimagic properties. From the ore, dwarven smiths crafted a handful of relics entrusted to dwarven warriors tasked with hunting Drow archmages. This axe was one such relic, and the strange metal from which it was forged allows a skilled warrior to shatter the magical protections of even the most powerful wizard.
 
 STATISTICS:
 
@@ -241,7 +241,7 @@ Equipped abilities:
 – Magic Resistance: +10% (+20% for Wizard Slayers)
 
 Combat abilities:
-– On hit: 25% chance to remove the target's combat protections (Wizard Slayers)
+– On hit: The target must Save vs. Spell or have its combat protections removed (Wizard Slayers)
 
 THAC0: +3
 Damage: 1d8+3 (slashing)
