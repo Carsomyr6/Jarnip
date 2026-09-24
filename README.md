@@ -5,7 +5,7 @@ MOD VERSION: v2.4.1		AUTHOR: Rzabon		GAME: BG2EE, EET
 
 This mod for Baldur's Gate 2 adds a new bonus merchant named **Jarnip** to Shadows of Amn and Throne of Bhaal. Like his colleagues Joluv and Deidre, Jarnip sells a collection of unique magical items to aid you during your adventures. Suffering from an excess of gold pieces in your purse? The prices of Jarnip's wares are among the highest on the Sword Coast, but his stock is carefully curated to satisfy the expectations of even the most demanding customers.
 
-Jarnip introduces **38 new items**, most of which are designed for specific classes and kits. The goal of this mod is to reinforce class fantasy and identity while preserving the feel and progression of the original game. Instead of simply introducing more powerful gear, Jarnip expands the range of viable equipment to offer alternative ways to build and play your characters. The new items were designed with balance in mind and become stronger when used by the class or kit they were designed for.
+Jarnip introduces **38 new items**, all of which are designed for **specific classes and kits**. The goal of this mod is to reinforce class fantasy and identity while preserving the feel and progression of the original game. Instead of simply introducing more powerful gear, Jarnip expands the range of viable equipment to offer alternative ways to build and play your characters. The new items were designed with balance in mind and become stronger when used by the class or kit they were designed for.
 
 In Shadows of Amn, Jarnip can be found in the Adventurer's Mart in Athkatla. In Throne of Bhaal, Jarnip finds himself trapped in the Tankard Tree tavern in Saradush.
 
