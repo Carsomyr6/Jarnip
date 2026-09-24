@@ -254,7 +254,7 @@ Equipped abilities:
 - Magic Resistance: +10% (+20% for Wizard Slayers)
 - Saving Throws: +1 (+2 for Wizard Slayers)
 
-Armor Class: 1 (0 vs. piercing and missile, -1 vs. crushing)
+Armor Class: 1 (0 vs. piercing and missile, -1 vs. crushing), 0 (Wizard Slayers)
 Requires:
  15 Strength
 
