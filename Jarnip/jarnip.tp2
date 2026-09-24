@@ -320,41 +320,30 @@ Requires:
 Weight: 7 */
 
 COPY ~%MOD_FOLDER%/items/JP#15.itm~ ~override~
-SAY NAME1 @132 /* Bloodlust +5 */
-SAY NAME2 @132 /* Bloodlust +5 */
-SAY DESC @133 /* Cursed Berserking Sword +5: Bloodlust
-
-Waterdhavian parents often tell their children the tale of Bloodlust: a cursed berserking sword with an insatiable desire to murder that ultimately turns on its wielder to quench its thirst for blood. The moral of the story is to never accept unknown magical items from strangers, and the sword was thought to be nothing more than a legend. However, it now lies before you.
-
-The crimson blade is covered in bloodmarks, suggesting it is hundreds of years old. If the legends are true, it has caused the death of thousands, and countless innocents have fallen victim to its malevolent influence. The origins of Bloodlust are unclear, but it is evident that it was created for one purpose: to kill without end and unleash carnage across the Realms. 
-
-The curse of this sword permanently marks the wielder: their hair turns white and begins to fall out, while their skin becomes ghastly and riddled with blisters. Over time, they lose physical fortitude and wither from within. The only way to alleviate this affliction is through satiating the blade's desire for bloodshed, yet the curse itself may never be lifted.
-
-Once equipped, this cursed sword cannot be removed or unequipped by any known spell or ritual. The wielder has no choice but to obey and continue the slaughter. Only death can grant freedom from its curse.
+SAY NAME1 @132 /* The Spellbreaker +3 */
+SAY NAME2 @132 /* The Spellbreaker +3 */
+SAY DESC @133 /* This axe is forged from a strange metal that seems to absorb any magical energy in its vicinity.
 
 STATISTICS:
 
 Equipped abilities:
-- Cursed
-- Immune to Remove Curse
-- Charisma: -5 penalty
-- Constitution: -2 penalty
-- Appearance changes: skin turns pale gray, hair becomes bone-white
+– Magic Resistance: +10% (+20% for Wizard Slayers)
 
 Combat abilities:
-- Murderous Wrath: On each hit, the wielder must Save vs. Death at -2 or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
-- Dread Hunger: On each hit, the target must Save vs. Death or receive extra 2d4 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
-- Bloodlust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
+– On hit: 25% chance to remove the target's combat protections (Wizard Slayers)
+– Returns to the wielder's hand when thrown
 
-THAC0: +5
-Damage: 2d4+5 (slashing)
-Speed Factor: 3
-Proficiency Type: Bastard Sword
+THAC0: +3
+Damage: 1d8+3
+Damage type (melee): Slashing
+Damage type (thrown): Missile
+Speed Factor: 4
+Proficiency Type: Axe
 Type: One-handed
 Requires:
- 10 Strength
+ 4 Strength
 
-Weight: 10 */
+Weight: 4 */
 
 COPY ~%MOD_FOLDER%/items/JP#16.itm~ ~override~
 SAY NAME1 @134 /* Korgunth's Right Fist +2 */
@@ -827,6 +816,24 @@ Requires:
  19 Strength
 
 Weight: 8 */
+
+COPY ~%MOD_FOLDER%/items/JP#87.itm~ ~override~
+SAY NAME1 @228 /* Shield of the War-Singer +3 */
+SAY NAME2 @228 /* Shield of the War-Singer +3 */
+SAY DESC @229 /* The legendary warrior-poet from the Moonshae Isles, Adsiltia the War-Singer, wielded this enchanted buckler during her final battle, when she descended into the frozen depths of Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the buckler survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Cold Resistance: +30%
+– Attacks per round: +1 (Skalds)
+– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
+
+Requires:
+ 6 Strength
+
+Weight: 2 */
 
 COPY ~%MOD_FOLDER%/items/JP#86.itm~ ~override~
 SAY NAME1 @230 /* Bloodlust +5 */
