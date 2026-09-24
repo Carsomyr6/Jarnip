@@ -306,41 +306,23 @@ Price: 8,000 gp
 
 ==========
 
-Cursed Berserking Sword +5: Bloodlust
-
-Waterdhavian parents often tell their children the tale of Bloodlust: a cursed berserking sword with an insatiable desire to murder that ultimately turns on its wielder to quench its thirst for blood. The moral of the story is to never accept unknown magical items from strangers, and the sword was thought to be nothing more than a legend. However, it now lies before you.
-
-The crimson blade is covered in bloodmarks, suggesting it is hundreds of years old. If the legends are true, it has caused the death of thousands, and countless innocents have fallen victim to its malevolent influence. The origins of Bloodlust are unclear, but it is evident that it was created for one purpose: to kill without end and unleash carnage across the Realms. 
-
-The curse of this sword permanently marks the wielder: their hair turns white and begins to fall out, while their skin becomes ghastly and riddled with blisters. Over time, they lose physical fortitude and wither from within. The only way to alleviate this affliction is through satiating the blade's desire for bloodshed, yet the curse itself may never be lifted.
-
-Once equipped, this cursed sword cannot be removed or unequipped by any known spell or ritual. The wielder has no choice but to obey and continue the slaughter. Only death can grant freedom from its curse.
+Shield of the War-Singer +2
+Eireeth the War-Singer was a poet and adventurer who gained fame for commanding one of the warbands of the Kingdom of Gnarhelm. Forged by some of the finest smiths of the Moonshae Isles, she was given this shield as a reward for her service to the House of Helmudson, and it became her constant companion whenever she led troops into battle.
 
 STATISTICS:
 
 Equipped abilities:
-- Cursed
-- Immune to Remove Curse
-- Charisma: -5 penalty
-- Constitution: -2 penalty
-- Appearance changes: skin turns pale gray, hair becomes bone-white
+– Armor Class: +3
+– Cold Resistance: +20%
+– Attacks per round: +1/2 (Skalds)
+– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
 
-Combat abilities:
-- Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
-- Dread Hunger: On each hit, the target must Save vs. Death or receive extra 2d4 magic damage. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
-- Bloodlust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
-
-THAC0: +5
-Damage: 2d4+5 (slashing)
-Speed Factor: 3
-Proficiency Type: Bastard Sword
-Type: One-handed
 Requires:
- 10 Strength
+ 6 Strength
 
-Weight: 10
+Weight: 2
 
-Price: 30,000 gp
+Price: 16,000 gp
 
 =========
 
@@ -829,3 +811,39 @@ Weight: 8
 Price: 30,000 gp
 
 ========
+
+Cursed Berserking Sword +5: Bloodlust
+
+Waterdhavian parents often tell their children the tale of Bloodlust: a cursed berserking sword with an insatiable desire to murder that ultimately turns on its wielder to quench its thirst for blood. The moral of the story is to never accept unknown magical items from strangers, and the sword was thought to be nothing more than a legend. However, it now lies before you.
+
+The crimson blade is covered in bloodmarks, suggesting it is hundreds of years old. If the legends are true, it has caused the death of thousands, and countless innocents have fallen victim to its malevolent influence. The origins of Bloodlust are unclear, but it is evident that it was created for one purpose: to kill without end and unleash carnage across the Realms. 
+
+The curse of this sword permanently marks the wielder: their hair turns white and begins to fall out, while their skin becomes ghastly and riddled with blisters. Over time, they lose physical fortitude and wither from within. The only way to alleviate this affliction is through satiating the blade's desire for bloodshed, yet the curse itself may never be lifted.
+
+Once equipped, this cursed sword cannot be removed or unequipped by any known spell or ritual. The wielder has no choice but to obey and continue the slaughter. Only death can grant freedom from its curse.
+
+STATISTICS:
+
+Equipped abilities:
+– Cursed
+– Immune to Remove Curse
+– Charisma: -5 penalty
+– Constitution: -2 penalty
+– Appearance changes: skin turns pale gray, hair becomes bone-white
+
+Combat abilities:
+– Murderous Wrath: On each hit, the wielder must Save vs. Death or go berserk for 2 rounds. When berserk, the movement rate is doubled and the base number of attacks per round is set to 5
+– Dread Hunger: On each hit, the target must Save vs. Death or receive extra 2d4 magic damage and lose 1 Strength for 4 rounds. The stolen Hit Points are transferred to the wielder. This will not heal beyond the wielder's maximum
+– Bloodlust: Killing an enemy restores 4d6 Hit Points and increases Strength, Dexterity, and Constitution by 1 for 1 turn
+
+THAC0: +5
+Damage: 2d4+5 (slashing)
+Speed Factor: 3
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 10
+
+Price: 30,000 gp
