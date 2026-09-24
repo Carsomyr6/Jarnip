@@ -241,7 +241,7 @@ Equipped abilities:
 – Magic Resistance: +10% (+20% for Wizard Slayers)
 
 Combat abilities:
-– On hit: The target must Save vs. Spell or have its combat protections removed (Wizard Slayers)
+– On hit: Removes all combat and specific protections from the target (Wizard Slayers)
 
 THAC0: +3
 Damage: 1d8+3 (slashing)
