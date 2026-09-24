@@ -307,7 +307,7 @@ Price: 8,000 gp
 ==========
 
 The Spellbreaker +3
-This axe is forged from a strange metal that seems to absorb any magical energy in its vicinity.
+Rumors have it that dwarven miners from ancient Bhaerynden once discovered a unique metal ore with innate anti-magic properties. From the ore, dwarven smiths crafted a handful of relics entrusted to dwarven warriors tasked with hunting Drow archmages. This axe was one such relic, and the strange metal from which it was forged allows a skilled warrior to shatter the magical protections of even the most powerful wizard.
 
 STATISTICS:
 
@@ -316,12 +316,9 @@ Equipped abilities:
 
 Combat abilities:
 – On hit: 25% chance to remove the target's combat protections (Wizard Slayers)
-– Returns to the wielder's hand when thrown
 
 THAC0: +3
-Damage: 1d8+3
-Damage type (melee): Slashing
-Damage type (thrown): Missile
+Damage: 1d8+3 (slashing)
 Speed Factor: 4
 Proficiency Type: Axe
 Type: One-handed
