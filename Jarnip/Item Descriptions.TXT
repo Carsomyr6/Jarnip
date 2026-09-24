@@ -748,7 +748,7 @@ Equipped abilities:
 – Non-detection
 
 Combat abilities:
-– Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
+– Dance of Death: On a successful backstab, the target must Save vs. Death at -4 or die (Shadowdancers)
 
 THAC0: +3
 Damage: 1d6+3 (piercing)
