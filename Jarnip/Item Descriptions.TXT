@@ -306,23 +306,31 @@ Price: 8,000 gp
 
 ==========
 
-Shield of the War-Singer +2
-Eireeth the War-Singer was a poet and adventurer who gained fame for commanding one of the warbands of the Kingdom of Gnarhelm. Forged by some of the finest smiths of the Moonshae Isles, she was given this shield as a reward for her service to the House of Helmudson, and it became her constant companion whenever she led troops into battle.
+The Spellbreaker +3
+This axe is forged from a strange metal that seems to absorb any magical energy in its vicinity.
 
 STATISTICS:
 
 Equipped abilities:
-– Armor Class: +3
-– Cold Resistance: +20%
-– Attacks per round: +1/2 (Skalds)
-– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
+– Magic Resistance: +10% (+20% for Wizard Slayers)
 
+Combat abilities:
+– On hit: 25% chance to remove the target's combat protections (Wizard Slayers)
+– Returns to the wielder's hand when thrown
+
+THAC0: +3
+Damage: 1d8+3
+Damage type (melee): Slashing
+Damage type (thrown): Missile
+Speed Factor: 4
+Proficiency Type: Axe
+Type: One-handed
 Requires:
- 6 Strength
+ 4 Strength
 
-Weight: 2
+Weight: 4
 
-Price: 16,000 gp
+Price: 23,500 gp
 
 =========
 
@@ -808,6 +816,26 @@ Requires:
 Weight: 8
 
 Price: 30,000 gp
+
+========
+
+Shield of the War-Singer +3
+The legendary warrior-poet from the Moonshae Isles, Adsiltia the War-Singer, wielded this enchanted buckler during her final battle, when she descended into the frozen depths of Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the buckler survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Cold Resistance: +30%
+– Attacks per round: +1 (Skalds)
+– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
+
+Requires:
+ 6 Strength
+
+Weight: 2
+
+Price: 26,000 gp
 
 ========
 
