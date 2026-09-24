@@ -248,13 +248,13 @@ Requires:
 
 Weight: 2~
 @134  = ~Korgunth's Right Fist +2~
-@135  = ~This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. Due to its sheer weight, his hammer, known as the "Right Fist," was capable of delivering devastating blows, especially against the traditional enemies of the dwarves: goblins, orcs, and giants.
+@135  = ~This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. Due to its sheer weight, his main-hand hammer, known as the "Right Fist," was capable of delivering devastating blows, especially against the traditional foes of the dwarves: goblins, orcs, and giants.
 
 STATISTICS:
 
 Equipped abilities:
 – Resistance to Slashing, Piercing, and Crushing Damage: +5%
-– Strength: +1 (Dwarves)
+– Strength: +1 (Dwarven Defenders)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra 2d4+3 vs. goblins, orcs, and giants
@@ -266,13 +266,12 @@ Requires:
 
 Weight: 20~
 @136  = ~Korgunth's Left Fist +2~
-@137  = ~This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. The "Left Fist" was essential to Korgunth's martial techniques and allowed him to strike with deadly swiftness.
+@137  = ~This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender from the Silver Marches. Unlike most dwarven defenders, Korgunth favored an aggressive two-weapon fighting style, charging into enemy ranks with rage. Known as the "Left Fist," the off-hand hammer was essential to Korgunth's martial techniques and allowed him to strike with deadly swiftness.
 
 STATISTICS:
 
 Equipped abilities:
 – Resistance to Slashing, Piercing, and Crushing Damage: +5%
-– Constitution: +1
 – Attacks per round: +1/2 (Dwarven Defenders)
 
 THAC0: +2
