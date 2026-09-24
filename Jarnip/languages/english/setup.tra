@@ -631,6 +631,21 @@ Requires:
  19 Strength
 
 Weight: 8~
+@228  = ~Shield of the War-Singer +3~
+@229  = ~The legendary warrior-poet from the Moonshae Isles, Adsiltia the War-Singer, wielded this enchanted buckler during her final battle, when she descended into the frozen depths of Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the buckler survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Cold Resistance: +30%
+– Attacks per round: +1 (Skalds)
+– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
+
+Requires:
+ 6 Strength
+
+Weight: 2~
 @230  = ~Bloodlust +5~
 @231  = ~Cursed Berserking Sword +5: Bloodlust
 
