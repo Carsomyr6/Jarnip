@@ -475,7 +475,7 @@ STATISTICS:
 Equipped abilities:
 – Armor Class: +4
 – Saving Throws: +2
-– Aura of Protection: All party members receive +1 to Armor Class and +1 to all Saving Throws (Paladins)
+– Aura of Protection: Nearby allies receive +1 to Armor Class and +1 to all Saving Throws (Paladins)
 
 Requires:
  10 Strength
@@ -515,7 +515,7 @@ Equipped abilities:
 – Wisdom: +1
 
 Combat abilities:
-– Healing Waters: Each party member regenerates 2 HP/round (Druids)
+– Healing Waters: Allies within 10 ft. regenerate 3 HP/round (Druids)
 
 THAC0: +5
 Damage: 1d6+5 (crushing)
