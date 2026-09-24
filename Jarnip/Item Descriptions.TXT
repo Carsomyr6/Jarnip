@@ -662,7 +662,7 @@ Equipped abilities:
 – Wisdom: +1
 
 Combat abilities:
-– Healing Waters: All allies within 10 ft. regenerate 3 HP/round (Druids)
+– Healing Waters: Allies within 10 ft. regenerate 3 HP/round (Druids)
 
 THAC0: +5
 Damage: 1d6+5 (crushing)
