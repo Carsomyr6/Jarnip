@@ -211,7 +211,7 @@ STATISTICS:
 
 Combat abilities:
 - On hit: The target must Save vs. Spell or become blinded for 1 round
-- On hit: 15% chance of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half
+- On hit: 15% chance of casting Holy Smite centered on the target: affects evil only, 6d4 damage, save vs. spell for half (Clerics)
 
 THAC0: +3
 Damage: 2d4+4 (crushing), +3 vs. evil (magic)
