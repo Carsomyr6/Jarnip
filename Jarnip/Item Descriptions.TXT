@@ -138,19 +138,27 @@ Price: 12,000 gp
 
 ========
 
-Amulet of Spirit Warding
-Amulets like this are often worn by shamans of the Uthgardt tribes. Each one is said to honor deceased ancestors and strengthen the shaman's connection to the spiritual world. Those nearby often report feeling an eerie sensation, as if the boundary between the material and spiritual worlds becomes thin in the presence of the amulet.
+Moonshade +3
+Moonblades are legendary longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to accept a new wielder of elven heritage. It retains a powerful enchantment that greatly enhances its wielder's arcane and martial abilities.
 
 STATISTICS:
 
 Equipped abilities:
-– Save vs. Death: +2
-– Spell Casting Speed: +4 (Shamans)
-– Protection from spiritual creatures: The wearer cannot be attacked by Wraiths, Specters, Shadows, Will-O-Wisps, or spectral undead (Shamans)
+– Saving Throws: +1
+– Spell Casting Speed: +2 (Fighter/Mages)
 
-Weight: 1
+THAC0: +3
+Damage: 1d8+3 (slashing), +1 (magic)
+Speed Factor: 2
+Proficiency Type: Longsword
+Type: One-handed
+Requires:
+ 10 Strength
+ 13 Intelligence
 
-Price: 20,000 gp
+Weight: 3
+
+Price: 24,000 gp
 
 ========
 
