@@ -380,8 +380,6 @@ Requires:
 
 Weight: 20
 
-Weight: 20
-
 Price: 10,000 gp
 
 =========
