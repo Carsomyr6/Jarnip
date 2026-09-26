@@ -608,25 +608,6 @@ Requires:
 
 Weight: 1
 
-STATISTICS:
-
-Equipped abilities:
-- Armor Class: +2
-- Attacks per round: +1 (Bards and Thieves)
-
-Combat abilities:
-- Sapphire Guard: On a critical miss, casts Mirror Image on self
-
-THAC0: +3
-Damage: 1d4+3 (piercing)
-Speed Factor: 0
-Proficiency Type: Dagger
-Type: One-handed
-Requires:
- 3 Strength
-
-Weight: 1
-
 Price: 22,000 gp
 
 ========
