@@ -27,23 +27,3 @@ This is a WeiDU mod for BG2:EE and EET. Unzip the archive into your Baldur's Gat
 
 This is my first mod. All feedback and suggestions are greatly appreciated. I want to thank the Gibberlings3 community, CamDawg, Lava, and Acifer for inspiring me to create this mod. Special thanks to 11jo for correcting errors in the mod's first version, and to jmerry and szaumoor for their helpful feedback.
 
-**Changelog**
-
-August 2026 - v2.3.0
-Restricted compatibility to BG2EE and EET only. Minor balance changes
-
-August 2026 - v2.0.0:
-Added Jarnip as a new merchant in Saradush. Merged the two SoA and ToB components into one mod. Fixed typos, formatting, and some scripting problems. The mod's name has been changed to Jarnip: A New Bonus Merchant for Baldur's Gate 2
-
-August 2026 - v1.1.0:
-Balance changes and price adjustments
-
-July 2026 - v1.0.0:
-Final Release
-
-March 2026 - v0.1.1:
-Code improvements and error corrections. I am grateful to 11jo for their testing and edits
-
-August 2025 - v0.1.0:
-Initial release
-
