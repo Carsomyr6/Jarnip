@@ -783,8 +783,7 @@ This exceptional leather coat once belonged to Herbert Schwarz, a famous Waterdh
 STATISTICS:
 
 Equipped abilities:
-- Saving Throws: +1
-- Luck: +2 (Swashbucklers)
+- Luck: +1 (+3 for Swashbucklers)
 
 Combat abilities:
 - Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
