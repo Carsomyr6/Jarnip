@@ -535,25 +535,26 @@ Requires:
  15 Wisdom
 
 Weight: 4~
-@216  = ~Moonshade +3~
-@217  = ~Moonblades are legendary longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to accept a new wielder of elven heritage. It retains a powerful enchantment that greatly enhances its wielder's arcane and martial abilities.
+@216  = ~Scourge of the Sky +3~
+@217  = ~Scourge of the Sky is said to have originally belonged to an ancient Tuigan hero who united the fifteen tribes of the Endless Wastes for the first time. Since then, it has passed down through numerous warlords who sought to become the next Khan. Clearly intended only for the most formidable Tuigan archers, this composite longbow is exceptionally sturdy and demands both great strength and skill to wield effectively.
 
 STATISTICS:
 
 Equipped abilities:
-– Saving Throws vs. Spell: +2
-– Spell Casting Speed: +2 (Fighter/Mages)
+– Three shots per round (Archers), one shot per round (others)
 
-THAC0: +3
-Damage: 1d8+3 (slashing), +3 (magic)
-Speed Factor: 2
-Proficiency Type: Longsword
-Type: One-handed
+Combat abilities:
+– The bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +4 to hit and deal 1d6+2 missile damage
+
+THAC0: +4
+Damage: 1d6+2 (missile)
+Speed Factor: 4
+Proficiency Type: Longbow
+Type: Two-handed
 Requires:
- 10 Strength
- 13 Intelligence
+ 19 Strength
 
-Weight: 3~
+Weight: 8~
 @218  = ~Cloak of the Scarlet Abbot~
 @219  = ~Long ago, this cloak was a hereditary artifact worn by the abbots of the Monastery of the Scarlet Rose in Shou Lung. After the monastery was raided and destroyed by the Tuigan Horde, the artifact was thought lost forever. How it eventually found its way to the Sword Coast remains unknown.
 
@@ -623,43 +624,8 @@ Requires:
  8 Strength
 
 Weight: 10~
-@226  = ~Scourge of the Sky +3~
-@227  = ~Scourge of the Sky is said to have originally belonged to an ancient Tuigan hero who united the fifteen tribes of the Endless Wastes for the first time. Since then, it has passed down through numerous warlords who sought to become the next Khan. Clearly intended only for the most formidable Tuigan archers, this composite longbow is exceptionally sturdy and demands both great strength and skill to wield effectively.
-
-STATISTICS:
-
-Equipped abilities:
-– Three shots per round (Archers), one shot per round (others)
-
-Combat abilities:
-– The bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +4 to hit and deal 1d6+2 missile damage
-
-THAC0: +4
-Damage: 1d6+2 (missile)
-Speed Factor: 4
-Proficiency Type: Longbow
-Type: Two-handed
-Requires:
- 19 Strength
-
-Weight: 8~
-@228  = ~Shield of the War-Singer +3~
-@229  = ~The legendary warrior-poet from the Moonshae Isles, Adsiltia the War-Singer, wielded this enchanted buckler during her final battle, when she descended into the frozen depths of Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the buckler survived and eventually found its way back to Toril.
-
-STATISTICS:
-
-Equipped abilities:
-– Armor Class: +4
-– Cold Resistance: +30%
-– Attacks per round: +1 (Skalds)
-– Song effects linger on for 2 additional rounds after the skald stops singing (Skalds)
-
-Requires:
- 6 Strength
-
-Weight: 2~
-@230  = ~Bloodlust +5~
-@231  = ~Cursed Berserking Sword +5: Bloodlust
+@226  = ~Bloodlust +5~
+@227  = ~Cursed Berserking Sword +5: Bloodlust
 
 Waterdhavian parents often tell their children the tale of Bloodlust: a cursed berserking sword with an insatiable desire to murder that ultimately turns on its wielder to quench its thirst for blood. The moral of the story is to never accept unknown magical items from strangers, and the sword was thought to be nothing more than a legend. However, it now lies before you.
 
