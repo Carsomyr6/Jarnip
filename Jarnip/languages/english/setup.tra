@@ -104,17 +104,25 @@ Requires:
  14 Dexterity
 
 Weight: 2~
-@116  = ~Amulet of Spirit Warding~
-@117  = ~Amulets like this are often worn by shamans of the Uthgardt tribes. Each one is said to honor deceased ancestors and strengthen the shaman's connection to the spiritual world. Those nearby often report feeling an eerie sensation, as if the boundary between the material and spiritual worlds becomes thin in the presence of the amulet.
+@116  = ~Moonshade +3~
+@117  = ~Moonblades are legendary longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to accept a new wielder of elven heritage. It retains a powerful enchantment that greatly enhances its wielder's arcane and martial abilities.
 
 STATISTICS:
 
 Equipped abilities:
-– Save vs. Death: +2
-– Spell Casting Speed: +4 (Shamans)
-– Protection from spiritual creatures: The wearer cannot be attacked by Wraiths, Specters, Shadows, Will-O-Wisps, or spectral undead (Shamans)
+– Saving Throws: +1
+– Spell Casting Speed: +2 (Fighter/Mages)
 
-Weight: 1~
+THAC0: +3
+Damage: 1d8+3 (slashing), +1 (magic)
+Speed Factor: 2
+Proficiency Type: Longsword
+Type: One-handed
+Requires:
+ 10 Strength
+ 13 Intelligence
+
+Weight: 3~
 @118  = ~Eye of the Storm +3~
 @119  = ~This obsidian spear is adorned with the symbol of Talos etched just beneath its head. It likely belonged to a senior Talassan stormlord, as its single swing can summon terrifying thunder and rain. You can feel the air electrifying when you hold this fearsome weapon, but its true wrath is only unleashed in battle.
 
