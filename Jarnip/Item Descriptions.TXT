@@ -584,8 +584,8 @@ Price: 40,000 gp
 
 ========
 
-Nethraval's Ardor +3
-The legendary Harper master Nethraval wielded this enchanted dagger during his final battle, when he descended into Cania to rescue his betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the dagger survived and eventually found its way back to Toril.
+Adsiltia's Ardor +3
+The legendary warrior-poet Adsiltia wielded this enchanted dagger during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the dagger survived and eventually found its way back to Toril.
 
 STATISTICS:
 
