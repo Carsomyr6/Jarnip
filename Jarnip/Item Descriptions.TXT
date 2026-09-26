@@ -586,8 +586,27 @@ Price: 40,000 gp
 
 ========
 
-Harper's Gift +3
-This richly adorned off-hand dagger bears the crest of the Harpers and has a large sapphire set into its pommel. It originally belonged to Elminster Aumar, who gifted it to an unnamed Harper agent tasked with infiltrating the Zhentil Keep from within. Although the fate of the Harper remains unknown, the dagger has somehow found its way back to the Sword Coast.
+Nethraval's Ardor +3
+The legendary Harper master Nethraval wielded this enchanted dagger during his final battle, when he descended into Cania to rescue his betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the dagger survived and eventually found its way back to Toril.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Attacks per round: +1 (Bards and Thieves)
+
+Combat abilities:
+– Sapphire Guard: On a critical miss, casts Mirror Image on self
+
+THAC0: +3
+Damage: 1d4+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1
 
 STATISTICS:
 
