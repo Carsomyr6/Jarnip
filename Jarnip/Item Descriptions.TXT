@@ -585,7 +585,7 @@ Price: 40,000 gp
 ========
 
 Adsiltia's Ardor +3
-The legendary warrior-poet Adsiltia wielded this enchanted dagger during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the dagger survived and eventually found its way back to Toril.
+The legendary rogue-knight Adsiltia wielded this enchanted dagger during her final battle, when she descended into Cania to rescue her betrothed from the clutches of Mephistopheles. The outcome of their confrontation remains unknown, but somehow the dagger survived and eventually found its way back to Toril.
 
 STATISTICS:
 
