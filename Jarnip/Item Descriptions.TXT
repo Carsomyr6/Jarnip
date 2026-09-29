@@ -602,7 +602,7 @@ Requires:
 
 Weight: 1
 
-Price: 22,000 gp
+Price: 28,000 gp
 
 ========
 
