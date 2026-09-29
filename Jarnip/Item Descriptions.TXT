@@ -114,7 +114,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +2
-– Critical Hit chance: +5% (Swashbucklers and Blades)
+– Critical Hit chance: +5% (+10% for Swashbucklers and Blades)
 
 Combat abilities:
 – On hit: improves the wielder's Armor Class by 1 for 2 rounds (Swashbucklers)
@@ -125,9 +125,10 @@ Speed Factor: 2
 Proficiency Type: Short Sword / Rapier
 Type: One-handed
 Requires:
- 6 Strength
-
-Weight: 4
+ 5 Strength
+ 14 Dexterity
+ 
+Weight: 2
 
 Price: 12,000 gp
 
