@@ -79,7 +79,7 @@ Equipped abilities:
 
 Weight: 2~
 @114  = ~Herbert's Rapier +2~
-@115  = ~The rapier is a light, thrusting sword often associated with nobles, duelists, and swashbucklers. It is not a common weapon in Baldur's Gate and Amn, where broader and heavier blades are preferred. This particular rapier once belonged to Herbert Schwarz, a renowned Waterdhavian duelist who famously won twenty-one duels against heavily armored knights without ever wearing armor himself.
+@115  = ~The rapier is a light, thrusting sword popular among nobles and swashbucklers. It is not a common weapon in Baldur's Gate and Amn, where broader and heavier blades are preferred. This particular rapier once belonged to Herbert Schwarz, a renowned Waterdhavian duelist who famously won twenty-one duels against heavily armored knights without ever wearing armor himself.
 
 STATISTICS:
 
@@ -93,12 +93,12 @@ Combat abilities:
 THAC0: +2
 Damage: 1d6+3 (piercing)
 Speed Factor: 2
-Proficiency Type: Short Sword
+Proficiency Type: Short Sword / Rapier
 Type: One-handed
 Requires:
  6 Strength
 
-Weight: 3~
+Weight: 4~
 @116  = ~Moonshade +3~
 @117  = ~Moonblades are legendary longswords that were forged in ancient Myth Drannor. They are immensely valuable to the elves and are used in the long process of selecting a ruler for the isle of Evermeet. Normally, a moonblade chooses its owner, but this particular sword seems willing to accept a new wielder of elven heritage. It retains a powerful enchantment that greatly enhances its wielder's arcane and martial abilities.
 
