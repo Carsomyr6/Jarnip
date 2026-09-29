@@ -53,14 +53,11 @@ This longbow is a masterpiece of Elven craftsmanship. It once belonged to Elaine
 
 STATISTICS:
 
-Equipped abilities:
-- +2 THAC0 and damage, +1 attack speed factor (Fighter/Mages)
-
 Combat abilities:
-- When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6 missile and 1d3 magic damage
+– When no arrows are equipped, the bow fires missiles that are treated as +3 for the purposes of determining what enemies they can damage. The missiles receive +3 to hit and deal 1d6 missile and 1 magic damage. Fighter/Mages receive an additional +2 to hit and +3 missile damage
 
-THAC0: +3
-Damage: 1d6 (missile), +1d3 (magic)
+THAC0: +3, +2 (Fighter/Mages)
+Damage: 1d6 (missile), +1 (magic), +3 (Fighter/Mages)
 Speed Factor: 4
 Proficiency Type: Longbow
 Type: Two-handed
@@ -70,7 +67,7 @@ Requires:
 
 Weight: 3
 
-Price: 18,000 gp
+Price: 20,000 gp
 
 ========
 
