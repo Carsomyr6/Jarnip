@@ -735,12 +735,6 @@ Equipped abilities:
 – Physical Damage Resistance: +25% (Red Dragon Disciples)
 – Fire Damage dealt by the wearer: +20% (Red Dragon Disciples)
 
-Charge abilities:
-– Casts Dragon Breath once per day
- Damage: 20d10 (Save vs. Breath for half)
- Area: 15-ft. radius
- Does not harm party members
-
 Weight: 3
 
 Price: 30,000 gp
