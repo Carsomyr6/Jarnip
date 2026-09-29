@@ -108,7 +108,7 @@ Price: 15,000 gp
 ==========
 
 Herbert's Rapier +2
-The rapier is a light, thrusting sword often associated with nobles, duelists, and swashbucklers. It is not a common weapon in Baldur's Gate and Amn, where broader and heavier blades are preferred. This particular rapier once belonged to Herbert Schwarz, a renowned Waterdhavian duelist who famously won twenty-one duels against heavily armored knights without ever wearing armor himself.
+The rapier is a light, thrusting sword popular among nobles and swashbucklers. It is not a common weapon in Baldur's Gate and Amn, where broader and heavier blades are preferred. This particular rapier once belonged to Herbert Schwarz, a renowned Waterdhavian duelist who famously won twenty-one duels against heavily armored knights without ever wearing armor himself.
 
 STATISTICS:
 
@@ -122,12 +122,12 @@ Combat abilities:
 THAC0: +2
 Damage: 1d6+3 (piercing)
 Speed Factor: 2
-Proficiency Type: Short Sword
+Proficiency Type: Short Sword / Rapier
 Type: One-handed
 Requires:
  6 Strength
 
-Weight: 3
+Weight: 4
 
 Price: 12,000 gp
 
