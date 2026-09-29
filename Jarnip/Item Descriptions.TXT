@@ -549,7 +549,7 @@ Requires:
 
 Weight: 3
 
-Price: 25,000 gp
+Price: 35,000 gp
 
 ========
 
@@ -602,7 +602,7 @@ Requires:
 
 Weight: 1
 
-Price: 28,000 gp
+Price: 25,000 gp
 
 ========
 
@@ -648,7 +648,7 @@ Requires:
 
 Weight: 15
 
-Price: 30,000 gp
+Price: 32,000 gp
 
 ========
 
