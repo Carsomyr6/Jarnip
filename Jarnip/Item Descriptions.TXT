@@ -438,7 +438,7 @@ Equipped abilities:
 
 Weight: 2
  
-Price: 12,000 gp
+Price: 14,000 gp
 
 =======
 
