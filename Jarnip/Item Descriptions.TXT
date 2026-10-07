@@ -433,12 +433,12 @@ STATISTICS:
 
 Equipped abilities:
 - Armor Class: +1
-- Melee THAC0: +1 (+2 for Swashbucklers and Blades)
-- Melee Critical Hit chance: +5% (Swashbucklers and Blades)
+- Melee THAC0: +1 (+2 for Swashbucklers)
+- Melee Critical Hit chance: +5% (Swashbucklers)
 
 Weight: 2
  
-Price: 14,000 gp
+Price: 12,000 gp
 
 =======
 
