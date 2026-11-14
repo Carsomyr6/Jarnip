@@ -192,7 +192,9 @@ STATISTICS:
 
 Equipped abilities:
 - Protects against critical hits
-- The wearer is under a permanent state of magical alcohol intoxication. It grants +3 to Armor Class and +1 to THAC0 and Damage when attacking with fists. It has no negative impact on Luck or Saving Throws (Monks)
+- Armor Class: +3 (Monks)
+- THAC0 and Damage when attacking with fists: +1 (Monks)
+- The wearer is under a permanent state of magical alcohol intoxication. It has no negative impact on Luck or Saving Throws (Monks)
 
 Weight: 3
 
