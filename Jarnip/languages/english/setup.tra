@@ -420,7 +420,7 @@ Equipped abilities:
 – Characters of Good or Neutral alignment are slain upon equipping this sword
 
 Combat abilities:
-– Touch of Terror: On hit, inflicts a -2 penalty to the target's THAC0 and Saving Throws for 2 rounds. This effect does not stack. On each hit, the target must Save vs. Death or become panicked for 3 rounds (Blackguards)
+– Touch of Terror: On hit, inflicts a -2 penalty to the target's THAC0 and Saving Throws for 2 rounds. This penalty does not stack. On each hit, the target must Save vs. Death or become panicked for 3 rounds (Blackguards)
 
 THAC0: +4 
 Damage: 2d4+4 (slashing), +2d4 (fire)
@@ -505,7 +505,7 @@ Equipped abilities:
 - Physical Damage Resistance: +10% (+20% for Dwarven Defenders)
 
 Combat abilities:
-- Unyielding Assault: Each hit heals the wielder for 5 Hit Points. This will not heal beyond the wielder's maximum
+- Unyielding Assault: Each hit heals the wielder for 5 Hit Points. This effect cannot heal the wielder beyond their maximum Hit Points
 
 THAC0: +4
 Damage: 1d10+4 (slashing)
@@ -615,7 +615,7 @@ Equipped abilities:
 – Luck: +3 (Swashbucklers)
 
 Combat abilities:
-– Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary hit points, +4 to Armor Class, and +4 to Saving Throws for 1 round
+– Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary Hit Points, +4 to Armor Class, and +4 to Saving Throws for 1 round
 
 Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 0 (Swashbucklers)
 Requires:
