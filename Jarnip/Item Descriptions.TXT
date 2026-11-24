@@ -387,7 +387,7 @@ Price: 10,000 gp
 =========
 
 Silver Watch +2
-The blade of this finely decorated halberd has gold-plated edges and is forged from shiny, polished steel. It was commissioned by the Grand Dukes of Baldur's Gate for the captain of the Flaming Fist's Honor Guard. Although forged for ceremonial purposes, the halberd is also lethal in combat. Its unusually long shaft and spike at the top allow the wielder to keep enemies at bay and stagger them with precise strikes. It is a beautiful weapon, equally suited for the battlefield and grand military parades.
+The blade of this finely decorated halberd has gold-plated edges and is forged from shiny, polished steel. It was commissioned by the Grand Dukes of Baldur's Gate for the captain of the Flaming Fist's Honor Guard. Although forged for ceremonial purposes, the halberd is also lethal in combat. Its unusually long shaft and pointed head allow the wielder to keep enemies at bay and stagger them with precise strikes. It is a beautiful weapon, equally suited for the battlefield and grand military parades.
 
 STATISTICS:
 
