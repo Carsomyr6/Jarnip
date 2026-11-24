@@ -89,7 +89,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +2
-– Critical Hit chance: +5%
+– Critical Hit Chance: +5%
 
 Combat abilities:
 – On hit: improves the wielder's Armor Class by 1 for 2 rounds (Swashbucklers)
@@ -182,7 +182,7 @@ Weight: 6~
 STATISTICS:
 
 Equipped abilities:
-– Attacks per round: +1/2 (+1 for Kensai)
+– Attacks per Round: +1/2 (+1 for Kensai)
 
 Combat abilities:
 – For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai)
@@ -285,7 +285,7 @@ Weight: 20~
 STATISTICS:
 
 Equipped abilities:
-– Attacks per round: +1/2
+– Attacks per Round: +1/2
 – Resistance to Slashing, Piercing, and Crushing Damage: +10% (Dwarven Defenders)
 
 THAC0: +2
@@ -376,7 +376,7 @@ Weight: 3~
 STATISTICS:
 
 Equipped abilities:
-– Attacks per round: +1/2 (Berserkers and Barbarians)
+– Attacks per Round: +1/2 (Berserkers and Barbarians)
 
 Combat abilities:
 – Cleave: 33% chance on hit to deal an additional 1d12+2 slashing damage to all enemies within 3 ft. in front of the wielder
@@ -445,7 +445,7 @@ Equipped abilities:
 – Constitution: +1
 
 Combat abilities:
-– Heroic Inspiration: While enraged, increases Critical Hit chance by 10% and grants an extra attack per round
+– Heroic Inspiration: While enraged, increases Critical Hit Chance by 10% and grants an extra attack per round
 – Furious Strikes: On a critical hit, knocks the target back for 1 round
 
 THAC0: +5
@@ -567,7 +567,7 @@ STATISTICS:
 
 Equipped abilities:
 – Hit Points: +10
-– Attacks per round: +1 (Monks)
+– Attacks per Round: +1 (Monks)
 
 Combat abilities:
 – Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
