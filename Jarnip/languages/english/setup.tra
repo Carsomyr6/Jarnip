@@ -420,7 +420,7 @@ Equipped abilities:
 – Characters of Good or Neutral alignment are slain upon equipping this sword
 
 Combat abilities:
-– Touch of Terror: Each successful hit inflicts a -2 penalty to the target's THAC0 and Saving Throws for 2 rounds. This effect does not stack. On each hit, the target must Save vs. Death or become panicked for 3 rounds (Blackguards)
+– Touch of Terror: On hit, inflicts a -2 penalty to the target's THAC0 and Saving Throws for 2 rounds. This effect does not stack. On each hit, the target must Save vs. Death or become panicked for 3 rounds (Blackguards)
 
 THAC0: +4 
 Damage: 2d4+4 (slashing), +2d4 (fire)
