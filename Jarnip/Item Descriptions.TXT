@@ -662,7 +662,7 @@ Price: 32,000 gp
 ========
 
 Grace of Eldath +5
-During one of the wars between Rashemen and Thay, a young vychlaran found herself wounded in Ashenwood, being pursued by Thayan mercenaries. When all hope seemed lost, she noticed a green, feminine hand emerging from a nearby pond, holding what appeared to be a wooden branch. The branch turned out to be an enchanted staff, which enabled her to escape her pursuers and safely return to Mulsantir. Whether the legend is true or not, it is almost certain that this staff has been blessed by the Green Goddess herself.
+During one of the wars between Rashemen and Thay, a young vychlaran found herself wounded in Ashenwood, being pursued by Thayan mercenaries. When all hope seemed lost, she noticed a green, feminine hand emerging from a nearby pond, holding what appeared to be a wooden branch. The branch turned out to be an enchanted staff, which enabled her to escape her pursuers and safely return to Mulsantir. Whether or not the legend is true, this staff has almost certainly been blessed by the Green Goddess herself.
 
 STATISTICS:
 
