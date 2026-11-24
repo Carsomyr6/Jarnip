@@ -316,26 +316,20 @@ Price: 8,000 gp
 
 ==========
 
-The Spellbreaker +3
-Rumors have it that dwarven miners from ancient Bhaerynden once discovered a unique metal ore with innate antimagic properties. From the ore, dwarven smiths crafted a handful of relics entrusted to dwarven warriors tasked with hunting Drow archmages. This axe was one such relic, and the strange metal from which it was forged allows a skilled warrior to shatter the magical protections of even the most powerful wizard.
+Spellbane +2
+Rumors have it that dwarven miners from ancient Bhaerynden once discovered a unique ore with innate antimagic properties. From this ore, dwarven smiths crafted a handful of relics entrusted to warriors tasked with hunting Drow archmages. This shield was one such relic, and it is said to possess an enchantment that reflects attempts to dispel its wielder's magical protections back upon those who cast them. More than one arrogant Drow archmage has discovered too late that the safest target for a dispelling spell is not always the warrior carrying Spellbane.
 
 STATISTICS:
 
 Equipped abilities:
-– Magic Resistance: +10% (+20% for Wizard Slayers)
+- Armor Class: +3
+- Magic Resistance: +10% (+20% for Wizard Slayers)
+- Reflects Dispel Magic effects back at their caster (Wizard Slayers)
 
-Combat abilities:
-– On hit: Removes all magical protections from the target (Wizard Slayers)
-
-THAC0: +3
-Damage: 1d8+3 (slashing)
-Speed Factor: 4
-Proficiency Type: Axe
-Type: One-handed
 Requires:
  4 Strength
 
-Weight: 4
+Weight: 3
 
 Price: 23,500 gp
 
