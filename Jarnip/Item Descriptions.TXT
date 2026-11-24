@@ -236,7 +236,7 @@ The blade of this katana is forged from a rippling, wave-patterned steel. It is 
 STATISTICS:
 
 Equipped abilities:
-- Attacks per round: +1/2 (+1 for Kensai)
+- Attacks per Round: +1/2 (+1 for Kensai)
 
 Combat abilities:
 - For 10 seconds after activating Kai, the chance to score a critical hit increases by 10% (Kensai)
@@ -490,7 +490,7 @@ When the first settlements of the Ten Towns were established some three hundred 
 STATISTICS:
 
 Equipped abilities:
-– Attacks per round: +1/2 (Berserkers and Barbarians)
+– Attacks per Round: +1/2 (Berserkers and Barbarians)
 
 Combat abilities:
 – Cleave: 33% chance on hit to deal an additional 1d12+2 slashing damage to all enemies within 3 ft. in front of the wielder
@@ -596,7 +596,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +2
-– Attacks per round: +1 (Bards and Thieves)
+– Attacks per Round: +1 (Bards and Thieves)
 
 Combat abilities:
 – Sapphire Guard: On a critical miss, casts Mirror Image on self
@@ -722,7 +722,7 @@ STATISTICS:
 
 Equipped abilities:
 - Hit Points: +10
-- Attacks per round: +1 (Monks)
+- Attacks per Round: +1 (Monks)
 
 Combat abilities:
 - Scarlet Palm: Each successful melee hit with fists has a 25% chance to stun the target for 1 round (save vs. Spell negates)
