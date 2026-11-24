@@ -322,11 +322,11 @@ Rumors have it that dwarven miners from ancient Bhaerynden once discovered a uni
 STATISTICS:
 
 Equipped abilities:
-- Armor Class: +3
-- Magic Resistance: +10% (+20% for Wizard Slayers)
+– Magic Resistance: +10% (+20% for Wizard Slayers)
+– Armor Class: +3
 
 Combat abilities:
-- Reflects Dispel Magic effects back at their caster (Wizard Slayers)
+– Reflects Dispel Magic effects back at their caster (Wizard Slayers)
 
 Requires:
  4 Strength
