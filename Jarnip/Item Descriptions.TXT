@@ -102,7 +102,7 @@ STATISTICS:
 Equipped abilities:
 - Weapon Speed Factor: +1
 - Visual Range: +2 (+4 for Stalkers)
-- Attacks per round: +1/2 (Stalkers)
+- Attacks per Round: +1/2 (Stalkers)
 - Protects against critical hits
 
 Weight: 2
@@ -369,7 +369,7 @@ This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender
 STATISTICS:
 
 Equipped abilities:
-– Attacks per round: +1/2
+– Attacks per Round: +1/2
 – Resistance to Slashing, Piercing, and Crushing Damage: +10% (Dwarven Defenders)
 
 THAC0: +2
