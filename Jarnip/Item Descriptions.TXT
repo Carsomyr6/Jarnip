@@ -30,7 +30,7 @@ Price: 25,000 gp
 ========
 
 Gilded Bulwark +2
-This armor was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was shortly after slain by a gibberling. Though it reeks of vanity, this armor offers exceptional protection, provided its new owner has the strength to wear it.
+This armor was commissioned at great expense by Sir Alrond, a wealthy nobleman from Athkatla who bribed his way into the ranks of the Order of the Radiant Heart. Eager to flaunt his newly acquired title, Alrond ordered an extraordinary suit of armor that no other knight could match. The result is indeed a masterpiece: ornate, intricate, and gleaming, this armor is virtually immune to enemy blows. Unfortunately, due to its complexity, it was also too heavy for Alrond to wear. Humiliated and financially ruined, he was forced to sell the plate and was soon slain by a gibberling. Though it reeks of vanity, this armor offers exceptional protection, provided its new owner has the strength to wear it.
 
 STATISTICS:
 
