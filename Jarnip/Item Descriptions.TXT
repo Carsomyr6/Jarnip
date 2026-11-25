@@ -592,7 +592,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +2
-– Attacks per Round: +1 (Bards and Thieves)
+– Attacks per Round: +1 (Thieves)
 
 Combat abilities:
 – Sapphire Guard: On a critical miss, casts Mirror Image on self
