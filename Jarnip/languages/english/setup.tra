@@ -136,7 +136,7 @@ Combat abilities:
 – Attacks change local weather to thunderstorm
 
 THAC0: +3
-Damage: 1d8+3 (piercing), +1d4 (electrical)
+Damage: 1d8+3 (piercing), +1d4+1 (electrical)
 Speed Factor: 3
 Proficiency Type: Spear
 Type: Two-handed
