@@ -619,7 +619,7 @@ STATISTICS:
 Equipped abilities:
 - Armor Class: +4
 - Saving Throws: +2
-- Aura of Protection: Nearby allies receive +1 to Armor Class and +1 to all Saving Throws (Paladins)
+- Aura of Protection: Nearby allies receive +2 to Armor Class and +1 to all Saving Throws (Paladins)
 
 Requires:
  10 Strength
@@ -783,7 +783,7 @@ Equipped abilities:
 Combat abilities:
 - Avoid Death: When the wearer's Hit Points fall below 10%, grants 15 temporary Hit Points, +4 to Armor Class, and +4 to Saving Throws for 1 round
 
-Armor Class: 2 (0 vs. slashing, 1 vs. piercing and missile), 0 (Swashbucklers)
+Armor Class: 2 (-2 vs. slashing, -1 vs. piercing and missile), 0 (Swashbucklers)
 Requires:
  8 Strength
 
