@@ -759,14 +759,14 @@ Combat abilities:
 – Dance of Death: On a successful backstab, the target must Save vs. Death at -2 or die (Shadowdancers)
 
 THAC0: +3
-Damage: 1d6+3 (piercing)
+Damage: 1d4+3 (piercing)
 Speed Factor: 0
-Proficiency Type: Short Sword
+Proficiency Type: Dagger
 Type: One-handed
 Requires:
  5 Strength
 
-Weight: 2
+Weight: 1
 
 Price: 26,000 gp
 
