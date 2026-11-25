@@ -126,7 +126,7 @@ Combat abilities:
 THAC0: +2
 Damage: 1d6+3 (piercing)
 Speed Factor: 2
-Proficiency Type: Short Sword
+Proficiency Type: Short Sword / Rapier
 Type: One-handed
 Requires:
  5 Strength
