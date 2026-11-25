@@ -343,7 +343,7 @@ This heavy stone hammer once belonged to Korgunth Ironwarden, a dwarven defender
 STATISTICS:
 
 Combat abilities:
-– On hit: Reduces the target's Armor Class by 2 for 1 round (Dwarven Defenders)
+– On hit: Reduces the target's Crushing Damage Resistance by 5% for 1 round (Dwarven Defenders)
 
 THAC0: +2
 Damage: 2d4+3 (crushing), extra 2d4+3 vs. goblins, orcs, and giants
