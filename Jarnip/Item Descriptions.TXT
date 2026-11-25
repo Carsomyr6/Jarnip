@@ -171,7 +171,7 @@ Equipped abilities:
 - Electricity Damage: +15% (Druids)
 
 Combat abilities:
-- On hit: 15% chance to cast Call Lightning on the target (4d8 damage, save vs. spell for half)
+- On hit: 15% chance to call down a bolt of lightning on the target (4d8 damage, save vs. spell for half)
 - Attacks change local weather to thunderstorm
 
 THAC0: +3
